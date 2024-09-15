@@ -420,7 +420,7 @@ if(buttonActiv):
     if(st.session_state['classe2']==select):
         class2obj=''
     else:
-        class2obj=st.session_state['classe2']
+        class2obj=st.session_state['classe2'].split()[-1]
         
     # st.write(st.session_state['nom'])
     # st.write(st.session_state['race'])
@@ -442,7 +442,7 @@ if(buttonActiv):
                             stats=[], pvs=[], 
                             race=st.session_state['race'], subrace=st.session_state['sousrace'], 
                             class1=st.session_state['classe1'].split()[-1], lvl1=int(st.session_state['lvl1']),
-                            class2=class2obj.split()[-1], lvl2=int(st.session_state['lvl2']),
+                            class2=class2obj, lvl2=int(st.session_state['lvl2']),
                             background=str.lower(dfBG.iloc[ listBG_EnFr.index(st.session_state['historique']) ]['background']) , 
                             feats = listDonsInput ,
                             fileName = 'newFile')
