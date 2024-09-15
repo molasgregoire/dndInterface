@@ -414,8 +414,8 @@ buttonActiv = st.button('Il y a toutes les informations (minimales) necessaire p
 if(buttonActiv):
     st.write('BINGO')
     
-    if(st.session_state['classe2']==select):
-        st.session_state['classe2']=''
+    # if(st.session_state['classe2']==select):
+    #     st.session_state['classe2']=''
         
     if(st.session_state['classe2']==select):
         class2obj=''
