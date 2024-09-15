@@ -191,7 +191,7 @@ def buildCharacterV1( nomPerso, stats, pvs, race, subrace, class1,lvl1, class2,l
     
     
     ### FEATS
-    dfFeat = pd.read_csv('./Feats/featTable.csv',index_col=0).fillna('')
+    dfFeat = pd.read_csv('./feats/featTable.csv',index_col=0).fillna('')
     dfJson = ajoutText( dfJson ,  'FeatHeader' , '===== DONS/FEATS =====', 'Feat', '' , '' , flag = 0 )
   
     
@@ -362,7 +362,7 @@ st.selectbox(
 
 #%% Dons
 
-dfFeat = loadDataFrame('./Feats/featTable.csv')
+dfFeat = loadDataFrame('./feats/featTable.csv')
 
 listFeat_EnFr = []
 
