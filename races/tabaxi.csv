@@ -1,0 +1,22 @@
+,race,subrace,section,content
+0,tabaxi,tabaxi,Ability Score Increase,"Your Dexterity score increases by 2, and your Charisma score increases by 1."
+1,tabaxi,tabaxi,Age,Tabaxi have lifespans equivalent to humans.
+2,tabaxi,tabaxi,Alignment,"Tabaxi tend toward chaotic alignments, as they let impulse and fancy guide their decisions. They are rarely evil, with most of them driven by curiosity rather than greed or other dark impulses."
+3,tabaxi,tabaxi,Size,"Tabaxi are taller on average than humans and relatively slender. Your size is Medium. Your height is 4'10"" with a modifier of +2d10. Your weight is 90 lbs. with a modifier of +(height roll) x 2d4."
+4,tabaxi,tabaxi,Speed,Your base walking speed is 30 feet.
+5,tabaxi,tabaxi,Darkvision,"You have a cat's keen senses, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+6,tabaxi,tabaxi,Feline Agility,"Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns."
+7,tabaxi,tabaxi,Cat's Claws,"Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+8,tabaxi,tabaxi,Cat's Talents:,You have proficiency in the Perception and Stealth skills.
+9,tabaxi,tabaxi,Languages,"You can speak, read, and write Common and one other language of your choice."
+10,tabaxi,Tabaxi MPMM,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+11,tabaxi,Tabaxi MPMM,Age,Tabaxi have lifespans equivalent to humans.
+12,tabaxi,Tabaxi MPMM,Alignment,"Tabaxi tend toward chaotic alignments, as they let impulse and fancy guide their decisions. They are rarely evil, with most of them driven by curiosity rather than greed or other dark impulses."
+13,tabaxi,Tabaxi MPMM,Size,You are Medium or Small. You choose the size when you select this race.
+14,tabaxi,Tabaxi MPMM,Speed,"Your walking speed is 30 feet, and you have a climbing speed equal to your walking speed."
+15,tabaxi,Tabaxi MPMM,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+16,tabaxi,Tabaxi MPMM,Feline Agility,"Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns."
+17,tabaxi,Tabaxi MPMM,Cat's Claws,"You can use your claws to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
+18,tabaxi,Tabaxi MPMM,Cat's Talents:,You have proficiency in the Perception and Stealth skills.
+19,tabaxi,Tabaxi MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+20,tabaxi,Tabaxi MPMM,Cat's Talent,You have proficiency in the Perception and Stealth skills.

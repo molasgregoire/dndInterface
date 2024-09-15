@@ -1,0 +1,20 @@
+,race,subrace,section,content
+0,changeling,changeling,Ability Score Increase,"Your Charisma score increases by 2. In addition, one ability score of your choice increases by 1."
+1,changeling,changeling,Age,"Changelings mature slightly faster than humans but share a similar lifespan-typically a century or less. While a changeling can transform to conceal their age, the effects of aging affect them similarly to humans."
+2,changeling,changeling,Alignment,"Changelings tend toward pragmatic neutrality, and few changelings embrace evil."
+3,changeling,changeling,Size,"Your size is Medium. To set your height and weight randomly, start with rolling a size modifier: Size modifier = 2d4 Height = 5 feet + 1 inch + your size modifier in inches Weight in pounds = 115 + (2d4 x your size modifier)"
+4,changeling,changeling,Speed,Your base walking speed is 30 feet.
+5,changeling,changeling,Shapechanger,"As an action, you can change your appearance and your voice. You determine the specifics of
+the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of a creature you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait."
+6,changeling,changeling,Changeling Instincts,"You gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, and Persuasion."
+7,changeling,changeling,Languages,"You can speak, read, and write Common and two other languages of your choice."
+8,changeling,Changeling MPMM,Ability Score Increase,"Your Charisma score increases by 2. In addition, one ability score of your choice increases by 1."
+9,changeling,Changeling MPMM,Age,"Changelings mature slightly faster than humans but share a similar lifespan-typically a century or less. While a changeling can transform to conceal their age, the effects of aging affect them similarly to humans."
+10,changeling,Changeling MPMM,Alignment,"Changelings tend toward pragmatic neutrality, and few changelings embrace evil."
+11,changeling,Changeling MPMM,Size,You are Medium or Small. You choose the size when you select this race.
+12,changeling,Changeling MPMM,Speed,30 ft.
+13,changeling,Changeling MPMM,Shapechanger,"As an action, you change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair, length, and sex. You can also adjust your height between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait."
+14,changeling,Changeling MPMM,Changeling Instincts,"Thanks to your connection to the fey realm, you gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, Performance, or Persuasion."
+15,changeling,Changeling MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+16,changeling,Changeling MPMM,Ability Scores,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+17,changeling,Changeling MPMM,Creature Type,You are a Fey.

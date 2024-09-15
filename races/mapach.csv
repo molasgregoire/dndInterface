@@ -1,0 +1,11 @@
+,race,subrace,section,content
+0,mapach,mapach,Age,"Mapachs mature quickly, reaching adulthood around 8 years. Despite this they have fairly average lifespans, the oldest among them living just past 60 years."
+1,mapach,mapach,Alignment,"Mapachs don’t favor good over evil, with most choosing to remain neutral. They also lean towards the freedom of chaotic alignments."
+2,mapach,mapach,Size,"Mapachs stand between 4 and 5 feet tall, and encompass a variety of builds from svelt to wide, weighing between 90 and 160 pounds. Your size is Medium."
+3,mapach,mapach,Speed,Your base walking speed is 30 feet.
+4,mapach,mapach,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+5,mapach,mapach,Expert Climbers,You have a climb speed of 20 feet.
+6,mapach,mapach,Resilience,You have advantage on saving throws against poison and resistance against poison damage.
+7,mapach,mapach,Scroungecraft,"You are proficient with tinker’s tools. Additionally, you have the ability to construct crude but functional versions of common items using materials present in your surroundings. You may spend 10 minutes to craft these materials into any tool or piece of adventuring gear worth 30 gold pieces or less. The item will be completely functional, even capable of passing for a disguise (if you crafted an article of clothing). Tools, along with any other item that would logically break on its first use (caltrops, arrows), will become useless afterward. Scroungecrafted items will otherwise last 1 hour before falling apart."
+8,mapach,mapach,Skulker,You have advantage on Stealth checks made in dim light and darkness.
+9,mapach,mapach,Languages,"You can speak, read, and write Birdfolk and Mapach."

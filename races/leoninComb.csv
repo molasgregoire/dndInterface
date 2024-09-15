@@ -1,0 +1,73 @@
+,race,subrace,section,content,race FR,subrace FR,section FR,content FR
+0,leonin,leonin,Ability Score Increase,"Your Constitution score increases by 2, and your Strength score increases by 1.",léonine,léonine,Augmentation du score de capacité,Votre score de Constitution augmente de 2 et votre score de Force augmente de 1.
+1,leonin,leonin,Age,"Leonin mature and age at about the same rate
+as humans.",léonine,léonine,Âge,"Les Léonins mûrissent et vieillissent à peu près au même rythme
+que les humains."
+2,leonin,leonin,Alignment,Leonin tend toward good alignments. Leonin who are focused on the pride lean toward lawful good.,léonine,léonine,Alignement,Les Léonins ont tendance à se diriger vers les bons alignements. Les Léonins qui se concentrent sur l'orgueil penchent vers le bien loyal.
+3,leonin,leonin,Size,"Leonin are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium.",léonine,léonine,Taille,"Les Léonins mesurent généralement plus de 1,80 m, et certains mesurent plus de 2,10 m. Votre taille est M."
+4,leonin,leonin,Speed,Your base walking speed is 35 feet.,léonine,léonine,Vitesse,Votre vitesse de marche de base est de 35 pieds.
+5,leonin,leonin,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",léonine,léonine,Vision dans le noir,"Vous pouvez voir dans une faible lumière à moins de 20 mètres de vous comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une faible lumière. Vous ne pouvez pas distinguer les couleurs dans l'obscurité, seulement les nuances de gris."
+6,leonin,leonin,Claws,"Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.",léonine,léonine,Griffes,"Vos griffes sont des armes naturelles que vous pouvez utiliser pour effectuer des attaques à mains nues. Si vous frappez avec elles, vous pouvez infliger des dégâts tranchants égaux à 1d4 + votre modificateur de Force, au lieu des dégâts contondants normaux pour une attaque à mains nues."
+7,leonin,leonin,Hunter's Instincts,"You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival.",léonine,léonine,Instincts du chasseur,"Vous maîtrisez l’une des compétences suivantes, de votre choix : Athlétisme, Intimidation, Perception ou Survie."
+8,leonin,leonin,Daunting Roar,"As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest.",léonine,léonine,Rugissement effrayant,"En tant qu'action bonus, vous pouvez émettre un rugissement particulièrement menaçant. Les créatures de votre choix situées à 3 mètres ou moins de vous et qui peuvent vous entendre doivent réussir un jet de sauvegarde de Sagesse ou avoir peur de vous jusqu'à la fin de votre prochain tour. Le DD du jet de sauvegarde est égal à 8 + votre bonus de maîtrise + votre modificateur de Constitution. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou long."
+9,leonin,leonin,Languages,"You can speak, read, and write Common and Leonin.",léonine,léonine,Langues,"Vous pouvez parler, lire et écrire le commun et le léonin."
+10,leonin,Leonin And The Gods,Ability Score Increase,"Your Constitution score increases by 2, and your Strength score increases by 1.",léonine,Léonine et les dieux,Augmentation du score de capacité,Votre score de Constitution augmente de 2 et votre score de Force augmente de 1.
+11,leonin,Leonin And The Gods,Age,"Leonin mature and age at about the same rate
+as humans.",léonine,Léonine et les dieux,Âge,"Les Léonins mûrissent et vieillissent à peu près au même rythme
+que les humains."
+12,leonin,Leonin And The Gods,Alignment,Leonin tend toward good alignments. Leonin who are focused on the pride lean toward lawful good.,léonine,Léonine et les dieux,Alignement,Les Léonins ont tendance à se diriger vers les bons alignements. Les Léonins qui se concentrent sur l'orgueil penchent vers le bien loyal.
+13,leonin,Leonin And The Gods,Size,"Leonin are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium.",léonine,Léonine et les dieux,Taille,"Les Léonins mesurent généralement plus de 1,80 m, et certains mesurent plus de 2,10 m. Votre taille est M."
+14,leonin,Leonin And The Gods,Speed,Your base walking speed is 35 feet.,léonine,Léonine et les dieux,Vitesse,Votre vitesse de marche de base est de 35 pieds.
+15,leonin,Leonin And The Gods,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",léonine,Léonine et les dieux,Vision dans le noir,"Vous pouvez voir dans une faible lumière à moins de 20 mètres de vous comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une faible lumière. Vous ne pouvez pas distinguer les couleurs dans l'obscurité, seulement les nuances de gris."
+16,leonin,Leonin And The Gods,Claws,"Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.",léonine,Léonine et les dieux,Griffes,"Vos griffes sont des armes naturelles que vous pouvez utiliser pour effectuer des attaques à mains nues. Si vous frappez avec elles, vous pouvez infliger des dégâts tranchants égaux à 1d4 + votre modificateur de Force, au lieu des dégâts contondants normaux pour une attaque à mains nues."
+17,leonin,Leonin And The Gods,Hunter's Instincts,"You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival.",léonine,Léonine et les dieux,Instincts du chasseur,"Vous maîtrisez l’une des compétences suivantes, de votre choix : Athlétisme, Intimidation, Perception ou Survie."
+18,leonin,Leonin And The Gods,Daunting Roar,"As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest.",léonine,Léonine et les dieux,Rugissement effrayant,"En tant qu'action bonus, vous pouvez émettre un rugissement particulièrement menaçant. Les créatures de votre choix situées à 3 mètres ou moins de vous et qui peuvent vous entendre doivent réussir un jet de sauvegarde de Sagesse ou avoir peur de vous jusqu'à la fin de votre prochain tour. Le DD du jet de sauvegarde est égal à 8 + votre bonus de maîtrise + votre modificateur de Constitution. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou long."
+19,leonin,Leonin And The Gods,Languages,"You can speak, read, and write Common and Leonin.",léonine,Léonine et les dieux,Langues,"Vous pouvez parler, lire et écrire le commun et le léonin."
+20,leonin,Leonin And The Gods,,"
+d6
+Attitude
+
+
+1
+I'm amused by the antics of the gods and their earnest, but ultimately deluded, mortal champions, and I feel smugly superior in my detachment.
+
+
+2
+The meddling of the gods in mortal affairs makes me angry and bitter. I wish they would just leave us all alone!
+
+
+3
+I view the gods as worthy adversaries-incredibly clever and well-prepared to play a long game but ultimately doomed to lose their games.
+
+
+4
+I'm certain every bad thing that happens can ultimately be blamed on the gods, but I roll my eyes at each new twist of fate and try to get on with my life.
+
+
+5
+I wish that I could be as naive as humans and other mortals who actually think the gods are looking out for them. I miss that kind of innocence.
+
+
+6
+I don't talk about it among other leonin, but I actually revere the gods and try to please them by my actions.
+
+",léonine,Léonine et les dieux,,"d6
+Attitude
+
+1
+Je suis amusé par les facéties des dieux et de leurs champions mortels sérieux, mais finalement trompés, et je me sens supérieur dans mon détachement.
+
+2
+L'ingérence des dieux dans les affaires des mortels me met en colère et me rend amer. J'aimerais qu'ils nous laissent tranquilles !
+
+3
+Je considère les dieux comme des adversaires dignes d'intérêt, incroyablement intelligents et bien préparés à jouer un jeu de longue haleine, mais finalement condamnés à perdre leurs parties.
+
+4
+Je suis certain que tout ce qui se passe de mal peut être imputé aux dieux, mais je lève les yeux au ciel à chaque nouveau coup du sort et j'essaie de continuer ma vie.
+
+5
+J'aimerais pouvoir être aussi naïf que les humains et les autres mortels qui pensent réellement que les dieux veillent sur eux. Ce genre d'innocence me manque.
+
+6
+Je n'en parle pas aux autres léonins, mais je vénère les dieux et j'essaie de leur plaire par mes actions."

@@ -1,0 +1,40 @@
+,race,subrace,section,content
+0,strig,strig,Ability Score Increase,Your Strength score increases by 2.
+1,strig,strig,Age,"Strigs reach maturity faster than most birdfolk races, around 15 years. They can reach a respectable old age by birdfolk standards, living around 80 years."
+2,strig,strig,Alignment,"Strigs are normally good aligned, having a strong sense of fair play as well as a tendency to see the best in others. They also favor chaotic alignments, as strigs are a freedom-loving people who will usually put their personal morals above any imposed system of governance."
+3,strig,strig,Size,"Strigs are muscular, imposing folk ranging from 4 to over 5 feet tall and weighing around 110 pounds. Your size is Medium."
+4,strig,strig,Speed,Your base walking speed is 30 feet.
+5,strig,strig,Glide,"Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered."
+6,strig,strig,Talons,"Your sharp claws aid you in unarmed combat and while climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip."
+7,strig,strig,Darkvision,"You are adept at hunting under the cover of night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+8,strig,strig,Patterned Feathers,You have advantage on Dexterity (Stealth) checks when you attempt to hide in a forest.
+9,strig,strig,Languages,"You can speak, read, and write Birdfolk. You can also understand Auran, though you cannot speak it naturally"
+10,strig,strig,Subrace,There are two main subraces of strigs: swift and stout. Choose one of these subraces.
+11,strig,Stout Strig,Ability Score Increase,Your Constitution score increases by 1.
+12,strig,Stout Strig,Age,"Strigs reach maturity faster than most birdfolk races, around 15 years. They can reach a respectable old age by birdfolk standards, living around 80 years."
+13,strig,Stout Strig,Alignment,"Strigs are normally good aligned, having a strong sense of fair play as well as a tendency to see the best in others. They also favor chaotic alignments, as strigs are a freedom-loving people who will usually put their personal morals above any imposed system of governance."
+14,strig,Stout Strig,Size,"Strigs are muscular, imposing folk ranging from 4 to over 5 feet tall and weighing around 110 pounds. Your size is Medium."
+15,strig,Stout Strig,Speed,Your base walking speed is 30 feet.
+16,strig,Stout Strig,Glide,"Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered."
+17,strig,Stout Strig,Talons,"Your sharp claws aid you in unarmed combat and while climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip."
+18,strig,Stout Strig,Darkvision,"You are adept at hunting under the cover of night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+19,strig,Stout Strig,Patterned Feathers,You have advantage on Dexterity (Stealth) checks when you attempt to hide in a forest.
+20,strig,Stout Strig,Languages,"You can speak, read, and write Birdfolk. You can also understand Auran, though you cannot speak it naturally"
+21,strig,Stout Strig,Subrace,There are two main subraces of strigs: swift and stout. Choose one of these subraces.
+22,strig,Stout Strig,Imposing,You have proficiency in the Intimidation skill.
+23,strig,Stout Strig,Brawler,"When you successfully attack a target with your talons, you can choose to grapple that target as a bonus action."
+24,strig,Swift Strig,Ability Score Increase,Your Dexterity score increases by 1.
+25,strig,Swift Strig,Age,"Strigs reach maturity faster than most birdfolk races, around 15 years. They can reach a respectable old age by birdfolk standards, living around 80 years."
+26,strig,Swift Strig,Alignment,"Strigs are normally good aligned, having a strong sense of fair play as well as a tendency to see the best in others. They also favor chaotic alignments, as strigs are a freedom-loving people who will usually put their personal morals above any imposed system of governance."
+27,strig,Swift Strig,Size,"Strigs are muscular, imposing folk ranging from 4 to over 5 feet tall and weighing around 110 pounds. Your size is Medium."
+28,strig,Swift Strig,Speed,Your base walking speed is 30 feet.
+29,strig,Swift Strig,Glide,"Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered."
+30,strig,Swift Strig,Talons,"Your sharp claws aid you in unarmed combat and while climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip."
+31,strig,Swift Strig,Darkvision,"You are adept at hunting under the cover of night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+32,strig,Swift Strig,Patterned Feathers,You have advantage on Dexterity (Stealth) checks when you attempt to hide in a forest.
+33,strig,Swift Strig,Languages,"You can speak, read, and write Birdfolk. You can also understand Auran, though you cannot speak it naturally"
+34,strig,Swift Strig,Subrace,There are two main subraces of strigs: swift and stout. Choose one of these subraces.
+35,strig,Swift Strig,Imposing,You have proficiency in the Intimidation skill.
+36,strig,Swift Strig,Brawler,"When you successfully attack a target with your talons, you can choose to grapple that target as a bonus action."
+37,strig,Swift Strig,Swift,Your base walking speed increases to 35 feet.
+38,strig,Swift Strig,Survivor,You have proficiency in the Survival skill.

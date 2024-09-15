@@ -1,0 +1,201 @@
+,race,subrace,section,content
+0,gnome,gnome,Ability Score Increase,Your Intelligence score increases by 2.
+1,gnome,gnome,Age,"Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+2,gnome,gnome,Alignment,"Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+3,gnome,gnome,Size,Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+4,gnome,gnome,Speed,Your base walking speed is 25 feet.
+5,gnome,gnome,Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+6,gnome,gnome,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+7,gnome,gnome,Languages,"You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+8,gnome,Forest Gnome,Ability Score Increase,Your Dexterity score increases by 1.
+9,gnome,Forest Gnome,Age,"Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+10,gnome,Forest Gnome,Alignment,"Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+11,gnome,Forest Gnome,Size,Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+12,gnome,Forest Gnome,Speed,Your base walking speed is 25 feet.
+13,gnome,Forest Gnome,Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+14,gnome,Forest Gnome,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+15,gnome,Forest Gnome,Languages,"You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+16,gnome,Forest Gnome,Natural Illusionist,You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
+17,gnome,Forest Gnome,Speak with Small Beasts,"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+18,gnome,Rock Gnome,Ability Score Increase,Your Constitution score increases by 1.
+19,gnome,Rock Gnome,Age,"Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+20,gnome,Rock Gnome,Alignment,"Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+21,gnome,Rock Gnome,Size,Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+22,gnome,Rock Gnome,Speed,Your base walking speed is 25 feet.
+23,gnome,Rock Gnome,Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+24,gnome,Rock Gnome,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+25,gnome,Rock Gnome,Languages,"You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+26,gnome,Rock Gnome,Natural Illusionist,You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
+27,gnome,Rock Gnome,Speak with Small Beasts,"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+28,gnome,Rock Gnome,Artificer’s Lore,"Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+29,gnome,Rock Gnome,Tinker,"You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time."
+30,gnome,Rock Gnome,"Music Box. When opened, this music box plays a single song at a moderate volume.",The box stops playing when it reaches the song’s end or when it is closed.
+31,gnome,Born of Deep Earth,Ability Score Increase,Your Constitution score increases by 1.
+32,gnome,Born of Deep Earth,Age,"Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+33,gnome,Born of Deep Earth,Alignment,"Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+34,gnome,Born of Deep Earth,Size,Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+35,gnome,Born of Deep Earth,Speed,Your base walking speed is 25 feet.
+36,gnome,Born of Deep Earth,Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+37,gnome,Born of Deep Earth,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+38,gnome,Born of Deep Earth,Languages,"You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+39,gnome,Born of Deep Earth,Natural Illusionist,You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
+40,gnome,Born of Deep Earth,Speak with Small Beasts,"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+41,gnome,Born of Deep Earth,Artificer’s Lore,"Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+42,gnome,Born of Deep Earth,Tinker,"You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time."
+43,gnome,Born of Deep Earth,"Music Box. When opened, this music box plays a single song at a moderate volume.",The box stops playing when it reaches the song’s end or when it is closed.
+44,gnome,Master Miners,Ability Score Increase,Your Constitution score increases by 1.
+45,gnome,Master Miners,Age,"Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+46,gnome,Master Miners,Alignment,"Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+47,gnome,Master Miners,Size,Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+48,gnome,Master Miners,Speed,Your base walking speed is 25 feet.
+49,gnome,Master Miners,Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+50,gnome,Master Miners,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+51,gnome,Master Miners,Languages,"You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+52,gnome,Master Miners,Natural Illusionist,You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
+53,gnome,Master Miners,Speak with Small Beasts,"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+54,gnome,Master Miners,Artificer’s Lore,"Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+55,gnome,Master Miners,Tinker,"You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time."
+56,gnome,Master Miners,"Music Box. When opened, this music box plays a single song at a moderate volume.",The box stops playing when it reaches the song’s end or when it is closed.
+57,gnome,Deep Dwellers,Ability Score Increase,Your Constitution score increases by 1.
+58,gnome,Deep Dwellers,Age,"Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+59,gnome,Deep Dwellers,Alignment,"Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+60,gnome,Deep Dwellers,Size,Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+61,gnome,Deep Dwellers,Speed,Your base walking speed is 25 feet.
+62,gnome,Deep Dwellers,Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+63,gnome,Deep Dwellers,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+64,gnome,Deep Dwellers,Languages,"You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+65,gnome,Deep Dwellers,Natural Illusionist,You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
+66,gnome,Deep Dwellers,Speak with Small Beasts,"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+67,gnome,Deep Dwellers,Artificer’s Lore,"Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+68,gnome,Deep Dwellers,Tinker,"You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time."
+69,gnome,Deep Dwellers,"Music Box. When opened, this music box plays a single song at a moderate volume.",The box stops playing when it reaches the song’s end or when it is closed.
+70,gnome,Scouts and Spies,Ability Score Increase,Your Constitution score increases by 1.
+71,gnome,Scouts and Spies,Age,"Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+72,gnome,Scouts and Spies,Alignment,"Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+73,gnome,Scouts and Spies,Size,Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+74,gnome,Scouts and Spies,Speed,Your base walking speed is 25 feet.
+75,gnome,Scouts and Spies,Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+76,gnome,Scouts and Spies,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+77,gnome,Scouts and Spies,Languages,"You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+78,gnome,Scouts and Spies,Natural Illusionist,You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
+79,gnome,Scouts and Spies,Speak with Small Beasts,"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+80,gnome,Scouts and Spies,Artificer’s Lore,"Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+81,gnome,Scouts and Spies,Tinker,"You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time."
+82,gnome,Scouts and Spies,"Music Box. When opened, this music box plays a single song at a moderate volume.",The box stops playing when it reaches the song’s end or when it is closed.
+83,gnome,Deep Gnome Names,Ability Score Increase,Your Constitution score increases by 1.
+84,gnome,Deep Gnome Names,Age,"Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+85,gnome,Deep Gnome Names,Alignment,"Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+86,gnome,Deep Gnome Names,Size,Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+87,gnome,Deep Gnome Names,Speed,Your base walking speed is 25 feet.
+88,gnome,Deep Gnome Names,Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+89,gnome,Deep Gnome Names,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+90,gnome,Deep Gnome Names,Languages,"You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+91,gnome,Deep Gnome Names,Natural Illusionist,You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
+92,gnome,Deep Gnome Names,Speak with Small Beasts,"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+93,gnome,Deep Gnome Names,Artificer’s Lore,"Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+94,gnome,Deep Gnome Names,Tinker,"You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time."
+95,gnome,Deep Gnome Names,"Music Box. When opened, this music box plays a single song at a moderate volume.",The box stops playing when it reaches the song’s end or when it is closed.
+96,gnome,Deep Gnome Traits,Ability Score Increase,Your Dexterity score increases by 1.
+97,gnome,Deep Gnome Traits,Age,"Deep gnomes are short-lived for gnomes. They mature at the same rate humans do and are considered full-grown adults by 25. They live 200 to 250 years, although hard toil and the dangers of the Underdark often claim them before their time."
+98,gnome,Deep Gnome Traits,Alignment,"Svirfneblin believe that survival depends on avoiding entanglements with other creatures and not making enemies, so they favor neutral alignments. They rarely wish others ill, and they are unlikely to take risks on behalf of others."
+99,gnome,Deep Gnome Traits,Size,A typical svirfneblin stands about 3 to 3½ feet tall and weighs 80 to 120 pounds. Your size is Small.
+100,gnome,Deep Gnome Traits,Speed,Your base walking speed is 25 feet.
+101,gnome,Deep Gnome Traits,Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+102,gnome,Deep Gnome Traits,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+103,gnome,Deep Gnome Traits,Languages,"You can speak, read, and write Common, Gnomish, and Undercommon. The svirfneblin dialect is more guttural than surface Gnomish, and most svirfneblin know only a little bit of Common, but those who deal with outsiders (and that includes you as an adventurer) pick up enough Common to get by in other lands."
+104,gnome,Deep Gnome Traits,Natural Illusionist,You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
+105,gnome,Deep Gnome Traits,Speak with Small Beasts,"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+106,gnome,Deep Gnome Traits,Artificer’s Lore,"Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+107,gnome,Deep Gnome Traits,Tinker,"You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time."
+108,gnome,Deep Gnome Traits,"Music Box. When opened, this music box plays a single song at a moderate volume.",The box stops playing when it reaches the song’s end or when it is closed.
+109,gnome,Deep Gnome Traits,Superior Darkvision,Your darkvision has a radius of 120 feet.
+110,gnome,Deep Gnome Traits,Stone Camouflage,You have advantage on Dexterity (stealth) checks to hide in rocky terrain.
+111,gnome,Mark of Scribing,Ability Score Increase,Your Charisma score increases by 1.
+112,gnome,Mark of Scribing,Age,"Deep gnomes are short-lived for gnomes. They mature at the same rate humans do and are considered full-grown adults by 25. They live 200 to 250 years, although hard toil and the dangers of the Underdark often claim them before their time."
+113,gnome,Mark of Scribing,Alignment,"Svirfneblin believe that survival depends on avoiding entanglements with other creatures and not making enemies, so they favor neutral alignments. They rarely wish others ill, and they are unlikely to take risks on behalf of others."
+114,gnome,Mark of Scribing,Size,A typical svirfneblin stands about 3 to 3½ feet tall and weighs 80 to 120 pounds. Your size is Small.
+115,gnome,Mark of Scribing,Speed,Your base walking speed is 25 feet.
+116,gnome,Mark of Scribing,Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+117,gnome,Mark of Scribing,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+118,gnome,Mark of Scribing,Languages,"You can speak, read, and write Common, Gnomish, and Undercommon. The svirfneblin dialect is more guttural than surface Gnomish, and most svirfneblin know only a little bit of Common, but those who deal with outsiders (and that includes you as an adventurer) pick up enough Common to get by in other lands."
+119,gnome,Mark of Scribing,Natural Illusionist,You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
+120,gnome,Mark of Scribing,Speak with Small Beasts,"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+121,gnome,Mark of Scribing,Artificer’s Lore,"Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+122,gnome,Mark of Scribing,Tinker,"You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time."
+123,gnome,Mark of Scribing,"Music Box. When opened, this music box plays a single song at a moderate volume.",The box stops playing when it reaches the song’s end or when it is closed.
+124,gnome,Mark of Scribing,Superior Darkvision,Your darkvision has a radius of 120 feet.
+125,gnome,Mark of Scribing,Stone Camouflage,You have advantage on Dexterity (stealth) checks to hide in rocky terrain.
+126,gnome,Mark of Scribing,Gifted Scribe,"When you make an Intelligence (History) check or an ability check using calligrapher's supplies, you can roll a d4 and add the number rolled to the ability check."
+127,gnome,Mark of Scribing,Scribe's Insight,"You know the Message cantrip. You can also cast comprehend languages once with this trait, and you regain the ability to cast it when you finish a short or long rest. Starting at 3rd level, you can cast the Magic Mouth spell with this trait, and you regain the ability to cast it when you finish a long rest. Intelligence is your spellcasting ability for these spells."
+128,gnome,Mark of Scribing,,"
+Spell Level
+Spells
+
+
+1st
+Comprehend Languages, Illusory Script
+
+
+2nd
+Animal Messenger, Silence
+
+
+3rd
+Sending, Tongues
+
+
+4th
+Arcane Eye, Confusion
+
+
+5th
+Dream
+
+"
+129,gnome,Deep Gnome MPMM,Ability Score Increase,Your Charisma score increases by 1.
+130,gnome,Deep Gnome MPMM,Age,"Deep gnomes are short-lived for gnomes. They mature at the same rate humans do and are considered full-grown adults by 25. They live 200 to 250 years, although hard toil and the dangers of the Underdark often claim them before their time."
+131,gnome,Deep Gnome MPMM,Alignment,"Svirfneblin believe that survival depends on avoiding entanglements with other creatures and not making enemies, so they favor neutral alignments. They rarely wish others ill, and they are unlikely to take risks on behalf of others."
+132,gnome,Deep Gnome MPMM,Size,Small
+133,gnome,Deep Gnome MPMM,Speed,30 ft.
+134,gnome,Deep Gnome MPMM,Darkvision,You can see in dim light within 120 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+135,gnome,Deep Gnome MPMM,Gnome Cunning,"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+136,gnome,Deep Gnome MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+137,gnome,Deep Gnome MPMM,Natural Illusionist,You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it.
+138,gnome,Deep Gnome MPMM,Speak with Small Beasts,"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+139,gnome,Deep Gnome MPMM,Artificer’s Lore,"Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+140,gnome,Deep Gnome MPMM,Tinker,"You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time."
+141,gnome,Deep Gnome MPMM,"Music Box. When opened, this music box plays a single song at a moderate volume.",The box stops playing when it reaches the song’s end or when it is closed.
+142,gnome,Deep Gnome MPMM,Superior Darkvision,Your darkvision has a radius of 120 feet.
+143,gnome,Deep Gnome MPMM,Stone Camouflage,You have advantage on Dexterity (stealth) checks to hide in rocky terrain.
+144,gnome,Deep Gnome MPMM,Gifted Scribe,"When you make an Intelligence (History) check or an ability check using calligrapher's supplies, you can roll a d4 and add the number rolled to the ability check."
+145,gnome,Deep Gnome MPMM,Scribe's Insight,"You know the Message cantrip. You can also cast comprehend languages once with this trait, and you regain the ability to cast it when you finish a short or long rest. Starting at 3rd level, you can cast the Magic Mouth spell with this trait, and you regain the ability to cast it when you finish a long rest. Intelligence is your spellcasting ability for these spells."
+146,gnome,Deep Gnome MPMM,,"
+Spell Level
+Spells
+
+
+1st
+Comprehend Languages, Illusory Script
+
+
+2nd
+Animal Messenger, Silence
+
+
+3rd
+Sending, Tongues
+
+
+4th
+Arcane Eye, Confusion
+
+
+5th
+Dream
+
+"
+147,gnome,Deep Gnome MPMM,Ability Scores,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+148,gnome,Deep Gnome MPMM,Creature Type,You are a Humanoid. You are also considered a gnome for any prerequisite or effect that requires you to be a gnome.
+149,gnome,Deep Gnome MPMM,Gift of the Svirfneblin,"Starting at 3rd level, you can cast the Disguise Self spell with this trait. Starting at 5th level, you can also cast the Nondetection spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these using spell slots you have of the appropriate level."
+150,gnome,Deep Gnome MPMM,Gnomish Magic Resistance,"You have advantage on Intelligence, Wisdom, and Charisma saving throws against spells."
+151,gnome,Deep Gnome MPMM,Svirfneblin Camouflage,"When you make a Dexterity (Stealth) check, you can make the check with advantage. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."

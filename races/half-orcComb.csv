@@ -1,0 +1,65 @@
+,race,subrace,section,content,race FR,subrace FR,section FR,content FR
+0,half-orc,half-orc,Ability Score Increase,"Your Strength score increases by 2, and your Constitution score increases by 1.",demi-orque,demi-orque,Augmentation du score de capacité,Votre score de Force augmente de 2 et votre score de Constitution augmente de 1.
+1,half-orc,half-orc,Age,"Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.",demi-orque,demi-orque,Âge,"Les demi-orques mûrissent un peu plus vite que les humains, atteignant l'âge adulte vers 14 ans. Ils vieillissent sensiblement plus vite et vivent rarement plus de 75 ans."
+2,half-orc,half-orc,Alignment,Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.,demi-orque,demi-orque,Alignement,Les demi-orques héritent d'une tendance au chaos de leurs parents orques et ne sont pas particulièrement enclins au bien. Les demi-orques élevés parmi les orques et prêts à vivre leur vie parmi eux sont généralement mauvais.
+3,half-orc,half-orc,Size,"Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.",demi-orque,demi-orque,Taille,"Les demi-orques sont un peu plus grands et plus costauds que les humains, et leur taille varie de 1,50 à plus de 1,80 mètre. Votre taille est M."
+4,half-orc,half-orc,Speed,Your base walking speed is 30 feet.,demi-orque,demi-orque,Vitesse,Votre vitesse de marche de base est de 30 pieds.
+5,half-orc,half-orc,Darkvision,"Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.",demi-orque,demi-orque,Vision dans le noir,"Grâce à votre sang d'orc, vous avez une vision supérieure dans l'obscurité et la pénombre. Vous pouvez voir dans la pénombre à moins de 18 mètres de vous comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière tamisée. Vous ne pouvez pas distinguer les couleurs dans l'obscurité, seulement les nuances de gris."
+6,half-orc,half-orc,Menacing,You gain proficiency in the Intimidation skill.,demi-orque,demi-orque,Menaçant,Vous acquérez la maîtrise de la compétence Intimidation.
+7,half-orc,half-orc,Relentless Endurance,"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.",demi-orque,demi-orque,Endurance implacable,"Lorsque vous êtes réduit à 0 point de vie sans être tué, vous pouvez passer à 1 point de vie à la place. Vous ne pouvez pas utiliser cette fonctionnalité à nouveau avant d'avoir terminé un repos long."
+8,half-orc,half-orc,Savage Attacks,"When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.",demi-orque,demi-orque,Attaques sauvages,"Lorsque vous réussissez un coup critique avec une attaque d'arme de mêlée, vous pouvez lancer l'un des dés de dégâts de l'arme une fois de plus et l'ajouter aux dégâts supplémentaires du coup critique."
+9,half-orc,half-orc,Languages,"You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.",demi-orque,demi-orque,Langues,"Vous pouvez parler, lire et écrire le commun et l'orque. L'orque est une langue dure et grinçante avec des consonnes dures. Elle n'a pas d'écriture propre mais est écrite en écriture naine."
+10,half-orc,Variant Half-Orc: Mark of Finding,Ability Score Increase,"Your Wisdom score increases by 2, and your Constitution score increases by 1.",demi-orque,Variante Demi-Orque : Marque de découverte,Augmentation du score de capacité,Votre score de Sagesse augmente de 2 et votre score de Constitution augmente de 1.
+11,half-orc,Variant Half-Orc: Mark of Finding,Age,"Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.",demi-orque,Variante Demi-Orque : Marque de découverte,Âge,"Les demi-orques mûrissent un peu plus vite que les humains, atteignant l'âge adulte vers 14 ans. Ils vieillissent sensiblement plus vite et vivent rarement plus de 75 ans."
+12,half-orc,Variant Half-Orc: Mark of Finding,Alignment,Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.,demi-orque,Variante Demi-Orque : Marque de découverte,Alignement,Les demi-orques héritent d'une tendance au chaos de leurs parents orques et ne sont pas particulièrement enclins au bien. Les demi-orques élevés parmi les orques et prêts à vivre leur vie parmi eux sont généralement mauvais.
+13,half-orc,Variant Half-Orc: Mark of Finding,Size,"Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.",demi-orque,Variante Demi-Orque : Marque de découverte,Taille,"Les demi-orques sont un peu plus grands et plus costauds que les humains, et leur taille varie de 1,50 à plus de 1,80 mètre. Votre taille est M."
+14,half-orc,Variant Half-Orc: Mark of Finding,Speed,Your base walking speed is 30 feet.,demi-orque,Variante Demi-Orque : Marque de découverte,Vitesse,Votre vitesse de marche de base est de 30 pieds.
+15,half-orc,Variant Half-Orc: Mark of Finding,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",demi-orque,Variante Demi-Orque : Marque de découverte,Vision dans le noir,"Vous pouvez voir dans une faible lumière à moins de 18 mètres de vous comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une faible lumière. Vous ne pouvez pas distinguer les couleurs dans l'obscurité, seulement les nuances de gris."
+16,half-orc,Variant Half-Orc: Mark of Finding,Menacing,You gain proficiency in the Intimidation skill.,demi-orque,Variante Demi-Orque : Marque de découverte,Menaçant,Vous acquérez la maîtrise de la compétence Intimidation.
+17,half-orc,Variant Half-Orc: Mark of Finding,Relentless Endurance,"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.",demi-orque,Variante Demi-Orque : Marque de découverte,Endurance implacable,"Lorsque vous êtes réduit à 0 point de vie sans être tué, vous pouvez passer à 1 point de vie à la place. Vous ne pouvez pas utiliser cette fonctionnalité à nouveau avant d'avoir terminé un repos long."
+18,half-orc,Variant Half-Orc: Mark of Finding,Savage Attacks,"When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.",demi-orque,Variante Demi-Orque : Marque de découverte,Attaques sauvages,"Lorsque vous réussissez un coup critique avec une attaque d'arme de mêlée, vous pouvez lancer l'un des dés de dégâts de l'arme une fois de plus et l'ajouter aux dégâts supplémentaires du coup critique."
+19,half-orc,Variant Half-Orc: Mark of Finding,Languages,"You can speak, read, and write Common and Goblin.",demi-orque,Variante Demi-Orque : Marque de découverte,Langues,"Vous pouvez parler, lire et écrire le commun et le gobelin."
+20,half-orc,Variant Half-Orc: Mark of Finding,Hunter's Intuition,"When you make a Wisdom (Perception) or Wisdom (Survival) check, you can roll a d4 and add the number rolled to the ability check.",demi-orque,Variante Demi-Orque : Marque de découverte,L'intuition du chasseur,"Lorsque vous effectuez un test de Sagesse (Perception) ou de Sagesse (Survie), vous pouvez lancer un d4 et ajouter le nombre obtenu au test de caractéristique."
+21,half-orc,Variant Half-Orc: Mark of Finding,Finder's Magic,"You can cast the Hunter's Mark spell with this trait. Starting at 3rd level, you can also cast the Locate Object spell with it. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells.",demi-orque,Variante Demi-Orque : Marque de découverte,La magie du chercheur,"Vous pouvez lancer le sort Marque du chasseur avec ce trait. À partir du niveau 3, vous pouvez également lancer le sort Localisation d'objet avec ce trait. Une fois que vous avez lancé l'un ou l'autre des sorts avec ce trait, vous ne pouvez plus lancer ce sort avec lui avant d'avoir terminé un repos long. La Sagesse est votre capacité à lancer ces sorts."
+22,half-orc,Variant Half-Orc: Mark of Finding,Spells of the Mark,"If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Finding Spells table are added to the spell list of your spellcasting class.",demi-orque,Variante Demi-Orque : Marque de découverte,Sorts de la Marque,"Si vous possédez la classe Lanceur de sorts ou Magie des pactes, les sorts du tableau Marque de recherche de sorts sont ajoutés à la liste de sorts de votre classe de lanceur de sorts."
+23,half-orc,Variant Half-Orc: Mark of Finding,,"
+Spell Level
+Spells
+
+
+1st
+Faerie Fire, Longstrider
+
+
+2nd
+Locate Animals or Plants, Locate Object
+
+
+3rd
+Clairvoyance, Speak With Plants
+
+
+4th
+Divination, Locate Creature
+
+
+5th
+Commune With Nature
+
+",demi-orque,Variante Demi-Orque : Marque de découverte,,"Niveau de sort
+Sorts
+
+1er
+Feu de fée, Longstrider
+
+2e
+Localiser les animaux ou les plantes, localiser l'objet
+
+3e
+Clairvoyance, parler aux plantes
+
+4e
+Divination, localiser la créature
+
+5e
+Communiquer avec la nature"

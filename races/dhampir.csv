@@ -1,0 +1,64 @@
+,race,subrace,section,content
+0,dhampir,dhampir,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+1,dhampir,dhampir,Creature Type,You are a Humanoid.
+2,dhampir,dhampir,Size,You are Medium or Small. You choose the size when you gain this lineage.
+3,dhampir,dhampir,Speed,Your walking speed is 35 feet.
+4,dhampir,dhampir,Ancestral Legacy,"If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it."
+5,dhampir,dhampir,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray.
+6,dhampir,dhampir,Deathless Nature,You don’t need to breathe.
+7,dhampir,dhampir,Spider Climb,"You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free."
+8,dhampir,dhampir,Vampiric Bite,"Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals 1d4 piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite."
+9,dhampir,dhampir,"When you attack with this bite and hit a creature that isn’t a Construct or an Undead, you can empower yourself in one of the following ways of your",choice:
+10,dhampir,dhampir,,"You gain a bonus to the next ability check or attack roll you make; the bonus equals the piercing damage dealt by the bite.
+"
+11,dhampir,Dhampir Hungers,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+12,dhampir,Dhampir Hungers,Creature Type,You are a Humanoid.
+13,dhampir,Dhampir Hungers,Size,You are Medium or Small. You choose the size when you gain this lineage.
+14,dhampir,Dhampir Hungers,Speed,Your walking speed is 35 feet.
+15,dhampir,Dhampir Hungers,Ancestral Legacy,"If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it."
+16,dhampir,Dhampir Hungers,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray.
+17,dhampir,Dhampir Hungers,Deathless Nature,You don’t need to breathe.
+18,dhampir,Dhampir Hungers,Spider Climb,"You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free."
+19,dhampir,Dhampir Hungers,Vampiric Bite,"Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals 1d4 piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite."
+20,dhampir,Dhampir Hungers,"When you attack with this bite and hit a creature that isn’t a Construct or an Undead, you can empower yourself in one of the following ways of your",choice:
+21,dhampir,Dhampir Hungers,,"
+d6
+Hunger
+
+
+1
+Blood
+
+
+2
+Flesh or raw meat
+
+
+3
+Cerebral spinal fluid
+
+
+4
+Psychic energy
+
+
+5
+Dreams
+
+
+6
+Life energy
+
+"
+22,dhampir,Dhampir Origins,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+23,dhampir,Dhampir Origins,Creature Type,You are a Humanoid.
+24,dhampir,Dhampir Origins,Size,You are Medium or Small. You choose the size when you gain this lineage.
+25,dhampir,Dhampir Origins,Speed,Your walking speed is 35 feet.
+26,dhampir,Dhampir Origins,Ancestral Legacy,"If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it."
+27,dhampir,Dhampir Origins,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray.
+28,dhampir,Dhampir Origins,Deathless Nature,You don’t need to breathe.
+29,dhampir,Dhampir Origins,Spider Climb,"You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free."
+30,dhampir,Dhampir Origins,Vampiric Bite,"Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals 1d4 piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite."
+31,dhampir,Dhampir Origins,"When you attack with this bite and hit a creature that isn’t a Construct or an Undead, you can empower yourself in one of the following ways of your",choice:
+32,dhampir,Dhampir Origins,,"You gain a bonus to the next ability check or attack roll you make; the bonus equals the piercing damage dealt by the bite.
+"

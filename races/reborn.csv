@@ -1,0 +1,55 @@
+,race,subrace,section,content
+0,reborn,reborn,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+1,reborn,reborn,Creature Type,You are a Humanoid.
+2,reborn,reborn,Size,You are Medium or Small. You choose the size when you gain this lineage.
+3,reborn,reborn,Speed,our walking speed is 30 feet.
+4,reborn,reborn,Ancestral Legacy,"If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it."
+5,reborn,reborn,Deathless Nature,"You have escaped death, a fact represented by the following benefits:"
+6,reborn,reborn,,"You don’t need to eat, drink, or breathe.
+"
+7,reborn,reborn,Knowledge from a Past Life,"You temporarily remember glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check that uses a skill, you can roll a d6 immediately after seeing the number on the d20 and add the number on the d6 to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+8,reborn,Lost Memories,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+9,reborn,Lost Memories,Creature Type,You are a Humanoid.
+10,reborn,Lost Memories,Size,You are Medium or Small. You choose the size when you gain this lineage.
+11,reborn,Lost Memories,Speed,our walking speed is 30 feet.
+12,reborn,Lost Memories,Ancestral Legacy,"If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it."
+13,reborn,Lost Memories,Deathless Nature,"You have escaped death, a fact represented by the following benefits:"
+14,reborn,Lost Memories,,"
+d6
+Memory
+
+
+1
+You recall a physically painful moment. What mark or scar on your body does it relate to?
+
+
+2
+A memory brings tears to your eyes. Is it a bitter or cheerful memory? Does recalling it make you feel the same way?
+
+
+3
+You recall a childhood memory. What about that event or who you were still inuences you?
+
+
+4
+A memory brings with it the voice of someone once close to you. How do they advise you?
+
+
+5
+You recall enjoying something that you can’t stand doing now. What is it? Why don’t you like it now?
+
+
+6
+A memory carries a vivid smell or sensation. What are you going to do to recreate that experience?
+
+"
+15,reborn,Lost Memories,Knowledge from a Past Life,"You temporarily remember glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check that uses a skill, you can roll a d6 immediately after seeing the number on the d20 and add the number on the d6 to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+16,reborn,Reborn Origins,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+17,reborn,Reborn Origins,Creature Type,You are a Humanoid.
+18,reborn,Reborn Origins,Size,You are Medium or Small. You choose the size when you gain this lineage.
+19,reborn,Reborn Origins,Speed,our walking speed is 30 feet.
+20,reborn,Reborn Origins,Ancestral Legacy,"If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it."
+21,reborn,Reborn Origins,Deathless Nature,"You have escaped death, a fact represented by the following benefits:"
+22,reborn,Reborn Origins,,"You don’t need to eat, drink, or breathe.
+"
+23,reborn,Reborn Origins,Knowledge from a Past Life,"You temporarily remember glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check that uses a skill, you can roll a d6 immediately after seeing the number on the d20 and add the number on the d6 to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."

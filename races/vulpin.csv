@@ -1,0 +1,11 @@
+,race,subrace,section,content
+0,vulpin,vulpin,Ability Score Increase,"Your Intelligence score increases by 2, and your Charisma score increases by 1."
+1,vulpin,vulpin,Age,"Vulpins mature at an average pace, and can be comparatively long-lived. They reach adulthood at 15 years, and live well past 90 years."
+2,vulpin,vulpin,Alignment,"Vulpins aren’t innately evil, but their difficulty empathizing with others means they are only rarely good aligned. Most vulpins find strict authority distasteful, preferring chaotic alignments over lawful ones."
+3,vulpin,vulpin,Size,"Vulpins cut dashing figures and are usually lean and muscular. They stand between 4 and a half and 5 and a half feet tall, but are relatively lightweight, weighing between 90 and 140 pounds. Your size is Medium."
+4,vulpin,vulpin,Speed,Your base walking speed is 30 feet.
+5,vulpin,vulpin,Darkvision,"You are adept at hunting at night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+6,vulpin,vulpin,Bite,"You have sharp fangs that enable you to make natural bite attacks. You can choose to bite as an unarmed strike that deals 1d6 points of piercing damage, which can be calculated using either your Strength or Dexterity modifier for both the attack roll and damage bonus."
+7,vulpin,vulpin,Evasive,You add your Intelligence modifier as a bonus on all Dexterity saving throws.
+8,vulpin,vulpin,Bewitching Guile,"You can cast Charm Person as a 1st level spell with this trait, and regain the ability to do so when you finish a long rest. When you reach 3rd level, you can cast Ambush Prey as a 2nd level spell with this trait, and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast fear with this trait, and regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells."
+9,vulpin,vulpin,Languages,"You can speak, read, and write Birdfolk and Vulpin."

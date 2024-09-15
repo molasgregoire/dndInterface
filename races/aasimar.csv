@@ -1,0 +1,235 @@
+,race,subrace,section,content
+0,aasimar,aasimar,Ability Score Increase,Your Charisma score increases by 2.
+1,aasimar,aasimar,Age,"Aasimar mature at the same rate as humans, but they can live up to 160 years."
+2,aasimar,aasimar,Alignment,"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
+3,aasimar,aasimar,Size,"Aasimar have the same range of height and weight as humans. Your height is 4'8"" with a modifier of +2d10. Your weight is 110 lbs. with a modifier of +(height roll) x 2d4."
+4,aasimar,aasimar,Speed,Your base walking speed is 30 feet.
+5,aasimar,aasimar,Darkvision,"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+6,aasimar,aasimar,Celestial Resistance,You have resistance to necrotic damage and radiant damage.
+7,aasimar,aasimar,Healing Hands,"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+8,aasimar,aasimar,Light Bearer,You know the Light cantrip. Charisma is your spellcasting ability for it.
+9,aasimar,aasimar,Languages,"You can speak, read, and write Common and Celestial."
+10,aasimar,Angelic Guide,Ability Score Increase,Your Charisma score increases by 2.
+11,aasimar,Angelic Guide,Age,"Aasimar mature at the same rate as humans, but they can live up to 160 years."
+12,aasimar,Angelic Guide,Alignment,"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
+13,aasimar,Angelic Guide,Size,"Aasimar have the same range of height and weight as humans. Your height is 4'8"" with a modifier of +2d10. Your weight is 110 lbs. with a modifier of +(height roll) x 2d4."
+14,aasimar,Angelic Guide,Speed,Your base walking speed is 30 feet.
+15,aasimar,Angelic Guide,Darkvision,"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+16,aasimar,Angelic Guide,Celestial Resistance,You have resistance to necrotic damage and radiant damage.
+17,aasimar,Angelic Guide,Healing Hands,"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+18,aasimar,Angelic Guide,Light Bearer,You know the Light cantrip. Charisma is your spellcasting ability for it.
+19,aasimar,Angelic Guide,Languages,"You can speak, read, and write Common and Celestial."
+20,aasimar,Angelic Guide,,"
+d6
+Nature
+
+
+1
+Bookish and lecturing
+
+
+2
+Compassionate and hopeful
+
+
+3
+Practical and lighthearted
+
+
+4
+Fierce and vengeful
+
+
+5
+Stern and judgmental
+
+
+6
+Kind and parental
+
+"
+21,aasimar,Protector,Ability Score Increase,Your Wisdom score increases by 1.
+22,aasimar,Protector,Age,"Aasimar mature at the same rate as humans, but they can live up to 160 years."
+23,aasimar,Protector,Alignment,"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
+24,aasimar,Protector,Size,"Aasimar have the same range of height and weight as humans. Your height is 4'8"" with a modifier of +2d10. Your weight is 110 lbs. with a modifier of +(height roll) x 2d4."
+25,aasimar,Protector,Speed,Your base walking speed is 30 feet.
+26,aasimar,Protector,Darkvision,"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+27,aasimar,Protector,Celestial Resistance,You have resistance to necrotic damage and radiant damage.
+28,aasimar,Protector,Healing Hands,"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+29,aasimar,Protector,Light Bearer,You know the Light cantrip. Charisma is your spellcasting ability for it.
+30,aasimar,Protector,Languages,"You can speak, read, and write Common and Celestial."
+31,aasimar,Protector,,"
+d6
+Nature
+
+
+1
+Bookish and lecturing
+
+
+2
+Compassionate and hopeful
+
+
+3
+Practical and lighthearted
+
+
+4
+Fierce and vengeful
+
+
+5
+Stern and judgmental
+
+
+6
+Kind and parental
+
+"
+32,aasimar,Protector,Radiant Soul,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back."
+33,aasimar,Scourge,Ability Score Increase,Your Constitution score increases by 1.
+34,aasimar,Scourge,Age,"Aasimar mature at the same rate as humans, but they can live up to 160 years."
+35,aasimar,Scourge,Alignment,"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
+36,aasimar,Scourge,Size,"Aasimar have the same range of height and weight as humans. Your height is 4'8"" with a modifier of +2d10. Your weight is 110 lbs. with a modifier of +(height roll) x 2d4."
+37,aasimar,Scourge,Speed,Your base walking speed is 30 feet.
+38,aasimar,Scourge,Darkvision,"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+39,aasimar,Scourge,Celestial Resistance,You have resistance to necrotic damage and radiant damage.
+40,aasimar,Scourge,Healing Hands,"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+41,aasimar,Scourge,Light Bearer,You know the Light cantrip. Charisma is your spellcasting ability for it.
+42,aasimar,Scourge,Languages,"You can speak, read, and write Common and Celestial."
+43,aasimar,Scourge,,"
+d6
+Nature
+
+
+1
+Bookish and lecturing
+
+
+2
+Compassionate and hopeful
+
+
+3
+Practical and lighthearted
+
+
+4
+Fierce and vengeful
+
+
+5
+Stern and judgmental
+
+
+6
+Kind and parental
+
+"
+44,aasimar,Scourge,Radiant Soul,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back."
+45,aasimar,Scourge,Radiant Consumption,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you."
+46,aasimar,Fallen,Ability Score Increase,Your Strength score increases by 1.
+47,aasimar,Fallen,Age,"Aasimar mature at the same rate as humans, but they can live up to 160 years."
+48,aasimar,Fallen,Alignment,"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
+49,aasimar,Fallen,Size,"Aasimar have the same range of height and weight as humans. Your height is 4'8"" with a modifier of +2d10. Your weight is 110 lbs. with a modifier of +(height roll) x 2d4."
+50,aasimar,Fallen,Speed,Your base walking speed is 30 feet.
+51,aasimar,Fallen,Darkvision,"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+52,aasimar,Fallen,Celestial Resistance,You have resistance to necrotic damage and radiant damage.
+53,aasimar,Fallen,Healing Hands,"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+54,aasimar,Fallen,Light Bearer,You know the Light cantrip. Charisma is your spellcasting ability for it.
+55,aasimar,Fallen,Languages,"You can speak, read, and write Common and Celestial."
+56,aasimar,Fallen,,"
+d6
+Nature
+
+
+1
+Bookish and lecturing
+
+
+2
+Compassionate and hopeful
+
+
+3
+Practical and lighthearted
+
+
+4
+Fierce and vengeful
+
+
+5
+Stern and judgmental
+
+
+6
+Kind and parental
+
+"
+57,aasimar,Fallen,Radiant Soul,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back."
+58,aasimar,Fallen,Radiant Consumption,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you."
+59,aasimar,Fallen,Necrotic Shroud,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn."
+60,aasimar,Variant Aasimar,Ability Score Increase,"Your Wisdom score increases by 1, and your Charisma score increases by 2."
+61,aasimar,Variant Aasimar,Age,Aasimar mature at the same rate as humans but live a few years longer.
+62,aasimar,Variant Aasimar,Alignment,"Due to their celestial heritage, aasimar are often good. However, some aasimar fall into evil, rejecting their heritage."
+63,aasimar,Variant Aasimar,Size,Aasimar are built like well-proportioned humans. Your size is Medium.
+64,aasimar,Variant Aasimar,Speed,our base walking speed is 30 feet.
+65,aasimar,Variant Aasimar,Darkvision,"Thanks to your celestial heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+66,aasimar,Variant Aasimar,Celestial Resistance,You have resistance to necrotic damage and radiant damage.
+67,aasimar,Variant Aasimar,Healing Hands,"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+68,aasimar,Variant Aasimar,Light Bearer,You know the Light cantrip. Charisma is your spellcasting ability for it.
+69,aasimar,Variant Aasimar,Languages,"You can speak, read, and write Common and Celestial."
+70,aasimar,Variant Aasimar,,"Aasimar should make effective clerics and paladins.
+Aasimar should be to celestials and humans what tieflings are to fiends and humans.
+"
+71,aasimar,Variant Aasimar,Radiant Soul,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back."
+72,aasimar,Variant Aasimar,Radiant Consumption,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you."
+73,aasimar,Variant Aasimar,Necrotic Shroud,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn."
+74,aasimar,Variant Aasimar,Celestial Legacy,"You know the Light cantrip. Once you reach 3rd level, you can cast the Lesser Restoration spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the Daylight spell once with this trait as a 3rd-level spell, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+75,aasimar,Aasimar MPMM,Ability Score Increase,"Your Wisdom score increases by 1, and your Charisma score increases by 2."
+76,aasimar,Aasimar MPMM,Age,Aasimar mature at the same rate as humans but live a few years longer.
+77,aasimar,Aasimar MPMM,Alignment,"Due to their celestial heritage, aasimar are often good. However, some aasimar fall into evil, rejecting their heritage."
+78,aasimar,Aasimar MPMM,Size,You are Medium or Small. You choose the size when you select this race.
+79,aasimar,Aasimar MPMM,Speed,30 ft.
+80,aasimar,Aasimar MPMM,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+81,aasimar,Aasimar MPMM,Celestial Resistance,You have resistance to necrotic damage and radiant damage.
+82,aasimar,Aasimar MPMM,Healing Hands,"As an action, you can touch a creature and roll a number of d4s equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. Once you use this trait, you can't use it again until you finish a long rest."
+83,aasimar,Aasimar MPMM,Light Bearer,You know the Light cantrip. Charisma is your spellcasting ability for it.
+84,aasimar,Aasimar MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+85,aasimar,Aasimar MPMM,,"
+d6
+Celestial Feature
+
+
+1
+A dusting of metallic, white, or charcoal freckles
+
+
+2
+Metallic, luminous, or dark eyes
+
+
+3
+Starkly colored hair
+
+
+4
+An unusual hue tinting your shadow
+
+
+5
+A ghostly halo crowning your head
+
+
+6
+Rainbows gleaming on your skin
+
+"
+86,aasimar,Aasimar MPMM,Radiant Soul,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back."
+87,aasimar,Aasimar MPMM,Radiant Consumption,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you."
+88,aasimar,Aasimar MPMM,Necrotic Shroud,"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn."
+89,aasimar,Aasimar MPMM,Celestial Legacy,"You know the Light cantrip. Once you reach 3rd level, you can cast the Lesser Restoration spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the Daylight spell once with this trait as a 3rd-level spell, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+90,aasimar,Aasimar MPMM,Ability Scores,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+91,aasimar,Aasimar MPMM,Celestial Revelation,"When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a bonus action to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation below, you can't use it again until you finish a long rest."

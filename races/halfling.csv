@@ -1,0 +1,169 @@
+,race,subrace,section,content
+0,halfling,halfling,Ability Score Increase,Your Dexterity score increases by 2.
+1,halfling,halfling,Age,A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+2,halfling,halfling,Alignment,"Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+3,halfling,halfling,Size,Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+4,halfling,halfling,Speed,Your base walking speed is 25 feet.
+5,halfling,halfling,Lucky,"When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+6,halfling,halfling,Brave,You have advantage on saving throws against being frightened.
+7,halfling,halfling,Halfling Nimbleness,You can move through the space of any creature that is of a size larger than yours.
+8,halfling,halfling,Languages,"You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+9,halfling,Lightfoot Halfling,Ability Score Increase,Your Charisma score increases by 1.
+10,halfling,Lightfoot Halfling,Age,A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+11,halfling,Lightfoot Halfling,Alignment,"Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+12,halfling,Lightfoot Halfling,Size,Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+13,halfling,Lightfoot Halfling,Speed,Your base walking speed is 25 feet.
+14,halfling,Lightfoot Halfling,Lucky,"When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+15,halfling,Lightfoot Halfling,Brave,You have advantage on saving throws against being frightened.
+16,halfling,Lightfoot Halfling,Halfling Nimbleness,You can move through the space of any creature that is of a size larger than yours.
+17,halfling,Lightfoot Halfling,Languages,"You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+18,halfling,Lightfoot Halfling,Naturally Stealthy,You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+19,halfling,Stout Halfling,Ability Score Increase,Your Constitution score increases by 1.
+20,halfling,Stout Halfling,Age,A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+21,halfling,Stout Halfling,Alignment,"Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+22,halfling,Stout Halfling,Size,Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+23,halfling,Stout Halfling,Speed,Your base walking speed is 25 feet.
+24,halfling,Stout Halfling,Lucky,"When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+25,halfling,Stout Halfling,Brave,You have advantage on saving throws against being frightened.
+26,halfling,Stout Halfling,Halfling Nimbleness,You can move through the space of any creature that is of a size larger than yours.
+27,halfling,Stout Halfling,Languages,"You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+28,halfling,Stout Halfling,Naturally Stealthy,You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+29,halfling,Stout Halfling,Stout Resilience,"You have advantage on saving throws against poison, and you have resistance against poison damage."
+30,halfling,Ghostwise Halfling,Ability Score Increase,Your Wisdom score increases by 1.
+31,halfling,Ghostwise Halfling,Age,A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+32,halfling,Ghostwise Halfling,Alignment,"Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+33,halfling,Ghostwise Halfling,Size,Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+34,halfling,Ghostwise Halfling,Speed,Your base walking speed is 25 feet.
+35,halfling,Ghostwise Halfling,Lucky,"When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+36,halfling,Ghostwise Halfling,Brave,You have advantage on saving throws against being frightened.
+37,halfling,Ghostwise Halfling,Halfling Nimbleness,You can move through the space of any creature that is of a size larger than yours.
+38,halfling,Ghostwise Halfling,Languages,"You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+39,halfling,Ghostwise Halfling,Naturally Stealthy,You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+40,halfling,Ghostwise Halfling,Stout Resilience,"You have advantage on saving throws against poison, and you have resistance against poison damage."
+41,halfling,Ghostwise Halfling,Silent Speech,You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
+42,halfling,Mark of Healing,Ability Score Increase,Your Wisdom score increases by 1.
+43,halfling,Mark of Healing,Age,A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+44,halfling,Mark of Healing,Alignment,"Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+45,halfling,Mark of Healing,Size,Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+46,halfling,Mark of Healing,Speed,Your base walking speed is 25 feet.
+47,halfling,Mark of Healing,Lucky,"When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+48,halfling,Mark of Healing,Brave,You have advantage on saving throws against being frightened.
+49,halfling,Mark of Healing,Halfling Nimbleness,You can move through the space of any creature that is of a size larger than yours.
+50,halfling,Mark of Healing,Languages,"You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+51,halfling,Mark of Healing,Naturally Stealthy,You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+52,halfling,Mark of Healing,Stout Resilience,"You have advantage on saving throws against poison, and you have resistance against poison damage."
+53,halfling,Mark of Healing,Silent Speech,You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
+54,halfling,Mark of Healing,Medical Intuition,"When you make a Wisdom (Medicine) check or an ability check using an herbalism kit, you can roll a d4 and add the number rolled to the ability check."
+55,halfling,Mark of Healing,Healing Touch,"You can cast the Cure Wounds spell with this trait. Starting at 3rd level, you can also cast Lesser Restoration with it. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells."
+56,halfling,Mark of Healing,Spells of the Mark,"If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Healing Spells table are added to the spell list of your spellcasting class."
+57,halfling,Mark of Healing,,"
+Spell Level
+Spells
+
+
+1st
+Cure Wounds, Healing Word
+
+
+2nd
+Lesser Restoration, Prayer of Healing
+
+
+3rd
+Aura of Vitality, Mass Healing Word
+
+
+4th
+Aura of Purity, Aura of Life
+
+
+5th
+Greater Restoration
+
+"
+58,halfling,Mark of Hospitality,Ability Score Increase,Your Charisma score increases by 1.
+59,halfling,Mark of Hospitality,Age,A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+60,halfling,Mark of Hospitality,Alignment,"Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+61,halfling,Mark of Hospitality,Size,Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+62,halfling,Mark of Hospitality,Speed,Your base walking speed is 25 feet.
+63,halfling,Mark of Hospitality,Lucky,"When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+64,halfling,Mark of Hospitality,Brave,You have advantage on saving throws against being frightened.
+65,halfling,Mark of Hospitality,Halfling Nimbleness,You can move through the space of any creature that is of a size larger than yours.
+66,halfling,Mark of Hospitality,Languages,"You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+67,halfling,Mark of Hospitality,Naturally Stealthy,You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+68,halfling,Mark of Hospitality,Stout Resilience,"You have advantage on saving throws against poison, and you have resistance against poison damage."
+69,halfling,Mark of Hospitality,Silent Speech,You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
+70,halfling,Mark of Hospitality,Medical Intuition,"When you make a Wisdom (Medicine) check or an ability check using an herbalism kit, you can roll a d4 and add the number rolled to the ability check."
+71,halfling,Mark of Hospitality,Healing Touch,"You can cast the Cure Wounds spell with this trait. Starting at 3rd level, you can also cast Lesser Restoration with it. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells."
+72,halfling,Mark of Hospitality,Spells of the Mark,"If you have the Spell casting or the Pact Magic class feature, the spells on the Mark of Hospitality Spells table are added to the spell list of your spellcasting class."
+73,halfling,Mark of Hospitality,,"
+Spell Level
+Spells
+
+
+1st
+Goodberry, Sleep
+
+
+2nd
+Aid, Calm Emotions
+
+
+3rd
+Create Food and Water, Leomund's Tiny Hut
+
+
+4th
+Aura of Purity, Mordenkainen's Private Sanctum
+
+
+5th
+Hallow
+
+"
+74,halfling,Mark of Hospitality,Ever Hospitable,"When you make a Charisma (Persuasion) check or an ability check involving brewer's supplies or cook's utensils, you can roll a d4 and add the number rolled to the ability check."
+75,halfling,Mark of Hospitality,Innkeeper's Magic,"You know the Prestidigitation cantrip. You can also cast the Purify Food and Drink and Unseen Servant spells with this trait. Once you cast either spell with this trait, you can't cast that spell with it again until you finish long rest. Charisma is your spellcasting ability for these spells."
+76,halfling,Lotusden Halflings,Ability Score Increase,Your Wisdom score increases by 1.
+77,halfling,Lotusden Halflings,Age,A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+78,halfling,Lotusden Halflings,Alignment,"Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+79,halfling,Lotusden Halflings,Size,Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+80,halfling,Lotusden Halflings,Speed,Your base walking speed is 25 feet.
+81,halfling,Lotusden Halflings,Lucky,"When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+82,halfling,Lotusden Halflings,Brave,You have advantage on saving throws against being frightened.
+83,halfling,Lotusden Halflings,Halfling Nimbleness,You can move through the space of any creature that is of a size larger than yours.
+84,halfling,Lotusden Halflings,Languages,"You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+85,halfling,Lotusden Halflings,Naturally Stealthy,You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+86,halfling,Lotusden Halflings,Stout Resilience,"You have advantage on saving throws against poison, and you have resistance against poison damage."
+87,halfling,Lotusden Halflings,Silent Speech,You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
+88,halfling,Lotusden Halflings,Medical Intuition,"When you make a Wisdom (Medicine) check or an ability check using an herbalism kit, you can roll a d4 and add the number rolled to the ability check."
+89,halfling,Lotusden Halflings,Healing Touch,"You can cast the Cure Wounds spell with this trait. Starting at 3rd level, you can also cast Lesser Restoration with it. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells."
+90,halfling,Lotusden Halflings,Spells of the Mark,"If you have the Spell casting or the Pact Magic class feature, the spells on the Mark of Hospitality Spells table are added to the spell list of your spellcasting class."
+91,halfling,Lotusden Halflings,,"
+Spell Level
+Spells
+
+
+1st
+Goodberry, Sleep
+
+
+2nd
+Aid, Calm Emotions
+
+
+3rd
+Create Food and Water, Leomund's Tiny Hut
+
+
+4th
+Aura of Purity, Mordenkainen's Private Sanctum
+
+
+5th
+Hallow
+
+"
+92,halfling,Lotusden Halflings,Ever Hospitable,"When you make a Charisma (Persuasion) check or an ability check involving brewer's supplies or cook's utensils, you can roll a d4 and add the number rolled to the ability check."
+93,halfling,Lotusden Halflings,Innkeeper's Magic,"You know the Prestidigitation cantrip. You can also cast the Purify Food and Drink and Unseen Servant spells with this trait. Once you cast either spell with this trait, you can't cast that spell with it again until you finish long rest. Charisma is your spellcasting ability for these spells."
+94,halfling,Lotusden Halflings,Child of the Wood,"You know the Druidcraft cantrip. When you reach 3rd level, you can cast the Entangle spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Spike Growth spell once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells."
+95,halfling,Lotusden Halflings,Timberwalk,"Ability checks made to track you have disadvantage, and you can move across difficult terrain made of nonmagical plants and undergrowth without expending extra movement."

@@ -1,0 +1,105 @@
+,race,subrace,section,content
+0,firbolg,firbolg,Ability Score Increase,"Your Strength score increases by 1, and your Wisdom score increases by 2."
+1,firbolg,firbolg,Age,"As humanoids related to the fey, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years."
+2,firbolg,firbolg,Alignment,"As people who follow the rhythm of nature and see themselves as its caretakers, firbolg are typically neutral good. Evil firbolg are rare and are usually the sworn enemies of the rest of their kind."
+3,firbolg,firbolg,Size,"Firbolg are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium. Your height is 6'2"" with a modifier of +2d12. Your weight is 175 lbs. with a modifier of +(height roll) x 2d6."
+4,firbolg,firbolg,Speed,Your base walking speed is 30 feet.
+5,firbolg,firbolg,Firbolg Magic,"You can cast Detect Magic and Disguise Self with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of Disguise Self, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves."
+6,firbolg,firbolg,Hidden Step,"As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest."
+7,firbolg,firbolg,Powerful Build,"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+8,firbolg,firbolg,Speech of Beast and Leaf,"You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them."
+9,firbolg,firbolg,Languages,"You can speak, read, and write Common, Elvish, and Giant."
+10,firbolg,Firbolg Adventurers,Ability Score Increase,"Your Strength score increases by 1, and your Wisdom score increases by 2."
+11,firbolg,Firbolg Adventurers,Age,"As humanoids related to the fey, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years."
+12,firbolg,Firbolg Adventurers,Alignment,"As people who follow the rhythm of nature and see themselves as its caretakers, firbolg are typically neutral good. Evil firbolg are rare and are usually the sworn enemies of the rest of their kind."
+13,firbolg,Firbolg Adventurers,Size,"Firbolg are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium. Your height is 6'2"" with a modifier of +2d12. Your weight is 175 lbs. with a modifier of +(height roll) x 2d6."
+14,firbolg,Firbolg Adventurers,Speed,Your base walking speed is 30 feet.
+15,firbolg,Firbolg Adventurers,Firbolg Magic,"You can cast Detect Magic and Disguise Self with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of Disguise Self, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves."
+16,firbolg,Firbolg Adventurers,Hidden Step,"As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest."
+17,firbolg,Firbolg Adventurers,Powerful Build,"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+18,firbolg,Firbolg Adventurers,Speech of Beast and Leaf,"You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them."
+19,firbolg,Firbolg Adventurers,Languages,"You can speak, read, and write Common, Elvish, and Giant."
+20,firbolg,Firbolg Adventurers,,"
+d8
+Reason for Adventuring
+
+
+1
+Outcast for murder
+
+
+2
+Outcast for severely damaging home territory
+
+
+3
+Clan slain by invading humanoids
+
+
+4
+Clan slain by a dragon or demon
+
+
+5
+Separated from the tribe and lost
+
+
+6
+Homeland destroyed by natural disaster
+
+
+7
+Personal quest ordain by omens
+
+
+8
+Dispatched on a quest by tribe leaders
+
+"
+21,firbolg,Firbolg MPMM,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+22,firbolg,Firbolg MPMM,Age,"As humanoids related to the fey, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years."
+23,firbolg,Firbolg MPMM,Alignment,"As people who follow the rhythm of nature and see themselves as its caretakers, firbolg are typically neutral good. Evil firbolg are rare and are usually the sworn enemies of the rest of their kind."
+24,firbolg,Firbolg MPMM,Size,Medium
+25,firbolg,Firbolg MPMM,Speed,30 ft.
+26,firbolg,Firbolg MPMM,Firbolg Magic,"You can cast Detect Magic and Disguise Self spells with this trait. When you use this version of Disguise Self, you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have."
+27,firbolg,Firbolg MPMM,Hidden Step,"As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+28,firbolg,Firbolg MPMM,Powerful Build,"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+29,firbolg,Firbolg MPMM,Speech of Beast and Leaf,"You have the ability to communicate in a limited manner with Beasts, Plants, and vegetation. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them."
+30,firbolg,Firbolg MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+31,firbolg,Firbolg MPMM,,"
+d8
+Reason for Adventuring
+
+
+1
+Outcast for murder
+
+
+2
+Outcast for severely damaging home territory
+
+
+3
+Clan slain by invading humanoids
+
+
+4
+Clan slain by a dragon or demon
+
+
+5
+Separated from the tribe and lost
+
+
+6
+Homeland destroyed by natural disaster
+
+
+7
+Personal quest ordain by omens
+
+
+8
+Dispatched on a quest by tribe leaders
+
+"

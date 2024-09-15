@@ -1,0 +1,43 @@
+,race,subrace,section,content
+0,raptor,raptor,Ability Score Increase,Your Dexterity score increases by 2.
+1,raptor,raptor,Age,"Raptors reach maturity around 20 years. They can live longer than any other birdfolk race, over 100 years."
+2,raptor,raptor,Alignment,"Raptors tend towards neutral alignments. Preferring the path of naturalists and hunters, raptors rarely see value in order for the sake of order, and are often more pragmatic than idealistic."
+3,raptor,raptor,Size,"Raptors are lean, muscular hunters, but they stand less than 4 feet tall. Their light builds usually lend themselves to bodies that weigh far less than one would expect for their height, averaging around only 35 pounds. Your size is Small."
+4,raptor,raptor,Speed,Your base walking speed is 25 feet.
+5,raptor,raptor,Glide,"Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered."
+6,raptor,raptor,Talons,"Your sharp claws aid you in unarmed combat andwhile climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip."
+7,raptor,raptor,Keen Senses,You have proficiency in the Perception skill.
+8,raptor,raptor,Woodland Hunter,Your accuracy allows you to treat three-quarters cover as half cover and half cover as no cover.
+9,raptor,raptor,Hunter’s Training,"You have proficiency with the longbow, short bow, and spear. Additionally, your familiarity with the longbow means that it is not considered a heavy weapon for you."
+10,raptor,raptor,Languages,"You can speak, read, and write Birdfolk. You can also understand Auran, though you cannot speak it naturally."
+11,raptor,raptor,Subrace,There are two main subraces of raptor: mistral and maran. Choose one of these subraces.
+12,raptor,Maran Raptor,Ability Score Increase,Your Intelligence score increases by 1.
+13,raptor,Maran Raptor,Age,"Raptors reach maturity around 20 years. They can live longer than any other birdfolk race, over 100 years."
+14,raptor,Maran Raptor,Alignment,"Raptors tend towards neutral alignments. Preferring the path of naturalists and hunters, raptors rarely see value in order for the sake of order, and are often more pragmatic than idealistic."
+15,raptor,Maran Raptor,Size,"Raptors are lean, muscular hunters, but they stand less than 4 feet tall. Their light builds usually lend themselves to bodies that weigh far less than one would expect for their height, averaging around only 35 pounds. Your size is Small."
+16,raptor,Maran Raptor,Speed,Your base walking speed is 25 feet.
+17,raptor,Maran Raptor,Glide,"Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered."
+18,raptor,Maran Raptor,Talons,"Your sharp claws aid you in unarmed combat andwhile climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip."
+19,raptor,Maran Raptor,Keen Senses,You have proficiency in the Perception skill.
+20,raptor,Maran Raptor,Woodland Hunter,Your accuracy allows you to treat three-quarters cover as half cover and half cover as no cover.
+21,raptor,Maran Raptor,Hunter’s Training,"You have proficiency with the longbow, short bow, and spear. Additionally, your familiarity with the longbow means that it is not considered a heavy weapon for you."
+22,raptor,Maran Raptor,Languages,"You can speak, read, and write Birdfolk. You can also understand Auran, though you cannot speak it naturally."
+23,raptor,Maran Raptor,Subrace,There are two main subraces of raptor: mistral and maran. Choose one of these subraces.
+24,raptor,Maran Raptor,Swimmer,You have a swimming speed of 25 feet.
+25,raptor,Maran Raptor,Patient,"When you react with a readied action, you have advantage on the first attack roll, skill check, or ability check you make as a part of that action."
+26,raptor,Mistral Raptor,Ability Score Increase,Your Wisdom score increases by 1.
+27,raptor,Mistral Raptor,Age,"Raptors reach maturity around 20 years. They can live longer than any other birdfolk race, over 100 years."
+28,raptor,Mistral Raptor,Alignment,"Raptors tend towards neutral alignments. Preferring the path of naturalists and hunters, raptors rarely see value in order for the sake of order, and are often more pragmatic than idealistic."
+29,raptor,Mistral Raptor,Size,"Raptors are lean, muscular hunters, but they stand less than 4 feet tall. Their light builds usually lend themselves to bodies that weigh far less than one would expect for their height, averaging around only 35 pounds. Your size is Small."
+30,raptor,Mistral Raptor,Speed,Your base walking speed is 25 feet.
+31,raptor,Mistral Raptor,Glide,"Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered."
+32,raptor,Mistral Raptor,Talons,"Your sharp claws aid you in unarmed combat andwhile climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip."
+33,raptor,Mistral Raptor,Keen Senses,You have proficiency in the Perception skill.
+34,raptor,Mistral Raptor,Woodland Hunter,Your accuracy allows you to treat three-quarters cover as half cover and half cover as no cover.
+35,raptor,Mistral Raptor,Hunter’s Training,"You have proficiency with the longbow, short bow, and spear. Additionally, your familiarity with the longbow means that it is not considered a heavy weapon for you."
+36,raptor,Mistral Raptor,Languages,"You can speak, read, and write Birdfolk. You can also understand Auran, though you cannot speak it naturally."
+37,raptor,Mistral Raptor,Subrace,There are two main subraces of raptor: mistral and maran. Choose one of these subraces.
+38,raptor,Mistral Raptor,Swimmer,You have a swimming speed of 25 feet.
+39,raptor,Mistral Raptor,Patient,"When you react with a readied action, you have advantage on the first attack roll, skill check, or ability check you make as a part of that action."
+40,raptor,Mistral Raptor,Agile,You have proficiency in the Acrobatics skill.
+41,raptor,Mistral Raptor,Aerial Defense,"Creatures that attack you while you are falling, gliding, or jumping have disadvantage on their attack roll."

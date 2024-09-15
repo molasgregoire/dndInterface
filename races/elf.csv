@@ -1,0 +1,600 @@
+,race,subrace,section,content
+0,elf,elf,Ability Score Increase,Your Dexterity score increases by 2.
+1,elf,elf,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+2,elf,elf,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+3,elf,elf,Size,Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
+4,elf,elf,Speed,Your base walking speed is 30 feet.
+5,elf,elf,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+6,elf,elf,Keen Senses,You have proficiency in the Perception skill.
+7,elf,elf,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+8,elf,elf,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+9,elf,elf,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+10,elf,Drow,Ability Score Increase,Your Charisma score increases by 1.
+11,elf,Drow,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+12,elf,Drow,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+13,elf,Drow,Size,"Your height is 4'5"" with a modifier of +2d6. Your weight is 75 lbs. with a modifier of +(height roll) x 1d6."
+14,elf,Drow,Speed,Your base walking speed is 30 feet.
+15,elf,Drow,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+16,elf,Drow,Keen Senses,You have proficiency in the Perception skill.
+17,elf,Drow,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+18,elf,Drow,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+19,elf,Drow,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+20,elf,Drow,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+21,elf,Drow,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+22,elf,Drow,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+23,elf,Drow,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+24,elf,High Elf,Ability Score Increase,Your Intelligence score increases by 1.
+25,elf,High Elf,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+26,elf,High Elf,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+27,elf,High Elf,Size,"Your height is 4'5"" with a modifier of +2d6. Your weight is 75 lbs. with a modifier of +(height roll) x 1d6."
+28,elf,High Elf,Speed,Your base walking speed is 30 feet.
+29,elf,High Elf,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+30,elf,High Elf,Keen Senses,You have proficiency in the Perception skill.
+31,elf,High Elf,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+32,elf,High Elf,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+33,elf,High Elf,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+34,elf,High Elf,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+35,elf,High Elf,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+36,elf,High Elf,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+37,elf,High Elf,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+38,elf,High Elf,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+39,elf,High Elf,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+40,elf,High Elf,Extra Language,"You can speak, read, and write one extra language of your choice."
+41,elf,Wood Elf,Ability Score Increase,Your Wisdom score increases by 1.
+42,elf,Wood Elf,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+43,elf,Wood Elf,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+44,elf,Wood Elf,Size,"Your height is 4'5"" with a modifier of +2d6. Your weight is 75 lbs. with a modifier of +(height roll) x 1d6."
+45,elf,Wood Elf,Speed,Your base walking speed is 30 feet.
+46,elf,Wood Elf,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+47,elf,Wood Elf,Keen Senses,You have proficiency in the Perception skill.
+48,elf,Wood Elf,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+49,elf,Wood Elf,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+50,elf,Wood Elf,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+51,elf,Wood Elf,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+52,elf,Wood Elf,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+53,elf,Wood Elf,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+54,elf,Wood Elf,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+55,elf,Wood Elf,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+56,elf,Wood Elf,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+57,elf,Wood Elf,Extra Language,"You can speak, read, and write one extra language of your choice."
+58,elf,Wood Elf,Fleet of Foot,Your base walking speed increases to 35 feet.
+59,elf,Wood Elf,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+60,elf,Eladrin,Ability Score Increase,Your Charisma score increases by 1.
+61,elf,Eladrin,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+62,elf,Eladrin,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+63,elf,Eladrin,Size,"Your height is 4'6"" with a modifier of +2d12. Your weight is 90 lbs. with a modifier of +(height roll) x 1d4."
+64,elf,Eladrin,Speed,Your base walking speed is 30 feet.
+65,elf,Eladrin,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+66,elf,Eladrin,Keen Senses,You have proficiency in the Perception skill.
+67,elf,Eladrin,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+68,elf,Eladrin,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+69,elf,Eladrin,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+70,elf,Eladrin,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+71,elf,Eladrin,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+72,elf,Eladrin,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+73,elf,Eladrin,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+74,elf,Eladrin,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+75,elf,Eladrin,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+76,elf,Eladrin,Extra Language,"You can speak, read, and write one extra language of your choice."
+77,elf,Eladrin,Fleet of Foot,Your base walking speed increases to 35 feet.
+78,elf,Eladrin,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+79,elf,Eladrin,,"Spring: When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.
+Summer: Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).
+Autumn: Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.
+Winter: When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+"
+80,elf,Eladrin,Fey Step,"Choose your eladrin's season: autumn, winter, spring, or summer. When finishing a long rest, any eladrin can change their season. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a short or long rest.
+When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier:"
+81,elf,Eladrin (Variant),Ability Score Increase,Your Intelligence score increases by 1.
+82,elf,Eladrin (Variant),Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+83,elf,Eladrin (Variant),Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+84,elf,Eladrin (Variant),Size,"Your height is 4'6"" with a modifier of +2d12. Your weight is 90 lbs. with a modifier of +(height roll) x 1d4."
+85,elf,Eladrin (Variant),Speed,Your base walking speed is 30 feet.
+86,elf,Eladrin (Variant),Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+87,elf,Eladrin (Variant),Keen Senses,You have proficiency in the Perception skill.
+88,elf,Eladrin (Variant),Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+89,elf,Eladrin (Variant),Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+90,elf,Eladrin (Variant),Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+91,elf,Eladrin (Variant),Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+92,elf,Eladrin (Variant),Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+93,elf,Eladrin (Variant),Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+94,elf,Eladrin (Variant),Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+95,elf,Eladrin (Variant),Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+96,elf,Eladrin (Variant),Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+97,elf,Eladrin (Variant),Extra Language,"You can speak, read, and write one extra language of your choice."
+98,elf,Eladrin (Variant),Fleet of Foot,Your base walking speed increases to 35 feet.
+99,elf,Eladrin (Variant),Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+100,elf,Eladrin (Variant),,"Spring: When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.
+Summer: Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).
+Autumn: Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.
+Winter: When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+"
+101,elf,Eladrin (Variant),Fey Step,You can cast the Misty Step spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+102,elf,Sea Elf,Ability Score Increase,Your Constitution score increases by 1.
+103,elf,Sea Elf,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+104,elf,Sea Elf,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+105,elf,Sea Elf,Size,"Your height is 4'6"" with a modifier of +2d8. Your weight is 90 lbs. with a modifier of +(height roll) x 1d4."
+106,elf,Sea Elf,Speed,Your base walking speed is 30 feet.
+107,elf,Sea Elf,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+108,elf,Sea Elf,Keen Senses,You have proficiency in the Perception skill.
+109,elf,Sea Elf,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+110,elf,Sea Elf,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+111,elf,Sea Elf,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+112,elf,Sea Elf,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+113,elf,Sea Elf,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+114,elf,Sea Elf,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+115,elf,Sea Elf,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+116,elf,Sea Elf,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+117,elf,Sea Elf,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+118,elf,Sea Elf,Extra Language,"You can speak, read, and write Aquan."
+119,elf,Sea Elf,Fleet of Foot,Your base walking speed increases to 35 feet.
+120,elf,Sea Elf,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+121,elf,Sea Elf,,"Spring: When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.
+Summer: Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).
+Autumn: Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.
+Winter: When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+"
+122,elf,Sea Elf,Fey Step,You can cast the Misty Step spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+123,elf,Sea Elf,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+124,elf,Sea Elf,Child of the Sea,"You have a swimming speed of 30 feet, and you can breathe air and water."
+125,elf,Sea Elf,Friend of the Sea,"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+126,elf,Shadar-kai,Ability Score Increase,Your Constitution score increases by 1.
+127,elf,Shadar-kai,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+128,elf,Shadar-kai,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+129,elf,Shadar-kai,Size,"Your height is 4'8"" with a modifier of +2d8. Your weight is 90 lbs. with a modifier of +(height roll) x 1d4."
+130,elf,Shadar-kai,Speed,Your base walking speed is 30 feet.
+131,elf,Shadar-kai,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+132,elf,Shadar-kai,Keen Senses,You have proficiency in the Perception skill.
+133,elf,Shadar-kai,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+134,elf,Shadar-kai,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+135,elf,Shadar-kai,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+136,elf,Shadar-kai,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+137,elf,Shadar-kai,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+138,elf,Shadar-kai,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+139,elf,Shadar-kai,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+140,elf,Shadar-kai,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+141,elf,Shadar-kai,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+142,elf,Shadar-kai,Extra Language,"You can speak, read, and write Aquan."
+143,elf,Shadar-kai,Fleet of Foot,Your base walking speed increases to 35 feet.
+144,elf,Shadar-kai,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+145,elf,Shadar-kai,,"Spring: When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.
+Summer: Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).
+Autumn: Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.
+Winter: When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+"
+146,elf,Shadar-kai,Fey Step,You can cast the Misty Step spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+147,elf,Shadar-kai,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+148,elf,Shadar-kai,Child of the Sea,"You have a swimming speed of 30 feet, and you can breathe air and water."
+149,elf,Shadar-kai,Friend of the Sea,"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+150,elf,Shadar-kai,Necrotic Resistance,You have resistance to necrotic damage.
+151,elf,Shadar-kai,Blessing of the Raven Queen,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest."
+152,elf,Elves of Aerenal,Ability Score Increase,Your Intelligence score increases by 1.
+153,elf,Elves of Aerenal,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+154,elf,Elves of Aerenal,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+155,elf,Elves of Aerenal,Size,"Your height is 4'8"" with a modifier of +2d8. Your weight is 90 lbs. with a modifier of +(height roll) x 1d4."
+156,elf,Elves of Aerenal,Speed,Your base walking speed is 30 feet.
+157,elf,Elves of Aerenal,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+158,elf,Elves of Aerenal,Keen Senses,You have proficiency in the Perception skill.
+159,elf,Elves of Aerenal,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+160,elf,Elves of Aerenal,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+161,elf,Elves of Aerenal,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+162,elf,Elves of Aerenal,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+163,elf,Elves of Aerenal,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+164,elf,Elves of Aerenal,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+165,elf,Elves of Aerenal,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+166,elf,Elves of Aerenal,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+167,elf,Elves of Aerenal,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+168,elf,Elves of Aerenal,Extra Language,"You can speak, read, and write one extra language of your choice."
+169,elf,Elves of Aerenal,Fleet of Foot,Your base walking speed increases to 35 feet.
+170,elf,Elves of Aerenal,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+171,elf,Elves of Aerenal,,"Spring: When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.
+Summer: Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).
+Autumn: Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.
+Winter: When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+"
+172,elf,Elves of Aerenal,Fey Step,You can cast the Misty Step spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+173,elf,Elves of Aerenal,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+174,elf,Elves of Aerenal,Child of the Sea,"You have a swimming speed of 30 feet, and you can breathe air and water."
+175,elf,Elves of Aerenal,Friend of the Sea,"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+176,elf,Elves of Aerenal,Necrotic Resistance,You have resistance to necrotic damage.
+177,elf,Elves of Aerenal,Blessing of the Raven Queen,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest."
+178,elf,Elves of Aerenal,Aereni Elf,An Aereni elf can choose one skill or tool proficiency. Your proficiency bonus is doubled for any ability check you make that uses this chosen proficiency.
+179,elf,Aereni Wood Elf,Ability Score Increase,Your Intelligence score increases by 1.
+180,elf,Aereni Wood Elf,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+181,elf,Aereni Wood Elf,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+182,elf,Aereni Wood Elf,Size,"Your height is 4'8"" with a modifier of +2d8. Your weight is 90 lbs. with a modifier of +(height roll) x 1d4."
+183,elf,Aereni Wood Elf,Speed,Your base walking speed is 30 feet.
+184,elf,Aereni Wood Elf,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+185,elf,Aereni Wood Elf,Keen Senses,You have proficiency in the Perception skill.
+186,elf,Aereni Wood Elf,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+187,elf,Aereni Wood Elf,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+188,elf,Aereni Wood Elf,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+189,elf,Aereni Wood Elf,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+190,elf,Aereni Wood Elf,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+191,elf,Aereni Wood Elf,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+192,elf,Aereni Wood Elf,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+193,elf,Aereni Wood Elf,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+194,elf,Aereni Wood Elf,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+195,elf,Aereni Wood Elf,Extra Language,"You can speak, read, and write one extra language of your choice."
+196,elf,Aereni Wood Elf,Fleet of Foot,Your base walking speed increases to 35 feet.
+197,elf,Aereni Wood Elf,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+198,elf,Aereni Wood Elf,,"Spring: When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.
+Summer: Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).
+Autumn: Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.
+Winter: When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+"
+199,elf,Aereni Wood Elf,Fey Step,You can cast the Misty Step spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+200,elf,Aereni Wood Elf,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+201,elf,Aereni Wood Elf,Child of the Sea,"You have a swimming speed of 30 feet, and you can breathe air and water."
+202,elf,Aereni Wood Elf,Friend of the Sea,"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+203,elf,Aereni Wood Elf,Necrotic Resistance,You have resistance to necrotic damage.
+204,elf,Aereni Wood Elf,Blessing of the Raven Queen,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest."
+205,elf,Aereni Wood Elf,Aereni Elf,An Aereni elf can choose one skill or tool proficiency. Your proficiency bonus is doubled for any ability check you make that uses this chosen proficiency.
+206,elf,Aereni Wood Elf,Valenar Elf,"A Valenar elf gains proficiency with the scimitar, double scimitar, longbow, and shortbow."
+207,elf,Valenar Wood Elf,Ability Score Increase,Your Wisdom score increases by 1.
+208,elf,Valenar Wood Elf,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+209,elf,Valenar Wood Elf,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+210,elf,Valenar Wood Elf,Size,"Your height is 4'8"" with a modifier of +2d8. Your weight is 90 lbs. with a modifier of +(height roll) x 1d4."
+211,elf,Valenar Wood Elf,Speed,Your base walking speed is 30 feet.
+212,elf,Valenar Wood Elf,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+213,elf,Valenar Wood Elf,Keen Senses,You have proficiency in the Perception skill.
+214,elf,Valenar Wood Elf,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+215,elf,Valenar Wood Elf,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+216,elf,Valenar Wood Elf,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+217,elf,Valenar Wood Elf,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+218,elf,Valenar Wood Elf,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+219,elf,Valenar Wood Elf,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+220,elf,Valenar Wood Elf,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+221,elf,Valenar Wood Elf,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+222,elf,Valenar Wood Elf,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+223,elf,Valenar Wood Elf,Extra Language,"You can speak, read, and write one extra language of your choice."
+224,elf,Valenar Wood Elf,Fleet of Foot,Your base walking speed increases to 35 feet.
+225,elf,Valenar Wood Elf,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+226,elf,Valenar Wood Elf,,"Spring: When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.
+Summer: Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).
+Autumn: Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.
+Winter: When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+"
+227,elf,Valenar Wood Elf,Fey Step,You can cast the Misty Step spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+228,elf,Valenar Wood Elf,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+229,elf,Valenar Wood Elf,Child of the Sea,"You have a swimming speed of 30 feet, and you can breathe air and water."
+230,elf,Valenar Wood Elf,Friend of the Sea,"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+231,elf,Valenar Wood Elf,Necrotic Resistance,You have resistance to necrotic damage.
+232,elf,Valenar Wood Elf,Blessing of the Raven Queen,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest."
+233,elf,Valenar Wood Elf,Aereni Elf,An Aereni elf can choose one skill or tool proficiency. Your proficiency bonus is doubled for any ability check you make that uses this chosen proficiency.
+234,elf,Valenar Wood Elf,Valenar Elf,"A Valenar elf gains proficiency with the scimitar, double scimitar, longbow, and shortbow."
+235,elf,Mark of Shadow,Ability Score Increase,Your Charisma score increases by 1.
+236,elf,Mark of Shadow,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+237,elf,Mark of Shadow,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+238,elf,Mark of Shadow,Size,"Your height is 4'8"" with a modifier of +2d8. Your weight is 90 lbs. with a modifier of +(height roll) x 1d4."
+239,elf,Mark of Shadow,Speed,Your base walking speed is 30 feet.
+240,elf,Mark of Shadow,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+241,elf,Mark of Shadow,Keen Senses,You have proficiency in the Perception skill.
+242,elf,Mark of Shadow,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+243,elf,Mark of Shadow,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+244,elf,Mark of Shadow,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+245,elf,Mark of Shadow,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+246,elf,Mark of Shadow,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+247,elf,Mark of Shadow,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+248,elf,Mark of Shadow,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+249,elf,Mark of Shadow,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+250,elf,Mark of Shadow,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+251,elf,Mark of Shadow,Extra Language,"You can speak, read, and write one extra language of your choice."
+252,elf,Mark of Shadow,Fleet of Foot,Your base walking speed increases to 35 feet.
+253,elf,Mark of Shadow,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+254,elf,Mark of Shadow,,"
+Spell Level
+Spells
+
+
+1st
+Disguise Self, Silent Image
+
+
+2nd
+Darkness, Pass Without Trace
+
+
+3rd
+Clairvoyance, Major Image
+
+
+4th
+Greater Invisibility, Hallucinatory Terrain
+
+
+5th
+Mislead
+
+"
+255,elf,Mark of Shadow,Fey Step,You can cast the Misty Step spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+256,elf,Mark of Shadow,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+257,elf,Mark of Shadow,Child of the Sea,"You have a swimming speed of 30 feet, and you can breathe air and water."
+258,elf,Mark of Shadow,Friend of the Sea,"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+259,elf,Mark of Shadow,Necrotic Resistance,You have resistance to necrotic damage.
+260,elf,Mark of Shadow,Blessing of the Raven Queen,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest."
+261,elf,Mark of Shadow,Aereni Elf,An Aereni elf can choose one skill or tool proficiency. Your proficiency bonus is doubled for any ability check you make that uses this chosen proficiency.
+262,elf,Mark of Shadow,Valenar Elf,"A Valenar elf gains proficiency with the scimitar, double scimitar, longbow, and shortbow."
+263,elf,Mark of Shadow,Cunning Intuition,"When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll a d4 and add the number rolled to the ability check. Shape."
+264,elf,Mark of Shadow,Shadows,"You know the Minor Illusion cantrip. Starting at 3rd level, you can cast the Invisibility spell once with this trait, and you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+265,elf,Mark of Shadow,Spells of the Mark,"If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Shadow Spells table are added to the spell list of your spellcasting class."
+266,elf,Pallid Elf,Ability Score Increase,Your Wisdom score increases by 1.
+267,elf,Pallid Elf,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+268,elf,Pallid Elf,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+269,elf,Pallid Elf,Size,"Your height is 4'8"" with a modifier of +2d8. Your weight is 90 lbs. with a modifier of +(height roll) x 1d4."
+270,elf,Pallid Elf,Speed,Your base walking speed is 30 feet.
+271,elf,Pallid Elf,Darkvision,"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+272,elf,Pallid Elf,Keen Senses,You have proficiency in the Perception skill.
+273,elf,Pallid Elf,Fey Ancestry,"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+274,elf,Pallid Elf,Trance,"Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+275,elf,Pallid Elf,Languages,"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+276,elf,Pallid Elf,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+277,elf,Pallid Elf,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+278,elf,Pallid Elf,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+279,elf,Pallid Elf,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+280,elf,Pallid Elf,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+281,elf,Pallid Elf,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+282,elf,Pallid Elf,Extra Language,"You can speak, read, and write one extra language of your choice."
+283,elf,Pallid Elf,Fleet of Foot,Your base walking speed increases to 35 feet.
+284,elf,Pallid Elf,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+285,elf,Pallid Elf,,"
+Spell Level
+Spells
+
+
+1st
+Disguise Self, Silent Image
+
+
+2nd
+Darkness, Pass Without Trace
+
+
+3rd
+Clairvoyance, Major Image
+
+
+4th
+Greater Invisibility, Hallucinatory Terrain
+
+
+5th
+Mislead
+
+"
+286,elf,Pallid Elf,Fey Step,You can cast the Misty Step spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+287,elf,Pallid Elf,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+288,elf,Pallid Elf,Child of the Sea,"You have a swimming speed of 30 feet, and you can breathe air and water."
+289,elf,Pallid Elf,Friend of the Sea,"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+290,elf,Pallid Elf,Necrotic Resistance,You have resistance to necrotic damage.
+291,elf,Pallid Elf,Blessing of the Raven Queen,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest."
+292,elf,Pallid Elf,Aereni Elf,An Aereni elf can choose one skill or tool proficiency. Your proficiency bonus is doubled for any ability check you make that uses this chosen proficiency.
+293,elf,Pallid Elf,Valenar Elf,"A Valenar elf gains proficiency with the scimitar, double scimitar, longbow, and shortbow."
+294,elf,Pallid Elf,Cunning Intuition,"When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll a d4 and add the number rolled to the ability check. Shape."
+295,elf,Pallid Elf,Shadows,"You know the Minor Illusion cantrip. Starting at 3rd level, you can cast the Invisibility spell once with this trait, and you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+296,elf,Pallid Elf,Spells of the Mark,"If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Shadow Spells table are added to the spell list of your spellcasting class."
+297,elf,Pallid Elf,Incisive Sense,You have advantage on Intelligence (Investigation) and Wisdom (Insight) checks.
+298,elf,Pallid Elf,Blessing of the Moon Weaver,"You know the Light cantrip. When you reach 3rd level, you can cast the Sleep spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Invisibility spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells."
+299,elf,Eladrin MPMM,Ability Score Increase,Your Wisdom score increases by 1.
+300,elf,Eladrin MPMM,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+301,elf,Eladrin MPMM,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+302,elf,Eladrin MPMM,Size,Medium
+303,elf,Eladrin MPMM,Speed,30 ft.
+304,elf,Eladrin MPMM,Darkvision,You can see in dim light within 120 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+305,elf,Eladrin MPMM,Keen Senses,You have proficiency in the Perception skill.
+306,elf,Eladrin MPMM,Fey Ancestry,You have advantage on saving throws you make to avoid or end the charmed condition on yourself.
+307,elf,Eladrin MPMM,Trance,"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike medication, during which you retain consciousness."
+308,elf,Eladrin MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+309,elf,Eladrin MPMM,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+310,elf,Eladrin MPMM,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+311,elf,Eladrin MPMM,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+312,elf,Eladrin MPMM,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+313,elf,Eladrin MPMM,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+314,elf,Eladrin MPMM,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+315,elf,Eladrin MPMM,Extra Language,"You can speak, read, and write one extra language of your choice."
+316,elf,Eladrin MPMM,Fleet of Foot,Your base walking speed increases to 35 feet.
+317,elf,Eladrin MPMM,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+318,elf,Eladrin MPMM,,"
+d4
+Season
+
+
+1
+Autumn: peace and goodwill, when summer's harvest is shared with all.
+
+
+2
+Winter: contemplation and dolor, when the vibrant energy of the world slumbers.
+
+
+3
+Spring: cheerfulness and celebration, marked by merriment and hope as winter's sorrow passes.
+
+
+4
+Summer: boldness and aggression, a time of unfettered energy and calls to action.
+
+"
+319,elf,Eladrin MPMM,Fey Step,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+320,elf,Eladrin MPMM,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+321,elf,Eladrin MPMM,Child of the Sea,"You have a swimming speed of 30 feet, and you can breathe air and water."
+322,elf,Eladrin MPMM,Friend of the Sea,"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+323,elf,Eladrin MPMM,Necrotic Resistance,You have resistance to necrotic damage.
+324,elf,Eladrin MPMM,Blessing of the Raven Queen,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest."
+325,elf,Eladrin MPMM,Aereni Elf,An Aereni elf can choose one skill or tool proficiency. Your proficiency bonus is doubled for any ability check you make that uses this chosen proficiency.
+326,elf,Eladrin MPMM,Valenar Elf,"A Valenar elf gains proficiency with the scimitar, double scimitar, longbow, and shortbow."
+327,elf,Eladrin MPMM,Cunning Intuition,"When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll a d4 and add the number rolled to the ability check. Shape."
+328,elf,Eladrin MPMM,Shadows,"You know the Minor Illusion cantrip. Starting at 3rd level, you can cast the Invisibility spell once with this trait, and you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+329,elf,Eladrin MPMM,Spells of the Mark,"If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Shadow Spells table are added to the spell list of your spellcasting class."
+330,elf,Eladrin MPMM,Incisive Sense,You have advantage on Intelligence (Investigation) and Wisdom (Insight) checks.
+331,elf,Eladrin MPMM,Blessing of the Moon Weaver,"You know the Light cantrip. When you reach 3rd level, you can cast the Sleep spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Invisibility spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells."
+332,elf,Eladrin MPMM,Ability Scores,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+333,elf,Eladrin MPMM,Creature Type,You are a Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf.
+334,elf,Sea Elf MPMM,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+335,elf,Sea Elf MPMM,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+336,elf,Sea Elf MPMM,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+337,elf,Sea Elf MPMM,Size,Medium
+338,elf,Sea Elf MPMM,Speed,"Your walking speed is 30 feet, and you have a swimming speed equal to your walking speed."
+339,elf,Sea Elf MPMM,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+340,elf,Sea Elf MPMM,Keen Senses,You have proficiency in the Perception skill.
+341,elf,Sea Elf MPMM,Fey Ancestry,You have advantage on saving throws you make to avoid or end the charmed condition on yourself.
+342,elf,Sea Elf MPMM,Trance,"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness."
+343,elf,Sea Elf MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+344,elf,Sea Elf MPMM,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+345,elf,Sea Elf MPMM,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+346,elf,Sea Elf MPMM,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+347,elf,Sea Elf MPMM,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+348,elf,Sea Elf MPMM,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+349,elf,Sea Elf MPMM,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+350,elf,Sea Elf MPMM,Extra Language,"You can speak, read, and write one extra language of your choice."
+351,elf,Sea Elf MPMM,Fleet of Foot,Your base walking speed increases to 35 feet.
+352,elf,Sea Elf MPMM,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+353,elf,Sea Elf MPMM,,"
+d4
+Season
+
+
+1
+Autumn: peace and goodwill, when summer's harvest is shared with all.
+
+
+2
+Winter: contemplation and dolor, when the vibrant energy of the world slumbers.
+
+
+3
+Spring: cheerfulness and celebration, marked by merriment and hope as winter's sorrow passes.
+
+
+4
+Summer: boldness and aggression, a time of unfettered energy and calls to action.
+
+"
+354,elf,Sea Elf MPMM,Fey Step,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+355,elf,Sea Elf MPMM,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+356,elf,Sea Elf MPMM,Child of the Sea,"You can breathe air and water, and you have a resistance to cold damage."
+357,elf,Sea Elf MPMM,Friend of the Sea,"Aquatic animals have an extraordinary affinity with your people. You can communicate simple ideas to any Beast that has a swimming speed. It can understand your words, though you have no special ability to understand it in return."
+358,elf,Sea Elf MPMM,Necrotic Resistance,You have resistance to necrotic damage.
+359,elf,Sea Elf MPMM,Blessing of the Raven Queen,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest."
+360,elf,Sea Elf MPMM,Aereni Elf,An Aereni elf can choose one skill or tool proficiency. Your proficiency bonus is doubled for any ability check you make that uses this chosen proficiency.
+361,elf,Sea Elf MPMM,Valenar Elf,"A Valenar elf gains proficiency with the scimitar, double scimitar, longbow, and shortbow."
+362,elf,Sea Elf MPMM,Cunning Intuition,"When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll a d4 and add the number rolled to the ability check. Shape."
+363,elf,Sea Elf MPMM,Shadows,"You know the Minor Illusion cantrip. Starting at 3rd level, you can cast the Invisibility spell once with this trait, and you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+364,elf,Sea Elf MPMM,Spells of the Mark,"If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Shadow Spells table are added to the spell list of your spellcasting class."
+365,elf,Sea Elf MPMM,Incisive Sense,You have advantage on Intelligence (Investigation) and Wisdom (Insight) checks.
+366,elf,Sea Elf MPMM,Blessing of the Moon Weaver,"You know the Light cantrip. When you reach 3rd level, you can cast the Sleep spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Invisibility spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells."
+367,elf,Sea Elf MPMM,Ability Scores,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+368,elf,Sea Elf MPMM,Creature Type,You are a Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf.
+369,elf,Shadar-Kai MPMM,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+370,elf,Shadar-Kai MPMM,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+371,elf,Shadar-Kai MPMM,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+372,elf,Shadar-Kai MPMM,Size,Medium
+373,elf,Shadar-Kai MPMM,Speed,30 ft.
+374,elf,Shadar-Kai MPMM,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+375,elf,Shadar-Kai MPMM,Keen Senses,You have proficiency in the Perception skill.
+376,elf,Shadar-Kai MPMM,Fey Ancestry,You have advantage on saving throws you make to avoid or end the charmed condition on yourself.
+377,elf,Shadar-Kai MPMM,Trance,"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness."
+378,elf,Shadar-Kai MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+379,elf,Shadar-Kai MPMM,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+380,elf,Shadar-Kai MPMM,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+381,elf,Shadar-Kai MPMM,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+382,elf,Shadar-Kai MPMM,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+383,elf,Shadar-Kai MPMM,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+384,elf,Shadar-Kai MPMM,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+385,elf,Shadar-Kai MPMM,Extra Language,"You can speak, read, and write one extra language of your choice."
+386,elf,Shadar-Kai MPMM,Fleet of Foot,Your base walking speed increases to 35 feet.
+387,elf,Shadar-Kai MPMM,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+388,elf,Shadar-Kai MPMM,,"
+d4
+Season
+
+
+1
+Autumn: peace and goodwill, when summer's harvest is shared with all.
+
+
+2
+Winter: contemplation and dolor, when the vibrant energy of the world slumbers.
+
+
+3
+Spring: cheerfulness and celebration, marked by merriment and hope as winter's sorrow passes.
+
+
+4
+Summer: boldness and aggression, a time of unfettered energy and calls to action.
+
+"
+389,elf,Shadar-Kai MPMM,Fey Step,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+390,elf,Shadar-Kai MPMM,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+391,elf,Shadar-Kai MPMM,Child of the Sea,"You can breathe air and water, and you have a resistance to cold damage."
+392,elf,Shadar-Kai MPMM,Friend of the Sea,"Aquatic animals have an extraordinary affinity with your people. You can communicate simple ideas to any Beast that has a swimming speed. It can understand your words, though you have no special ability to understand it in return."
+393,elf,Shadar-Kai MPMM,Necrotic Resistance,You have resistance to necrotic damage.
+394,elf,Shadar-Kai MPMM,Blessing of the Raven Queen,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+395,elf,Shadar-Kai MPMM,Aereni Elf,An Aereni elf can choose one skill or tool proficiency. Your proficiency bonus is doubled for any ability check you make that uses this chosen proficiency.
+396,elf,Shadar-Kai MPMM,Valenar Elf,"A Valenar elf gains proficiency with the scimitar, double scimitar, longbow, and shortbow."
+397,elf,Shadar-Kai MPMM,Cunning Intuition,"When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll a d4 and add the number rolled to the ability check. Shape."
+398,elf,Shadar-Kai MPMM,Shadows,"You know the Minor Illusion cantrip. Starting at 3rd level, you can cast the Invisibility spell once with this trait, and you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+399,elf,Shadar-Kai MPMM,Spells of the Mark,"If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Shadow Spells table are added to the spell list of your spellcasting class."
+400,elf,Shadar-Kai MPMM,Incisive Sense,You have advantage on Intelligence (Investigation) and Wisdom (Insight) checks.
+401,elf,Shadar-Kai MPMM,Blessing of the Moon Weaver,"You know the Light cantrip. When you reach 3rd level, you can cast the Sleep spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Invisibility spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells."
+402,elf,Shadar-Kai MPMM,Ability Scores,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+403,elf,Shadar-Kai MPMM,Creature Type,You are a Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf.
+404,elf,Elf Variant: Astral Elf,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+405,elf,Elf Variant: Astral Elf,Age,"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+406,elf,Elf Variant: Astral Elf,Alignment,"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+407,elf,Elf Variant: Astral Elf,Size,Medium
+408,elf,Elf Variant: Astral Elf,Speed,30 ft.
+409,elf,Elf Variant: Astral Elf,Darkvision,"You can see in dim light within 60 feet of yourself as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray."
+410,elf,Elf Variant: Astral Elf,Keen Senses,You have proficiency in the Perception skill.
+411,elf,Elf Variant: Astral Elf,Fey Ancestry,You have advantage on saving throws you make to avoid or end the charmed condition on yourself.
+412,elf,Elf Variant: Astral Elf,Trance,"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness."
+413,elf,Elf Variant: Astral Elf,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+414,elf,Elf Variant: Astral Elf,Superior Darkvision,"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+415,elf,Elf Variant: Astral Elf,Sunlight Sensitivity,"You have disadvantage on attack rolls and Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+416,elf,Elf Variant: Astral Elf,Drow Magic,"You know the Dancing Lights cantrip. When you reach 3rd level, you can cast the Faerie Fire spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the Darkness spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+417,elf,Elf Variant: Astral Elf,Drow Weapon Training,"You have proficiency with rapiers, shortswords, and hand crossbows."
+418,elf,Elf Variant: Astral Elf,Elf Weapon Training,"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+419,elf,Elf Variant: Astral Elf,Cantrip,You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+420,elf,Elf Variant: Astral Elf,Extra Language,"You can speak, read, and write one extra language of your choice."
+421,elf,Elf Variant: Astral Elf,Fleet of Foot,Your base walking speed increases to 35 feet.
+422,elf,Elf Variant: Astral Elf,Mask of the Wild,"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+423,elf,Elf Variant: Astral Elf,,"
+d4
+Season
+
+
+1
+Autumn: peace and goodwill, when summer's harvest is shared with all.
+
+
+2
+Winter: contemplation and dolor, when the vibrant energy of the world slumbers.
+
+
+3
+Spring: cheerfulness and celebration, marked by merriment and hope as winter's sorrow passes.
+
+
+4
+Summer: boldness and aggression, a time of unfettered energy and calls to action.
+
+"
+424,elf,Elf Variant: Astral Elf,Fey Step,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+425,elf,Elf Variant: Astral Elf,Sea Elf Training,"You have proficiency with the spear, trident, light crossbow, and net."
+426,elf,Elf Variant: Astral Elf,Child of the Sea,"You can breathe air and water, and you have a resistance to cold damage."
+427,elf,Elf Variant: Astral Elf,Friend of the Sea,"Aquatic animals have an extraordinary affinity with your people. You can communicate simple ideas to any Beast that has a swimming speed. It can understand your words, though you have no special ability to understand it in return."
+428,elf,Elf Variant: Astral Elf,Necrotic Resistance,You have resistance to necrotic damage.
+429,elf,Elf Variant: Astral Elf,Blessing of the Raven Queen,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+430,elf,Elf Variant: Astral Elf,Aereni Elf,An Aereni elf can choose one skill or tool proficiency. Your proficiency bonus is doubled for any ability check you make that uses this chosen proficiency.
+431,elf,Elf Variant: Astral Elf,Valenar Elf,"A Valenar elf gains proficiency with the scimitar, double scimitar, longbow, and shortbow."
+432,elf,Elf Variant: Astral Elf,Cunning Intuition,"When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll a d4 and add the number rolled to the ability check. Shape."
+433,elf,Elf Variant: Astral Elf,Shadows,"You know the Minor Illusion cantrip. Starting at 3rd level, you can cast the Invisibility spell once with this trait, and you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+434,elf,Elf Variant: Astral Elf,Spells of the Mark,"If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Shadow Spells table are added to the spell list of your spellcasting class."
+435,elf,Elf Variant: Astral Elf,Incisive Sense,You have advantage on Intelligence (Investigation) and Wisdom (Insight) checks.
+436,elf,Elf Variant: Astral Elf,Blessing of the Moon Weaver,"You know the Light cantrip. When you reach 3rd level, you can cast the Sleep spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Invisibility spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells."
+437,elf,Elf Variant: Astral Elf,Ability Scores,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+438,elf,Elf Variant: Astral Elf,Creature Type,You are a Humanoid. You are also considered an elf for any prerequisite or effect that requires you to be an elf.
+439,elf,Elf Variant: Astral Elf,Astral Fire,"You know one of the following cantrips of your choice: dancing lights, light, or sacred flame. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose when you select this race)."
+440,elf,Elf Variant: Astral Elf,Starlight Step,"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+441,elf,Elf Variant: Astral Elf,Astral Trance,"You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you remain conscious."

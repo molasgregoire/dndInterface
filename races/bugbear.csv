@@ -1,0 +1,26 @@
+,race,subrace,section,content
+0,bugbear,bugbear,Ability Score Increase,"Your Strength score increases by 2, and your Dexterity score increases by 1."
+1,bugbear,bugbear,Age,Bugbears reach adulthood at age 16 and live up to 80 years.
+2,bugbear,bugbear,Alignment,"Bugbears endure a harsh existence that demands each of them to remain self-sufficient, even at the expense of their fellows. They tend to be chaotic evil."
+3,bugbear,bugbear,Size,"Bugbears are between 6 and 8 feet tall and weigh between 250 and 350 pounds. Your size is Medium. Your height is 6'0"" with a modifier of +2d12. Your weight is 200 lbs. with a modifier of +(height roll) x 2d6."
+4,bugbear,bugbear,Speed,Your base walking speed is 30 feet.
+5,bugbear,bugbear,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+6,bugbear,bugbear,Long-Limbed,"When you make a melee attack on your turn, your reach for it is 5 feet greater than normal."
+7,bugbear,bugbear,Powerful Build,"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+8,bugbear,bugbear,Sneaky,You are proficient in the Stealth skill.
+9,bugbear,bugbear,Surprise Attack,"If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat."
+10,bugbear,bugbear,Languages,"You can speak, read, and write Common and Goblin."
+11,bugbear,Bugbear MPMM,Ability Score Increase,"Your Strength score increases by 2, and your Dexterity score increases by 1."
+12,bugbear,Bugbear MPMM,Age,Bugbears reach adulthood at age 16 and live up to 80 years.
+13,bugbear,Bugbear MPMM,Alignment,"Bugbears endure a harsh existence that demands each of them to remain self-sufficient, even at the expense of their fellows. They tend to be chaotic evil."
+14,bugbear,Bugbear MPMM,Size,Medium
+15,bugbear,Bugbear MPMM,Speed,30 ft.
+16,bugbear,Bugbear MPMM,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+17,bugbear,Bugbear MPMM,Long-Limbed,"When you make a melee attack on your turn, your reach for it is 5 feet greater than normal."
+18,bugbear,Bugbear MPMM,Powerful Build,"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+19,bugbear,Bugbear MPMM,Sneaky,"You are proficient in the Stealth skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature."
+20,bugbear,Bugbear MPMM,Surprise Attack,"If you hit a creature with an attack roll, the creature takes an extra 2d6 damage if it hasn't taken a turn yet in the current combat."
+21,bugbear,Bugbear MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+22,bugbear,Bugbear MPMM,Ability Scores,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+23,bugbear,Bugbear MPMM,Creature Type,You are a Humanoid. You are also considered a goblinoid for any prerequisite or effect that requires you to be a goblinoid.
+24,bugbear,Bugbear MPMM,Fey Ancestry,You have advantage on saving throws you make to avoid or end the charmed condition on yourself.

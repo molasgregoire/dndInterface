@@ -1,0 +1,83 @@
+,race,subrace,section,content,race FR,subrace FR,section FR,content FR
+0,dhampir,dhampir,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1.",dhampir,dhampir,Augmentation du score de capacité,"Une valeur de capacité de votre choix augmente de 2, et une autre valeur de capacité de votre choix augmente de 1, ou trois valeurs de capacité de votre choix augmentent de 1."
+1,dhampir,dhampir,Creature Type,You are a Humanoid.,dhampir,dhampir,Type de créature,Vous êtes un humanoïde.
+2,dhampir,dhampir,Size,You are Medium or Small. You choose the size when you gain this lineage.,dhampir,dhampir,Taille,Vous êtes de taille moyenne ou petite. Vous choisissez la taille lorsque vous obtenez cette lignée.
+3,dhampir,dhampir,Speed,Your walking speed is 35 feet.,dhampir,dhampir,Vitesse,Votre vitesse de marche est de 35 pieds.
+4,dhampir,dhampir,Ancestral Legacy,"If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it.",dhampir,dhampir,Héritage ancestral,"Si vous remplacez une race par cette lignée, vous pouvez conserver les éléments suivants de cette race : toutes les compétences que vous avez acquises grâce à elle et toute vitesse d'escalade, de vol ou de nage que vous avez acquise grâce à elle."
+5,dhampir,dhampir,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray.,dhampir,dhampir,Vision dans le noir,Vous pouvez voir dans la pénombre à moins de 18 mètres de vous comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière tamisée. Vous discernez les couleurs dans cette obscurité comme des nuances de gris.
+6,dhampir,dhampir,Deathless Nature,You don’t need to breathe.,dhampir,dhampir,Nature immortelle,Tu n’as pas besoin de respirer.
+7,dhampir,dhampir,Spider Climb,"You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.",dhampir,dhampir,L'ascension de l'araignée,"Vous avez une vitesse d'ascension égale à votre vitesse de marche. De plus, au niveau 3, vous pouvez vous déplacer vers le haut, vers le bas et sur des surfaces verticales et à l'envers le long des plafonds, tout en gardant les mains libres."
+8,dhampir,dhampir,Vampiric Bite,"Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals 1d4 piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.",dhampir,dhampir,Morsure vampirique,"Votre morsure à crocs est une arme naturelle, qui compte comme une arme de mêlée simple avec laquelle vous êtes compétent. Vous ajoutez votre modificateur de Constitution, au lieu de votre modificateur de Force, aux jets d'attaque et de dégâts lorsque vous attaquez avec cette morsure. Elle inflige 1d4 dégâts perforants en cas de coup. Tant qu'il vous manque la moitié ou plus de vos points de vie, vous bénéficiez d'un avantage sur les jets d'attaque que vous effectuez avec cette morsure."
+9,dhampir,dhampir,"When you attack with this bite and hit a creature that isn’t a Construct or an Undead, you can empower yourself in one of the following ways of your",choice:,dhampir,dhampir,"Lorsque vous attaquez avec cette morsure et touchez une créature qui n'est ni une construction ni un mort-vivant, vous pouvez vous renforcer de l'une des manières suivantes de votre",choix:
+10,dhampir,dhampir,,"You gain a bonus to the next ability check or attack roll you make; the bonus equals the piercing damage dealt by the bite.
+",dhampir,dhampir,,Vous obtenez un bonus au prochain test de caractéristique ou au prochain jet d'attaque que vous effectuez ; le bonus est égal aux dégâts perforants infligés par la morsure.
+11,dhampir,Dhampir Hungers,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1.",dhampir,Les dhampirs ont faim,Augmentation du score de capacité,"Une valeur de capacité de votre choix augmente de 2, et une autre valeur de capacité de votre choix augmente de 1, ou trois valeurs de capacité de votre choix augmentent de 1."
+12,dhampir,Dhampir Hungers,Creature Type,You are a Humanoid.,dhampir,Les dhampirs ont faim,Type de créature,Vous êtes un humanoïde.
+13,dhampir,Dhampir Hungers,Size,You are Medium or Small. You choose the size when you gain this lineage.,dhampir,Les dhampirs ont faim,Taille,Vous êtes de taille moyenne ou petite. Vous choisissez la taille lorsque vous obtenez cette lignée.
+14,dhampir,Dhampir Hungers,Speed,Your walking speed is 35 feet.,dhampir,Les dhampirs ont faim,Vitesse,Votre vitesse de marche est de 35 pieds.
+15,dhampir,Dhampir Hungers,Ancestral Legacy,"If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it.",dhampir,Les dhampirs ont faim,Héritage ancestral,"Si vous remplacez une race par cette lignée, vous pouvez conserver les éléments suivants de cette race : toutes les compétences que vous avez acquises grâce à elle et toute vitesse d'escalade, de vol ou de nage que vous avez acquise grâce à elle."
+16,dhampir,Dhampir Hungers,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray.,dhampir,Les dhampirs ont faim,Vision dans le noir,Vous pouvez voir dans la pénombre à moins de 18 mètres de vous comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière tamisée. Vous discernez les couleurs dans cette obscurité comme des nuances de gris.
+17,dhampir,Dhampir Hungers,Deathless Nature,You don’t need to breathe.,dhampir,Les dhampirs ont faim,Nature immortelle,Tu n’as pas besoin de respirer.
+18,dhampir,Dhampir Hungers,Spider Climb,"You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.",dhampir,Les dhampirs ont faim,L'ascension de l'araignée,"Vous avez une vitesse d'ascension égale à votre vitesse de marche. De plus, au niveau 3, vous pouvez vous déplacer vers le haut, vers le bas et sur des surfaces verticales et à l'envers le long des plafonds, tout en gardant les mains libres."
+19,dhampir,Dhampir Hungers,Vampiric Bite,"Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals 1d4 piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.",dhampir,Les dhampirs ont faim,Morsure vampirique,"Votre morsure à crocs est une arme naturelle, qui compte comme une arme de mêlée simple avec laquelle vous êtes compétent. Vous ajoutez votre modificateur de Constitution, au lieu de votre modificateur de Force, aux jets d'attaque et de dégâts lorsque vous attaquez avec cette morsure. Elle inflige 1d4 dégâts perforants en cas de coup. Tant qu'il vous manque la moitié ou plus de vos points de vie, vous bénéficiez d'un avantage sur les jets d'attaque que vous effectuez avec cette morsure."
+20,dhampir,Dhampir Hungers,"When you attack with this bite and hit a creature that isn’t a Construct or an Undead, you can empower yourself in one of the following ways of your",choice:,dhampir,Les dhampirs ont faim,"Lorsque vous attaquez avec cette morsure et touchez une créature qui n'est ni une construction ni un mort-vivant, vous pouvez vous renforcer de l'une des manières suivantes de votre",choix:
+21,dhampir,Dhampir Hungers,,"
+d6
+Hunger
+
+
+1
+Blood
+
+
+2
+Flesh or raw meat
+
+
+3
+Cerebral spinal fluid
+
+
+4
+Psychic energy
+
+
+5
+Dreams
+
+
+6
+Life energy
+
+",dhampir,Les dhampirs ont faim,,"d6
+Faim
+
+1
+Sang
+
+2
+Chair ou viande crue
+
+3
+Liquide céphalo-rachidien
+
+4
+Énergie psychique
+
+5
+Rêves
+
+6
+Énergie vitale"
+22,dhampir,Dhampir Origins,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1.",dhampir,Origines des Dhampirs,Augmentation du score de capacité,"Une valeur de capacité de votre choix augmente de 2, et une autre valeur de capacité de votre choix augmente de 1, ou trois valeurs de capacité de votre choix augmentent de 1."
+23,dhampir,Dhampir Origins,Creature Type,You are a Humanoid.,dhampir,Origines des Dhampirs,Type de créature,Vous êtes un humanoïde.
+24,dhampir,Dhampir Origins,Size,You are Medium or Small. You choose the size when you gain this lineage.,dhampir,Origines des Dhampirs,Taille,Vous êtes de taille moyenne ou petite. Vous choisissez la taille lorsque vous obtenez cette lignée.
+25,dhampir,Dhampir Origins,Speed,Your walking speed is 35 feet.,dhampir,Origines des Dhampirs,Vitesse,Votre vitesse de marche est de 35 pieds.
+26,dhampir,Dhampir Origins,Ancestral Legacy,"If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it.",dhampir,Origines des Dhampirs,Héritage ancestral,"Si vous remplacez une race par cette lignée, vous pouvez conserver les éléments suivants de cette race : toutes les compétences que vous avez acquises grâce à elle et toute vitesse d'escalade, de vol ou de nage que vous avez acquise grâce à elle."
+27,dhampir,Dhampir Origins,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray.,dhampir,Origines des Dhampirs,Vision dans le noir,Vous pouvez voir dans la pénombre à moins de 18 mètres de vous comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière tamisée. Vous discernez les couleurs dans cette obscurité comme des nuances de gris.
+28,dhampir,Dhampir Origins,Deathless Nature,You don’t need to breathe.,dhampir,Origines des Dhampirs,Nature immortelle,Tu n’as pas besoin de respirer.
+29,dhampir,Dhampir Origins,Spider Climb,"You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.",dhampir,Origines des Dhampirs,L'ascension de l'araignée,"Vous avez une vitesse d'ascension égale à votre vitesse de marche. De plus, au niveau 3, vous pouvez vous déplacer vers le haut, vers le bas et sur des surfaces verticales et à l'envers le long des plafonds, tout en gardant les mains libres."
+30,dhampir,Dhampir Origins,Vampiric Bite,"Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals 1d4 piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.",dhampir,Origines des Dhampirs,Morsure vampirique,"Votre morsure à crocs est une arme naturelle, qui compte comme une arme de mêlée simple avec laquelle vous êtes compétent. Vous ajoutez votre modificateur de Constitution, au lieu de votre modificateur de Force, aux jets d'attaque et de dégâts lorsque vous attaquez avec cette morsure. Elle inflige 1d4 dégâts perforants en cas de coup. Tant qu'il vous manque la moitié ou plus de vos points de vie, vous bénéficiez d'un avantage sur les jets d'attaque que vous effectuez avec cette morsure."
+31,dhampir,Dhampir Origins,"When you attack with this bite and hit a creature that isn’t a Construct or an Undead, you can empower yourself in one of the following ways of your",choice:,dhampir,Origines des Dhampirs,"Lorsque vous attaquez avec cette morsure et touchez une créature qui n'est ni une construction ni un mort-vivant, vous pouvez vous renforcer de l'une des manières suivantes de votre",choix:
+32,dhampir,Dhampir Origins,,"You gain a bonus to the next ability check or attack roll you make; the bonus equals the piercing damage dealt by the bite.
+",dhampir,Origines des Dhampirs,,Vous obtenez un bonus au prochain test de caractéristique ou au prochain jet d'attaque que vous effectuez ; le bonus est égal aux dégâts perforants infligés par la morsure.

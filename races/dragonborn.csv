@@ -1,0 +1,332 @@
+,race,subrace,section,content
+0,dragonborn,dragonborn,Ability Score Increase,"Your Strength score increases by 2, and your Charisma score increases by 1."
+1,dragonborn,dragonborn,Age,"Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+2,dragonborn,dragonborn,Alignment,"Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains."
+3,dragonborn,dragonborn,Size,"Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium."
+4,dragonborn,dragonborn,Speed,Your base walking speed is 30 feet.
+5,dragonborn,dragonborn,Draconic Ancestry,"You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
+6,dragonborn,dragonborn,,"
+Dragon
+Damage Type
+Breath Weapon
+
+
+Black
+Acid
+5 by 30 ft. line (Dex. save)
+
+
+Blue
+Lightning
+5 by 30 ft. line (Dex. save)
+
+
+Brass
+Fire
+5 by 30 ft. line (Dex. save)
+
+
+Bronze
+Lightning
+5 by 30 ft. line (Dex. save)
+
+
+Copper
+Acid
+5 by 30 ft. line (Dex. save)
+
+
+Gold
+Fire
+5 by 30 ft. line (Dex. save)
+
+
+Green
+Poison
+15 ft. cone (Con. save)
+
+
+Red
+Fire
+15 ft. cone (Con. save)
+
+
+Silver
+Cold
+15 ft. cone (Con. save)
+
+
+White
+Cold
+15 ft. cone (Con. save)
+
+"
+7,dragonborn,dragonborn,Breath Weapon,"You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation. When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. After you use your breath weapon, you can’t use it again until you complete a short or long rest."
+8,dragonborn,dragonborn,Damage Resistance,You have resistance to the damage type associated with your draconic ancestry.
+9,dragonborn,dragonborn,Languages,"You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
+10,dragonborn,Dragonborn Variant: Draconbloods,Ability Score Increase,"Your Intelligence score increases by 2, and your Charisma score increases by 1."
+11,dragonborn,Dragonborn Variant: Draconbloods,Age,"Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+12,dragonborn,Dragonborn Variant: Draconbloods,Alignment,"Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains."
+13,dragonborn,Dragonborn Variant: Draconbloods,Size,"Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium."
+14,dragonborn,Dragonborn Variant: Draconbloods,Speed,Your base walking speed is 30 feet.
+15,dragonborn,Dragonborn Variant: Draconbloods,Draconic Ancestry,"You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
+16,dragonborn,Dragonborn Variant: Draconbloods,,"
+Dragon
+Damage Type
+Breath Weapon
+
+
+Black
+Acid
+5 by 30 ft. line (Dex. save)
+
+
+Blue
+Lightning
+5 by 30 ft. line (Dex. save)
+
+
+Brass
+Fire
+5 by 30 ft. line (Dex. save)
+
+
+Bronze
+Lightning
+5 by 30 ft. line (Dex. save)
+
+
+Copper
+Acid
+5 by 30 ft. line (Dex. save)
+
+
+Gold
+Fire
+5 by 30 ft. line (Dex. save)
+
+
+Green
+Poison
+15 ft. cone (Con. save)
+
+
+Red
+Fire
+15 ft. cone (Con. save)
+
+
+Silver
+Cold
+15 ft. cone (Con. save)
+
+
+White
+Cold
+15 ft. cone (Con. save)
+
+"
+17,dragonborn,Dragonborn Variant: Draconbloods,Breath Weapon,"You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation. When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. After you use your breath weapon, you can’t use it again until you complete a short or long rest."
+18,dragonborn,Dragonborn Variant: Draconbloods,Damage Resistance,You have resistance to the damage type associated with your draconic ancestry.
+19,dragonborn,Dragonborn Variant: Draconbloods,Languages,"You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
+20,dragonborn,Dragonborn Variant: Draconbloods,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+21,dragonborn,Dragonborn Variant: Draconbloods,Forceful Presence,"You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma (Intimidation or Persuasion) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest."
+22,dragonborn,Dragonborn Variant: Ravenite,Ability Score Increase,"Your Strength score increases by 2, and your Constitution score increases by 1."
+23,dragonborn,Dragonborn Variant: Ravenite,Age,"Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+24,dragonborn,Dragonborn Variant: Ravenite,Alignment,"Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains."
+25,dragonborn,Dragonborn Variant: Ravenite,Size,"Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium."
+26,dragonborn,Dragonborn Variant: Ravenite,Speed,Your base walking speed is 30 feet.
+27,dragonborn,Dragonborn Variant: Ravenite,Draconic Ancestry,"You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
+28,dragonborn,Dragonborn Variant: Ravenite,,"
+Dragon
+Damage Type
+Breath Weapon
+
+
+Black
+Acid
+5 by 30 ft. line (Dex. save)
+
+
+Blue
+Lightning
+5 by 30 ft. line (Dex. save)
+
+
+Brass
+Fire
+5 by 30 ft. line (Dex. save)
+
+
+Bronze
+Lightning
+5 by 30 ft. line (Dex. save)
+
+
+Copper
+Acid
+5 by 30 ft. line (Dex. save)
+
+
+Gold
+Fire
+5 by 30 ft. line (Dex. save)
+
+
+Green
+Poison
+15 ft. cone (Con. save)
+
+
+Red
+Fire
+15 ft. cone (Con. save)
+
+
+Silver
+Cold
+15 ft. cone (Con. save)
+
+
+White
+Cold
+15 ft. cone (Con. save)
+
+"
+29,dragonborn,Dragonborn Variant: Ravenite,Breath Weapon,"You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation. When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. After you use your breath weapon, you can’t use it again until you complete a short or long rest."
+30,dragonborn,Dragonborn Variant: Ravenite,Damage Resistance,You have resistance to the damage type associated with your draconic ancestry.
+31,dragonborn,Dragonborn Variant: Ravenite,Languages,"You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
+32,dragonborn,Dragonborn Variant: Ravenite,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+33,dragonborn,Dragonborn Variant: Ravenite,Forceful Presence,"You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma (Intimidation or Persuasion) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest."
+34,dragonborn,Dragonborn Variant: Ravenite,Vengeful Assault,"When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack with the weapon against that creature. Once you use this trait, you can't do so again until you finish a short or long rest."
+35,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+36,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Age,"Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+37,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Alignment,"Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains."
+38,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Size,You are Medium.
+39,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Speed,Your walking speed is 30 feet.
+40,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Draconic Ancestry,"You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
+41,dragonborn,Variant Dragonborn: Chromatic Dragonborn,,"
+Dragon
+Damage Type
+
+
+Black
+Acid
+
+
+Blue
+Lightning
+
+
+Green
+Poison
+
+
+Red
+Fire
+
+
+White
+Cold
+
+"
+42,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Breath Weapon,"When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 30-foot line that is 5 feet wide. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes 1d10 damage of the type associated with your Chromatic Ancestry. On a successful save, it takes half as much damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
+43,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Damage Resistance,You have resistance to the damage type associated with your draconic ancestry.
+44,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+45,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+46,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Forceful Presence,"You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma (Intimidation or Persuasion) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest."
+47,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Vengeful Assault,"When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack with the weapon against that creature. Once you use this trait, you can't do so again until you finish a short or long rest."
+48,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Chromatic Ancestry,"You have a chromatic dragon ancestor, granting you a special magical affinity. Choose one kind of dragon from the Chromatic Ancestry table. This determines the damage type for your other traits, as shown in the table."
+49,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Draconic Resistance,You have resistance to the damage type associated with your Chromatic Ancestry.
+50,dragonborn,Variant Dragonborn: Chromatic Dragonborn,Chromatic Warding,"Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can't do so again until you finish a long rest."
+51,dragonborn,Variant Dragonborn: Metallic Dragonborn,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+52,dragonborn,Variant Dragonborn: Metallic Dragonborn,Age,"Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+53,dragonborn,Variant Dragonborn: Metallic Dragonborn,Alignment,"Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains."
+54,dragonborn,Variant Dragonborn: Metallic Dragonborn,Size,You are Medium.
+55,dragonborn,Variant Dragonborn: Metallic Dragonborn,Speed,Your walking speed is 30 feet.
+56,dragonborn,Variant Dragonborn: Metallic Dragonborn,Draconic Ancestry,"You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
+57,dragonborn,Variant Dragonborn: Metallic Dragonborn,,"
+Dragon
+Damage Type
+
+
+Brass
+Fire
+
+
+Bronze
+Lightning
+
+
+Copper
+Acid
+
+
+Gold
+Fire
+
+
+Silver
+Cold
+
+"
+58,dragonborn,Variant Dragonborn: Metallic Dragonborn,Breath Weapon,"When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes 1d10 damage of the type associated with your Metallic Ancestry. On a successful save, it takes half as much damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
+59,dragonborn,Variant Dragonborn: Metallic Dragonborn,Damage Resistance,You have resistance to the damage type associated with your draconic ancestry.
+60,dragonborn,Variant Dragonborn: Metallic Dragonborn,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+61,dragonborn,Variant Dragonborn: Metallic Dragonborn,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+62,dragonborn,Variant Dragonborn: Metallic Dragonborn,Forceful Presence,"You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma (Intimidation or Persuasion) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest."
+63,dragonborn,Variant Dragonborn: Metallic Dragonborn,Vengeful Assault,"When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack with the weapon against that creature. Once you use this trait, you can't do so again until you finish a short or long rest."
+64,dragonborn,Variant Dragonborn: Metallic Dragonborn,Chromatic Ancestry,"You have a chromatic dragon ancestor, granting you a special magical affinity. Choose one kind of dragon from the Chromatic Ancestry table. This determines the damage type for your other traits, as shown in the table."
+65,dragonborn,Variant Dragonborn: Metallic Dragonborn,Draconic Resistance,You have resistance to the damage type associated with your Metallic Ancestry.
+66,dragonborn,Variant Dragonborn: Metallic Dragonborn,Chromatic Warding,"Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can't do so again until you finish a long rest."
+67,dragonborn,Variant Dragonborn: Metallic Dragonborn,Metallic Ancestry,"You have a metallic dragon ancestor, granting you a special magical affinity. Choose one kind of dragon from the Metallic Ancestry table. This determines the damage type for your other traits, as shown in the table."
+68,dragonborn,Variant Dragonborn: Metallic Dragonborn,Metallic Breath Weapon,"At 5th level, you gain a second breath weapon. When you take the Attack action on your turn, you can replace one of your attacks with an exhalation in a 15-foot cone. The save DC for this breath is 8 + your Constitution modifier + your proficiency bonus. Whenever you use this trait, choose one:"
+69,dragonborn,Variant Dragonborn: Metallic Dragonborn,Enervating Breath,Each creature in the cone must succeed on a Constitution saving throw or become incapacitated until the start of your next turn.
+70,dragonborn,Variant Dragonborn: Metallic Dragonborn,Repulsion Breath,Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked prone.
+71,dragonborn,Variant Dragonborn: Gem Dragonborn,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+72,dragonborn,Variant Dragonborn: Gem Dragonborn,Age,"Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+73,dragonborn,Variant Dragonborn: Gem Dragonborn,Alignment,"Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains."
+74,dragonborn,Variant Dragonborn: Gem Dragonborn,Size,You are Medium.
+75,dragonborn,Variant Dragonborn: Gem Dragonborn,Speed,Your walking speed is 30 feet.
+76,dragonborn,Variant Dragonborn: Gem Dragonborn,Draconic Ancestry,"You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
+77,dragonborn,Variant Dragonborn: Gem Dragonborn,,"
+Dragon
+Damage Type
+
+
+Amethyst
+Force
+
+
+Crystal
+Radiant
+
+
+Emerald
+Psychic
+
+
+Sapphire
+Thunder
+
+
+Topaz
+Necrotic
+
+"
+78,dragonborn,Variant Dragonborn: Gem Dragonborn,Breath Weapon,"When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes 1d10 damage of the type associated with your Gem Ancestry. On a successful save, it takes half as much damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
+79,dragonborn,Variant Dragonborn: Gem Dragonborn,Damage Resistance,You have resistance to the damage type associated with your draconic ancestry.
+80,dragonborn,Variant Dragonborn: Gem Dragonborn,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+81,dragonborn,Variant Dragonborn: Gem Dragonborn,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+82,dragonborn,Variant Dragonborn: Gem Dragonborn,Forceful Presence,"You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma (Intimidation or Persuasion) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest."
+83,dragonborn,Variant Dragonborn: Gem Dragonborn,Vengeful Assault,"When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack with the weapon against that creature. Once you use this trait, you can't do so again until you finish a short or long rest."
+84,dragonborn,Variant Dragonborn: Gem Dragonborn,Chromatic Ancestry,"You have a chromatic dragon ancestor, granting you a special magical affinity. Choose one kind of dragon from the Chromatic Ancestry table. This determines the damage type for your other traits, as shown in the table."
+85,dragonborn,Variant Dragonborn: Gem Dragonborn,Draconic Resistance,You have resistance to the damage type associated with your Gem Ancestry.
+86,dragonborn,Variant Dragonborn: Gem Dragonborn,Chromatic Warding,"Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can't do so again until you finish a long rest."
+87,dragonborn,Variant Dragonborn: Gem Dragonborn,Metallic Ancestry,"You have a metallic dragon ancestor, granting you a special magical affinity. Choose one kind of dragon from the Metallic Ancestry table. This determines the damage type for your other traits, as shown in the table."
+88,dragonborn,Variant Dragonborn: Gem Dragonborn,Metallic Breath Weapon,"At 5th level, you gain a second breath weapon. When you take the Attack action on your turn, you can replace one of your attacks with an exhalation in a 15-foot cone. The save DC for this breath is 8 + your Constitution modifier + your proficiency bonus. Whenever you use this trait, choose one:"
+89,dragonborn,Variant Dragonborn: Gem Dragonborn,Enervating Breath,Each creature in the cone must succeed on a Constitution saving throw or become incapacitated until the start of your next turn.
+90,dragonborn,Variant Dragonborn: Gem Dragonborn,Repulsion Breath,Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked prone.
+91,dragonborn,Variant Dragonborn: Gem Dragonborn,Gem Ancestry,"You have a gem dragon ancestor, granting you a special magical affinity. Choose one kind of dragon from the Gem Ancestry table. This determines the damage type for your other traits, as shown in the table."
+92,dragonborn,Variant Dragonborn: Gem Dragonborn,Psionic Mind,"You can send telepathic messages to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them."
+93,dragonborn,Variant Dragonborn: Gem Dragonborn,Gem Flight,"Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can't do so again until you finish a long rest."

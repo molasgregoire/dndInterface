@@ -1,0 +1,22 @@
+,race,subrace,section,content
+0,hobgoblin,hobgoblin,Ability Score Increase,"Your Constitution score increases by 2, and your Intelligence score increases by 1."
+1,hobgoblin,hobgoblin,Age,Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
+2,hobgoblin,hobgoblin,Alignment,"Hobgoblin society is built on fidelity to a rigid, unforgiving code of conduct. As such, they tend toward lawful evil."
+3,hobgoblin,hobgoblin,Size,"Hobgoblins are between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium. Your height is 4'8"" with a modifier of +2d10. Your weight is 110 lbs. with a modifier of +(height roll) x 2d4."
+4,hobgoblin,hobgoblin,Speed,Your base walking speed is 30 feet.
+5,hobgoblin,hobgoblin,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+6,hobgoblin,hobgoblin,Martial Training,You are proficient with two martial weapons of your choice and with light armor.
+7,hobgoblin,hobgoblin,Saving Face,"Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
+8,hobgoblin,hobgoblin,Languages,"You can speak, read, and write Common and Goblin."
+9,hobgoblin,Hobgoblin MPMM,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+10,hobgoblin,Hobgoblin MPMM,Age,Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
+11,hobgoblin,Hobgoblin MPMM,Alignment,"Hobgoblin society is built on fidelity to a rigid, unforgiving code of conduct. As such, they tend toward lawful evil."
+12,hobgoblin,Hobgoblin MPMM,Size,Medium
+13,hobgoblin,Hobgoblin MPMM,Speed,30 ft.
+14,hobgoblin,Hobgoblin MPMM,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+15,hobgoblin,Hobgoblin MPMM,Martial Training,You are proficient with two martial weapons of your choice and with light armor.
+16,hobgoblin,Hobgoblin MPMM,Saving Face,"Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
+17,hobgoblin,Hobgoblin MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+18,hobgoblin,Hobgoblin MPMM,Creature Type,You are a Humanoid. You are also considered a goblinoid for any prerequisite or effect that requires you to be a goblinoid.
+19,hobgoblin,Hobgoblin MPMM,Fey Ancestry,You have advantage on saving throws you make to avoid or end the charmed condition on yourself.
+20,hobgoblin,Hobgoblin MPMM,Fey Gift,"You can use this trait to take the Help action as a bonus action, and you can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest."

@@ -1,0 +1,49 @@
+,race,subrace,section,content
+0,half-orc,half-orc,Ability Score Increase,"Your Strength score increases by 2, and your Constitution score increases by 1."
+1,half-orc,half-orc,Age,"Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years."
+2,half-orc,half-orc,Alignment,Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.
+3,half-orc,half-orc,Size,"Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium."
+4,half-orc,half-orc,Speed,Your base walking speed is 30 feet.
+5,half-orc,half-orc,Darkvision,"Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+6,half-orc,half-orc,Menacing,You gain proficiency in the Intimidation skill.
+7,half-orc,half-orc,Relentless Endurance,"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest."
+8,half-orc,half-orc,Savage Attacks,"When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
+9,half-orc,half-orc,Languages,"You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script."
+10,half-orc,Variant Half-Orc: Mark of Finding,Ability Score Increase,"Your Wisdom score increases by 2, and your Constitution score increases by 1."
+11,half-orc,Variant Half-Orc: Mark of Finding,Age,"Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years."
+12,half-orc,Variant Half-Orc: Mark of Finding,Alignment,Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.
+13,half-orc,Variant Half-Orc: Mark of Finding,Size,"Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium."
+14,half-orc,Variant Half-Orc: Mark of Finding,Speed,Your base walking speed is 30 feet.
+15,half-orc,Variant Half-Orc: Mark of Finding,Darkvision,"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+16,half-orc,Variant Half-Orc: Mark of Finding,Menacing,You gain proficiency in the Intimidation skill.
+17,half-orc,Variant Half-Orc: Mark of Finding,Relentless Endurance,"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest."
+18,half-orc,Variant Half-Orc: Mark of Finding,Savage Attacks,"When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
+19,half-orc,Variant Half-Orc: Mark of Finding,Languages,"You can speak, read, and write Common and Goblin."
+20,half-orc,Variant Half-Orc: Mark of Finding,Hunter's Intuition,"When you make a Wisdom (Perception) or Wisdom (Survival) check, you can roll a d4 and add the number rolled to the ability check."
+21,half-orc,Variant Half-Orc: Mark of Finding,Finder's Magic,"You can cast the Hunter's Mark spell with this trait. Starting at 3rd level, you can also cast the Locate Object spell with it. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a long rest. Wisdom is your spellcasting ability for these spells."
+22,half-orc,Variant Half-Orc: Mark of Finding,Spells of the Mark,"If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Finding Spells table are added to the spell list of your spellcasting class."
+23,half-orc,Variant Half-Orc: Mark of Finding,,"
+Spell Level
+Spells
+
+
+1st
+Faerie Fire, Longstrider
+
+
+2nd
+Locate Animals or Plants, Locate Object
+
+
+3rd
+Clairvoyance, Speak With Plants
+
+
+4th
+Divination, Locate Creature
+
+
+5th
+Commune With Nature
+
+"

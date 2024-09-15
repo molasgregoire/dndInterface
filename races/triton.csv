@@ -1,0 +1,93 @@
+,race,subrace,section,content
+0,triton,triton,Ability Score Increase,"Your Strength score increases by 1, your Constitution score increases by 1, and your Charisma score increases by 1."
+1,triton,triton,Age,Tritons reach maturity around age 15 and can live up to 200 years.
+2,triton,triton,Alignment,"Tritons tend toward lawful good. As guardians of the darkest reaches of the sea, their culture pushes them toward order and benevolence."
+3,triton,triton,Size,"Tritons are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium. Your height is 4'6"" with a modifier of +2d10. Your weight is 90 lbs. with a modifier of +(height roll) x 2d4."
+4,triton,triton,Speed,"Your base walking speed is 30 feet, and you have a swimming speed of 30 feet."
+5,triton,triton,Amphibious,You can breathe air and water.
+6,triton,triton,Control Air and Water,"A child of the sea, you can call on the magic of elemental air and water. You can cast Fog Cloud with this trait. Starting at 3rd level, you can cast Gust of Wind with it, and starting at 5th level, you can also cast Wall of Water with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells."
+7,triton,triton,Emissary of the Sea,"Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return."
+8,triton,triton,Guardians of the Depths,"Adapted to even the most extreme ocean depths, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment."
+9,triton,triton,Languages,"You can speak, read, and write Common and Primordial."
+10,triton,Triton Quirks,Ability Score Increase,"Your Strength score increases by 1, your Constitution score increases by 1, and your Charisma score increases by 1."
+11,triton,Triton Quirks,Age,Tritons reach maturity around age 15 and can live up to 200 years.
+12,triton,Triton Quirks,Alignment,"Tritons tend toward lawful good. As guardians of the darkest reaches of the sea, their culture pushes them toward order and benevolence."
+13,triton,Triton Quirks,Size,"Tritons are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium. Your height is 4'6"" with a modifier of +2d10. Your weight is 90 lbs. with a modifier of +(height roll) x 2d4."
+14,triton,Triton Quirks,Speed,"Your base walking speed is 30 feet, and you have a swimming speed of 30 feet."
+15,triton,Triton Quirks,Amphibious,You can breathe air and water.
+16,triton,Triton Quirks,Control Air and Water,"A child of the sea, you can call on the magic of elemental air and water. You can cast Fog Cloud with this trait. Starting at 3rd level, you can cast Gust of Wind with it, and starting at 5th level, you can also cast Wall of Water with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells."
+17,triton,Triton Quirks,Emissary of the Sea,"Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return."
+18,triton,Triton Quirks,Guardians of the Depths,"Adapted to even the most extreme ocean depths, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment."
+19,triton,Triton Quirks,Languages,"You can speak, read, and write Common and Primordial."
+20,triton,Triton Quirks,,"
+d6
+Quirk
+
+
+1
+You phrase requests as orders that you expect to be obeyed.
+
+
+2
+You are quick to boast of the greatness of your civilization.
+
+
+3
+You learned an antiquated version of Common and drop ""thee"" and ""thou"" into your speech.
+
+
+4
+You assume that people are telling you the truth about local customs and expectations.
+
+
+5
+The surface world is a wondrous place, and you catalog all its details in a journal.
+
+
+6
+You mistakenly assume that surface folk know about and are impressed by your people's history.
+
+"
+21,triton,Triton Quirks,"Most triton names have two or three syllables. Male names typically end with a vowel and the letter s, and female names traditionally end with an n. Tritons use their home protectorate as a surname, with the name formed by adding a vowel followed by a ""th"" to the end of",the protectorate's name.
+22,triton,Triton MPMM,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+23,triton,Triton MPMM,Age,Tritons reach maturity around age 15 and can live up to 200 years.
+24,triton,Triton MPMM,Alignment,"Tritons tend toward lawful good. As guardians of the darkest reaches of the sea, their culture pushes them toward order and benevolence."
+25,triton,Triton MPMM,Size,Medium
+26,triton,Triton MPMM,Speed,"Your walking speed is 30 feet, and you have a swimming speed equal to your walking speed."
+27,triton,Triton MPMM,Amphibious,You can breathe air and water.
+28,triton,Triton MPMM,Control Air and Water,"You can cast Fog Cloud with this trait. Starting at 3rd level, you can cast the Gust of Wind spell with this trait. Starting at 5th level, you can also cast the Water Walk spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level."
+29,triton,Triton MPMM,Emissary of the Sea,"You can communicate simple ideas to any Beast, Elemental, or Monstrosity that has a swimming speed. It can understand your words, though you have no special ability to understand it in return."
+30,triton,Triton MPMM,Guardians of the Depths,"Adapted to even the most extreme ocean depths, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment."
+31,triton,Triton MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+32,triton,Triton MPMM,,"
+d6
+Quirk
+
+
+1
+You phrase requests as orders that you expect to be obeyed.
+
+
+2
+You are quick to boast of the greatness of your civilization.
+
+
+3
+You learned an antiquated version of Common and drop ""thee"" and ""thou"" into your speech.
+
+
+4
+You assume that people are telling you the truth about local customs and expectations.
+
+
+5
+The surface world is a wondrous place, and you catalog all its details in a journal.
+
+
+6
+You mistakenly assume that surface folk know about and are impressed by your people's history.
+
+"
+33,triton,Triton MPMM,"Most triton names have two or three syllables. Male names typically end with a vowel and the letter s, and female names traditionally end with an n. Tritons use their home protectorate as a surname, with the name formed by adding a vowel followed by a ""th"" to the end of",the protectorate's name.
+34,triton,Triton MPMM,Darkvision,You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+35,triton,Triton MPMM,Guardian of the Depths,"Adapted to the frigid ocean depths, you have resistance to cold damage."

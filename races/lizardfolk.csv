@@ -1,0 +1,112 @@
+,race,subrace,section,content
+0,lizardfolk,lizardfolk,Ability Score Increase,"Your Constitution score increases by 2, and your Wisdom score increases by 1."
+1,lizardfolk,lizardfolk,Age,Lizardfolk reach maturity around age 14 and rarely live longer than 60 years.
+2,lizardfolk,lizardfolk,Alignment,"Most lizardfolk are neutral. They see the world as a place of predators and prey, where life and death are natural processes. They wish only to survive, and prefer to leave other creatures to their own devices."
+3,lizardfolk,lizardfolk,Size,"Lizardfolk are a little bulkier and taller than humans, and their colorful frills make them appear even larger. Your size is Medium. Your height is 4'9"" with a modifier of +2d10. Your weight is 120 lbs. with a modifier of +(height roll) x 2d6."
+4,lizardfolk,lizardfolk,Speed,"Your base walking speed is 30 feet, and you have a swimming speed of 30 feet."
+5,lizardfolk,lizardfolk,Bite,"Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+6,lizardfolk,lizardfolk,Cunning Artisan,"As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools."
+7,lizardfolk,lizardfolk,Hold Breath,You can hold your breath for up to 15 minutes at a time.
+8,lizardfolk,lizardfolk,Hunter's Lore,"You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival."
+9,lizardfolk,lizardfolk,Natural Armor,"You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor."
+10,lizardfolk,lizardfolk,Hungry Jaws,"In battle, you can throw yourself into a vicious feeding frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points equal to your Constitution modifier (minimum of 1), and you can't use this trait again until you finish a short or long rest."
+11,lizardfolk,lizardfolk,Languages,"You can speak, read, and write Common and Draconic."
+12,lizardfolk,Lizardfolk Quirks,Ability Score Increase,"Your Constitution score increases by 2, and your Wisdom score increases by 1."
+13,lizardfolk,Lizardfolk Quirks,Age,Lizardfolk reach maturity around age 14 and rarely live longer than 60 years.
+14,lizardfolk,Lizardfolk Quirks,Alignment,"Most lizardfolk are neutral. They see the world as a place of predators and prey, where life and death are natural processes. They wish only to survive, and prefer to leave other creatures to their own devices."
+15,lizardfolk,Lizardfolk Quirks,Size,"Lizardfolk are a little bulkier and taller than humans, and their colorful frills make them appear even larger. Your size is Medium. Your height is 4'9"" with a modifier of +2d10. Your weight is 120 lbs. with a modifier of +(height roll) x 2d6."
+16,lizardfolk,Lizardfolk Quirks,Speed,"Your base walking speed is 30 feet, and you have a swimming speed of 30 feet."
+17,lizardfolk,Lizardfolk Quirks,Bite,"Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+18,lizardfolk,Lizardfolk Quirks,Cunning Artisan,"As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools."
+19,lizardfolk,Lizardfolk Quirks,Hold Breath,You can hold your breath for up to 15 minutes at a time.
+20,lizardfolk,Lizardfolk Quirks,Hunter's Lore,"You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival."
+21,lizardfolk,Lizardfolk Quirks,Natural Armor,"You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor."
+22,lizardfolk,Lizardfolk Quirks,Hungry Jaws,"In battle, you can throw yourself into a vicious feeding frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points equal to your Constitution modifier (minimum of 1), and you can't use this trait again until you finish a short or long rest."
+23,lizardfolk,Lizardfolk Quirks,Languages,"You can speak, read, and write Common and Draconic."
+24,lizardfolk,Lizardfolk Quirks,,"
+d8
+Quirk
+
+
+1
+You hate waste and see no reason not to scavenge fallen enemies. Fingers are tasty and portable!
+
+
+2
+You sleep best while mostly submerged in water.
+
+
+3
+Money is meaningless to you.
+
+
+4
+You think there are only two species of humanoid: lizardfolk and meat.
+
+
+5
+You have learned to laugh. You use this talent in response to all emotional situations, to better fit in with your comrades.
+
+
+6
+You still don't understand how metaphors work. That doesn't stop you from using them at every opportunity.
+
+
+7
+You appreciate the soft humanoids who realize they need chain mail and swords to match the gifts you were born with.
+
+
+8
+You enjoy eating your food while it's still wriggling.
+
+"
+25,lizardfolk,Lizardfolk MPMM,Ability Score Increase,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+26,lizardfolk,Lizardfolk MPMM,Age,Lizardfolk reach maturity around age 14 and rarely live longer than 60 years.
+27,lizardfolk,Lizardfolk MPMM,Alignment,"Most lizardfolk are neutral. They see the world as a place of predators and prey, where life and death are natural processes. They wish only to survive, and prefer to leave other creatures to their own devices."
+28,lizardfolk,Lizardfolk MPMM,Size,Medium
+29,lizardfolk,Lizardfolk MPMM,Speed,"Your walking speed is 30 feet, and you have a swimming speed equal to your walking speed."
+30,lizardfolk,Lizardfolk MPMM,Bite,"You have a fanged maw that you can use to make unarmed strikes. When you hit with it, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike."
+31,lizardfolk,Lizardfolk MPMM,Cunning Artisan,"As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools."
+32,lizardfolk,Lizardfolk MPMM,Hold Breath,You can hold your breath for up to 15 minutes at a time.
+33,lizardfolk,Lizardfolk MPMM,Hunter's Lore,"You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival."
+34,lizardfolk,Lizardfolk MPMM,Natural Armor,"You have tough, scaly skin. When you aren't wearing armor, your base AC is 13 + Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor."
+35,lizardfolk,Lizardfolk MPMM,Hungry Jaws,"You can throw yourself into a feeding frenzy. As a bonus action, you can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain temporary hit points equal to your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+36,lizardfolk,Lizardfolk MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+37,lizardfolk,Lizardfolk MPMM,,"
+d8
+Quirk
+
+
+1
+You hate waste and see no reason not to scavenge fallen enemies. Fingers are tasty and portable!
+
+
+2
+You sleep best while mostly submerged in water.
+
+
+3
+Money is meaningless to you.
+
+
+4
+You think there are only two species of humanoid: lizardfolk and meat.
+
+
+5
+You have learned to laugh. You use this talent in response to all emotional situations, to better fit in with your comrades.
+
+
+6
+You still don't understand how metaphors work. That doesn't stop you from using them at every opportunity.
+
+
+7
+You appreciate the soft humanoids who realize they need chain mail and swords to match the gifts you were born with.
+
+
+8
+You enjoy eating your food while it's still wriggling.
+
+"
+38,lizardfolk,Lizardfolk MPMM,Nature's Intuition,"Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: Animal Handling, Medicine, Nature, Perception, Stealth, or Survival."

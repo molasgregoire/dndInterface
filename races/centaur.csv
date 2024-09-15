@@ -1,0 +1,24 @@
+,race,subrace,section,content
+0,centaur,centaur,Ability Score Increase,"Your Strength score increases by 2, and your Wisdom score increases by 1."
+1,centaur,centaur,Age,Centaurs mature and age at about the same rate as humans.
+2,centaur,centaur,Size,"Centaurs stand between 6 and 7 feet tall, with their equine bodies reaching about 4 feet at the withers. Your size is Medium."
+3,centaur,centaur,Speed,Your base walking speed is 40 feet.
+4,centaur,centaur,Fey,"Your creature type is fey, rather than humanoid."
+5,centaur,centaur,Charge,"If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves."
+6,centaur,centaur,Hooves,"Your hooves are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+7,centaur,centaur,Equine Build,You count as one size larger when determining your carrying capacity and the weight you can push or drag.
+8,centaur,centaur,Survivor,"You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival."
+9,centaur,centaur,Languages,"You can speak, read, and write Common and Sylvan."
+10,centaur,Centaur MPMM,Ability Score Increase,"Your Strength score increases by 2, and your Wisdom score increases by 1."
+11,centaur,Centaur MPMM,Age,Centaurs mature and age at about the same rate as humans.
+12,centaur,Centaur MPMM,Size,Medium
+13,centaur,Centaur MPMM,Speed,40 ft.
+14,centaur,Centaur MPMM,Fey,"Your creature type is fey, rather than humanoid."
+15,centaur,Centaur MPMM,Charge,"If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves."
+16,centaur,Centaur MPMM,Hooves,"You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike."
+17,centaur,Centaur MPMM,Equine Build,You count as one size larger when determining your carrying capacity and the weight you can push or drag.
+18,centaur,Centaur MPMM,Survivor,"You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival."
+19,centaur,Centaur MPMM,Languages,"You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character."
+20,centaur,Centaur MPMM,Ability Scores,"One ability score of your choice increases by 2, and one other ability score of your choice increases by 1, or three ability scores of your choice increase by 1."
+21,centaur,Centaur MPMM,Creature Type,You are a Fey.
+22,centaur,Centaur MPMM,Natural Affinity,"Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival."
