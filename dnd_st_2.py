@@ -1,13 +1,9 @@
 
 #%% LIBRARIES
-import numpy as np
 import pandas as pd
-import requests
 import streamlit as st
-#import discord
 import json
 import os
-from bs4 import BeautifulSoup as bs
 
 st.set_page_config(
     layout="wide",
