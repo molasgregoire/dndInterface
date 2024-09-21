@@ -105,6 +105,24 @@ def ajoutText( df, globalIndicator , title, source, sourceTxt , descri , flag = 
 
 #%%
 
+if 'allInfo' not in st.session_state:
+    st.session_state['allInfo'] = False
+
+def enoughInfo():
+
+    #allInfo = True
+    allInfo = (st.session_state['race']!=select)  
+    #allInfo = allInfo and (st.session_state['sousrace']!=select)  
+    allInfo = allInfo and (st.session_state['classe1']!=select) 
+    #allInfo = allInfo and (st.session_state['sousclass1']!=select) 
+    #allInfo = allInfo and (st.session_state['classe2']!=select)  
+    #allInfo = allInfo and (st.session_state['sousclass2']!=select)  
+    allInfo = allInfo and (st.session_state['historique']!=select) 
+    allInfo = allInfo and ( st.session_state['lvl1'] + st.session_state['lvl2']*(st.session_state['classe2']!=select) == maxLvl ) 
+    
+    st.session_state['allInfo'] = allInfo
+
+#%%
 
 # note : tout n'est pas inclu
 
@@ -115,7 +133,8 @@ def ajoutText( df, globalIndicator , title, source, sourceTxt , descri , flag = 
 # (subclass not included yet)
 # Background
 
-def buildCharacterV1( nomPerso, stats, pvs, race, subrace, class1,lvl1, class2,lvl2 , background, feats , fileName = 'newFile'):
+#def buildCharacterV1( nomPerso, stats, pvs, race, subrace, class1,lvl1, class2,lvl2 , background, feats , fileName = 'newFile'):
+def buildCharacterV1( nomPerso, stats, pvs, race, class1,lvl1, class2,lvl2 , background, feats , fileName = 'newFile'):
     with open('./json/Fiche Vide.json', 'r',encoding='utf-8') as file:
         data = json.load(file)
         
@@ -132,14 +151,15 @@ def buildCharacterV1( nomPerso, stats, pvs, race, subrace, class1,lvl1, class2,l
     
 
     ##### RACE #####
-    dfRace = pd.read_csv( './races/'+race+'Comb.csv' )
-    dfRace = dfRace[ dfRace['subrace'] == subrace ].fillna('')
+    dfRace = pd.read_csv( './races/allRaces.csv' )
+    #dfRace = pd.read_csv( './races/'+race+'Comb.csv' )
+    dfRace = dfRace[ dfRace['subrace'] == race ].fillna('')
     
-    dfJson = ajoutText( dfJson ,  'RaceHeader' , '======= RACE =======', 'Race', subrace , '' , flag = 0 )
-    dfJson = ajoutText( dfJson ,  'RaceDenom' , str.upper(subrace), 'Race', subrace , '' , flag = 0 )
+    dfJson = ajoutText( dfJson ,  'RaceHeader' , '======= RACE =======', 'Race', race , '' , flag = 0 )
+    #dfJson = ajoutText( dfJson ,  'RaceDenom' , str.upper(subrace), 'Race', subrace , '' , flag = 0 )
     
     for idx, row in dfRace.iterrows():
-        dfJson = ajoutText( dfJson ,  'Race'+str(idx) , row['section FR'], 'Race', subrace , row['content FR'] , flag = 0 )
+        dfJson = ajoutText( dfJson ,  'Race'+str(idx) , row['section FR'], 'Race', race , row['content FR'] , flag = 0 )
     
     
     ##### CLASS 1 #####
@@ -151,7 +171,7 @@ def buildCharacterV1( nomPerso, stats, pvs, race, subrace, class1,lvl1, class2,l
     #dfClass1 = dfClass1[ dfClass1['Level'].astype('int') <= lvl1 ]
     
     dfJson = ajoutText( dfJson ,  'Class1Header' , '======= CLASSE 1 =======', 'Class', class1 , '' , flag = 0 )
-    dfJson = ajoutText( dfJson ,  'Class1Denom' , str.upper(class1), 'Class', class1 , '' , flag = 0 )
+    #dfJson = ajoutText( dfJson ,  'Class1Denom' , str.upper(class1), 'Class', class1 , '' , flag = 0 )
     
     for idx, row in dfClass1.iterrows():
         dfJson = ajoutText( dfJson ,  'Class1-'+str(idx) , row['Capacites'], 'Class', class1 + ' niv .' + str(row['Level']) , row['Capacites Texts'] , flag = 0 )
@@ -165,7 +185,7 @@ def buildCharacterV1( nomPerso, stats, pvs, race, subrace, class1,lvl1, class2,l
         dfClass2 = dfClass2[ dfClass2['Level'] <= lvl2 ]   
         
         dfJson = ajoutText( dfJson ,  'Class2Header' , '======= CLASSE 2 =======', 'Class', class2 , '' , flag = 0 )
-        dfJson = ajoutText( dfJson ,  'Class2Denom' , str.upper(class2), 'Class', class2 , '' , flag = 0 )
+        #dfJson = ajoutText( dfJson ,  'Class2Denom' , str.upper(class2), 'Class', class2 , '' , flag = 0 )
         
         for idx, row in dfClass2.iterrows():
             dfJson = ajoutText( dfJson ,  'Class2-'+str(idx) , row['Capacites'], 'Class', class2 + ' niv .' + str(row['Level']) , row['Capacites Texts'] , flag = 0 )
@@ -176,7 +196,7 @@ def buildCharacterV1( nomPerso, stats, pvs, race, subrace, class1,lvl1, class2,l
     rowBG = dfBG[ dfBG['background'].str.lower() == background ].iloc[0]
 
     dfJson = ajoutText( dfJson ,  'HistoHeader' , '===== HISTORIQUE =====', 'Background', background , '' , flag = 0 )
-    dfJson = ajoutText( dfJson ,  'HistoDenom' , str.upper(background), 'Background', background , '' , flag = 0 )
+    #dfJson = ajoutText( dfJson ,  'HistoDenom' , str.upper(background), 'Background', background , '' , flag = 0 )
     
     # description de l'historique
     dfJson = ajoutText( dfJson ,  'HistoDescri' , 'Description', 'Background', background , rowBG['description FR'] , flag = 0 )
@@ -233,35 +253,98 @@ st.write('des problèmes peuvent subister dans les données fournie, et il ny a 
 #%%
 
 # nom du personnage
-st.text_input("nom perso", "Nom du personnage",key='nom')
+st.text_input("nom perso", "Nom du personnage",key='nom',on_change=enoughInfo)
             
 #st.write(st.session_state.nom )     
 
 #%% Races
 
-listRace = list_files_with_suffix(folder_path='./races/', suffix='Comb.csv')
+# listRace = list_files_with_suffix(folder_path='./races/', suffix='Comb.csv')
+
+listRace = ['Aarakocra MPMM', 'aasimar', 'Angelic Guide', 'Protector', 'Scourge',
+       'Fallen', 'Variant Aasimar', 'Aasimar MPMM', 
+       'autognome', 'Autognome History', 
+       'bugbear', 'Bugbear MPMM', 'Centaur MPMM', 'Changeling MPMM', 
+       'dhampir', 'Dhampir Hungers', 'Dhampir Origins', 
+       'disembodied', 
+       'dragonborn', 'Dragonborn Variant: Draconbloods', 'Dragonborn Variant: Ravenite', 
+       'Variant Dragonborn: Chromatic Dragonborn', 'Variant Dragonborn: Metallic Dragonborn', 
+       'Variant Dragonborn: Gem Dragonborn', 
+       'dwarf', 'Hill Dwarf', 'Mountain Dwarf', 'Duergar', 'Mark of Warding', 'Duergar MPMM', 
+       'elf', 'Drow', 'High Elf', 'Wood Elf', 'Eladrin', 'Eladrin (Variant)', 
+       'Sea Elf', 'Shadar-kai', 'Elves of Aerenal', 'Aereni Wood Elf', 
+       'Valenar Wood Elf', 'Mark of Shadow', 'Pallid Elf', 'Eladrin MPMM', 'Sea Elf MPMM', 
+       'Shadar-Kai MPMM', 'Elf Variant: Astral Elf', 'fairy', 'firbolg', 
+       'Firbolg Adventurers', 'Firbolg MPMM', 
+       'genasi', 
+       'Genasi (Air) MPMM', 'Genasi (Earth) MPMM', 'Genasi (Fire) MPMM', 'Genasi (Water) MPMM', 
+       'giff', 
+       'gith', 
+       'Githyanki MPMM', 'Githzerai MPMM', 
+       'gnome', 'Forest Gnome', 'Rock Gnome', 'Born of Deep Earth', 'Master Miners', 
+       'Deep Dwellers', 'Scouts and Spies', 'Deep Gnome Names', 'Deep Gnome Traits', 
+       'Mark of Scribing', 
+       'Deep Gnome MPMM', 
+       'Goblin MPMM', 
+       'Goliath MPMM', 'hadozee', 
+       'half-elf', 'Variant Half-Elf: Aquatic Elf Descent)', 
+       'Variant Half-Elf: Drow Descent)', 
+       'Variant Half-Elf: Moon Elf or Sun Elf Descent)', 
+       'Variant Half-Elf: Wood Elf Descent)', 'Variant Half-Elf: Mark of Detection', 
+       'Variant Half-Elf: Mark of Storm', 'half-orc', 'Variant Half-Orc: Mark of Finding', 
+       'halfling', 'Lightfoot Halfling', 'Stout Halfling', 'Ghostwise Halfling', 
+       'Mark of Healing', 'Mark of Hospitality', 'Lotusden Halflings', 
+       'Harengon Traits', 
+       'hexblood', 'Hexblood Origins', 'Becoming a Hag', 
+       'Hobgoblin MPMM', 
+       'human', 'Variant Human', 
+       'Variant Human: Mark of Finding', 'Variant Human: Mark of Handling', 
+       'Variant Human: Mark of Making', 'Variant Human: Mark of Passage', 
+       'Variant Human: Mark of Sentinel', 
+       'kalashtar', 'kender', 
+       'Kenku MPMM', 'Kobold MPMM', 'leonin', 
+       'Lizardfolk MPMM', 'loxodon', 'mapach', 
+       'Minotaur MPMM', 'Orc MPMM', 
+       'owlin', 'plasmoid', 'reborn', 'Lost Memories', 'Reborn Origins', 
+       'Satyr MPMM', 
+       'Shifter MPMM', 'simic-hybrid', 'Animal Enhancement', 'strig', 'Stout Strig', 
+       'Swift Strig',  'Tabaxi MPMM', 'thri-kreen', 
+       'tiefling', 'Bloodline of Asmodeus', 'Bloodline of Baalzebul', 
+       'Bloodline of Dispater', 'Bloodline of Fierna', 'Bloodline of Glasya', 
+       'Bloodline of Levistus', 'Bloodline of Mammon', 'Bloodline of Mephistopheles', 
+       'Bloodline of Zariel', 'Tiefling Variants', 'Variant Tiefling: Feral', 
+       "Variant Tiefling: Devil's Tongue", 
+       'Variant Tiefling: Hellfire', 'Variant Tiefling: Winged', 
+       'Tortle MPMM', 'Triton MPMM', 'vedalken', 'verdan', 'warforged', 'wechselkind', 
+       'Yuan-Ti MPMM']
+
+dfRace = loadDataFrame('./races/allRaces.csv')
+
+listRaceCombined = [ i + ' ' + j for i,j in zip(list(dfRace['race']), list(dfRace['subrace']) )]
 
 st.selectbox(
         "Quelle est votre Race ? ",
-        [select]+listRace,
-        key='race'
+        [select]+sorted(listRaceCombined),
+        key='race',
+        on_change=enoughInfo
     )
 
 #%%
 
 
-if( st.session_state.race != select ):
-    dfRace = loadDataFrame('./races/'+st.session_state.race+'Comb.csv')
+# if( st.session_state.race != select ):
+#     dfRace = loadDataFrame('./races/'+st.session_state.race+'Comb.csv')
 
-    st.selectbox(
-            "Quelle est votre Sous Race ? ",
-            [select]+list(dfRace['subrace'].unique()),
-            key='sousrace'
-        )
+#     st.selectbox(
+#             "Quelle est votre Sous Race ? ",
+#             [select]+sorted(list(dfRace['subrace'].unique())),
+#             key='sousrace',
+#             on_change=enoughInfo
+#         )
 
-if( st.session_state.sousrace != select ):
-    dfSousRace = loadDataFrame('./races/'+st.session_state.race+'Comb.csv')
-    dfSousRace = dfSousRace[dfSousRace['subrace']==st.session_state.sousrace]
+# if( st.session_state.sousrace != select ):
+#     dfSousRace = loadDataFrame('./races/'+st.session_state.race+'Comb.csv')
+#     dfSousRace = dfSousRace[dfSousRace['subrace']==st.session_state.sousrace]
     
 #%% Classe 1
 listClass = [
@@ -304,7 +387,8 @@ with cl1:
     st.selectbox(
         "Quelle est votre classe primaire ? ",
         [select]+listEnFrClass,
-        key='classe1'
+        key='classe1',
+        on_change=enoughInfo
     )
     
     if( st.session_state.classe1 != select ):
@@ -318,7 +402,8 @@ with cl1:
                         min_value=1, max_value=maxLvl, 
                         value=st.session_state['lvl1'], step=1, 
                         format=None, 
-                        key='lvl1',)
+                        key='lvl1',
+                        on_change=enoughInfo)
 
 #%% clss 2 tmp
 
@@ -327,7 +412,8 @@ with cl2:
     st.selectbox(
         "Quelle est votre classe secondaire ? ",
         [select]+listEnFrClass,
-        key='classe2'
+        key='classe2',
+        on_change=enoughInfo
     )
     
     if( st.session_state.classe2 != select ):
@@ -341,7 +427,8 @@ with cl2:
                         min_value=1, max_value=maxLvl, 
                         value=st.session_state['lvl2'], step=1, 
                         format=None, 
-                        key='lvl2',)
+                        key='lvl2',
+                        on_change=enoughInfo)
 
 #%% historique
 
@@ -357,7 +444,8 @@ for idx, row in dfBG.iterrows():
 st.selectbox(
     "Quelle est votre historique ? ",
     [select]+listBG_EnFr,
-    key='historique'
+    key='historique',
+    on_change=enoughInfo
     )
 
 #%% Dons
@@ -373,46 +461,51 @@ for idx, row in dfFeat.iterrows():
 st.multiselect(
     "Quelle sont vos dons ? ",
     listFeat_EnFr,
-    key='dons'
+    key='dons',
+    on_change=enoughInfo
     )
 
 #%% button 
 
 
-select = '--- Selectionnez ---'
+# select = '--- Selectionnez ---'
 
-listInit = ['race','sousrace','classe1','sousclass1','classe2','sousclass2','historique']
+# listInit = ['race','sousrace','classe1','sousclass1','classe2','sousclass2','historique']
 
-for i in listInit:
-    if i not in st.session_state:
-        st.session_state[i] = select
+# for i in listInit:
+#     if i not in st.session_state:
+#         st.session_state[i] = select
 
-if 'lvl1' not in st.session_state:
-    st.session_state['lvl1'] = 1
+# if 'lvl1' not in st.session_state:
+#     st.session_state['lvl1'] = 1
 
-if 'lvl2' not in st.session_state:
-    st.session_state['lvl2'] = 1
+# if 'lvl2' not in st.session_state:
+#     st.session_state['lvl2'] = 1
 
-if 'dons' not in st.session_state:
-    st.session_state['dons'] = []
+# if 'dons' not in st.session_state:
+#     st.session_state['dons'] = []
 
-#allInfo = True
-allInfo = (st.session_state['race']!=select)  
-allInfo = allInfo and (st.session_state['sousrace']!=select)  
-allInfo = allInfo and (st.session_state['classe1']!=select) 
-#allInfo = allInfo and (st.session_state['sousclass1']!=select) 
-#allInfo = allInfo and (st.session_state['classe2']!=select)  
-#allInfo = allInfo and (st.session_state['sousclass2']!=select)  
-allInfo = allInfo and (st.session_state['historique']!=select) 
-allInfo = allInfo and ( st.session_state['lvl1'] + st.session_state['lvl2']*(st.session_state['classe2']!=select) == maxLvl ) 
+# #allInfo = True
+# allInfo = (st.session_state['race']!=select)  
+# allInfo = allInfo and (st.session_state['sousrace']!=select)  
+# allInfo = allInfo and (st.session_state['classe1']!=select) 
+# #allInfo = allInfo and (st.session_state['sousclass1']!=select) 
+# #allInfo = allInfo and (st.session_state['classe2']!=select)  
+# #allInfo = allInfo and (st.session_state['sousclass2']!=select)  
+# allInfo = allInfo and (st.session_state['historique']!=select) 
+# allInfo = allInfo and ( st.session_state['lvl1'] + st.session_state['lvl2']*(st.session_state['classe2']!=select) == maxLvl ) 
+
+enoughInfo()
 
 #st.write(allInfo)
+buttonText = 'Il manques des infos, au boulot !'*(not st.session_state['allInfo']) + \
+    'Il y a toutes les informations (minimales) necessaire pour creer votre fiche !'*(st.session_state['allInfo'])
 
-buttonActiv = st.button('Il y a toutes les informations (minimales) necessaire pour creer votre fiche ! \n Pressez ce bouton, puis cliquer sur **telecharger** un fois que votre fiche est prete', 
-          key=None, disabled = not allInfo )
+buttonActiv = st.button(buttonText, 
+          key=None, disabled = not st.session_state['allInfo'] )
 
 if(buttonActiv):
-    st.write('BINGO')
+    #st.write('BINGO')
     
     # if(st.session_state['classe2']==select):
     #     st.session_state['classe2']=''
@@ -429,7 +522,7 @@ if(buttonActiv):
     # st.write(st.session_state['classe2'],'>>>',st.session_state['classe2'].split()[-1])
     # st.write(st.session_state['lvl1'])
     # st.write(st.session_state['lvl1'])
-    st.write(st.session_state['historique'],'>>>',dfBG.iloc[ listBG_EnFr.index(st.session_state['historique']) ]['background'])
+    # st.write(st.session_state['historique'],'>>>',dfBG.iloc[ listBG_EnFr.index(st.session_state['historique']) ]['background'])
     
     listDonsInput = []
     
@@ -440,7 +533,7 @@ if(buttonActiv):
     
     data = buildCharacterV1( nomPerso=st.session_state['nom'], 
                             stats=[], pvs=[], 
-                            race=st.session_state['race'], subrace=st.session_state['sousrace'], 
+                            race=st.session_state['race'].split()[1], #subrace=st.session_state['sousrace'], 
                             class1=st.session_state['classe1'].split()[-1], lvl1=int(st.session_state['lvl1']),
                             class2=class2obj, lvl2=int(st.session_state['lvl2']),
                             background=str.lower(dfBG.iloc[ listBG_EnFr.index(st.session_state['historique']) ]['background']) , 
@@ -449,10 +542,10 @@ if(buttonActiv):
     
     json_string = json.dumps(data)
 
-    st.json(json_string, expanded=True)
+    #st.json(json_string, expanded=True)
 
     st.download_button(
-        label="Download JSON",
+        label="Téléchargez votre personnage !",
         file_name=st.session_state['nom']+".json",
         mime="application/json",
         data=json_string,
