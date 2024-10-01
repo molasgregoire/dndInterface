@@ -1,0 +1,348 @@
+,subclass,ability,content,subclass_FR,contability_FR,content_FR,levels
+0,alchemist,Tool Proficiency,"When you adopt this specialization at 3rd level, you gain proficiency with alchemist's supplies. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.",alchimiste,Maîtrise des outils,"Lorsque vous adoptez cette spécialisation au niveau 3, vous obtenez la maîtrise des fournitures d'alchimiste. Si vous possédez déjà cette compétence, vous obtenez la maîtrise d'un autre type d'outils d'artisan de votre choix.",3
+1,alchemist,Alchemist Spells,"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+
+Artificer
+Level Spell
+
+
+3rd
+Healing Word, Ray of Sickness
+
+
+5th
+Flaming Sphere, Melf's Acid Arrow
+
+
+9th
+Gaseous Form, Mass Healing Word
+
+
+13th
+Blight, Death Ward
+
+
+17th
+Cloudkill, Raise Dead
+
+",alchimiste,Sorts d'alchimiste,"À partir du niveau 3, vous avez toujours certains sorts préparés après avoir atteint des niveaux particuliers dans cette classe, comme indiqué dans le tableau des sorts d'alchimiste. Ces sorts comptent comme des sorts d'artificier pour vous, mais ils ne comptent pas dans le nombre de sorts d'artificier que vous préparez.
+
+Artificier
+Sort de niveau
+
+3e
+Mot de guérison, Rayon de maladie
+
+5e
+Sphère enflammée, Flèche acide de Melf
+
+9e
+Forme gazeuse, Mot de guérison de masse
+
+13e
+Fléau, Protection contre la mort
+
+17e
+Tue-nuage, Résurrection des morts",3
+2,alchemist,Experimental Elixir,"Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.Creating an experimental elixir requires you to have alchemist supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir's effect separately. Each elixir requires its own flask.You can create additional experimental elixirs by expending a spell slot of 1st level or higher for each one. When you do so, you use your action to create the elixir in an empty flask you touch, and you choose the elixir's effect from the Experimental Elixir table.
+
+d6
+Effect
+
+
+1
+Healing. The drinker regains a number of hit points equal to 2d4 + your Intelligence modifier.
+
+
+2
+Swiftness. The drinker's walking speed increases by 10 feet for 1 hour.
+
+
+3
+Resilience. The drinker gains a +1 bonus to AC for 10 minutes.
+
+
+4
+Boldness. The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.
+
+
+5
+Flight. The drinker gains a flying speed of 10 feet for 10 minutes.
+
+
+6
+Transformation. The drinker's body is transformed as if by the alter self spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes.
+
+",alchimiste,Élixir expérimental,"À partir du niveau 3, chaque fois que vous terminez un repos long, vous pouvez produire par magie un élixir expérimental dans une fiole vide que vous touchez. Lancez le dé sur la table des élixirs expérimentaux pour connaître l'effet de l'élixir, qui se déclenche lorsque quelqu'un boit l'élixir. Par une action, une créature peut boire l'élixir ou l'administrer à une créature incapable de l'utiliser. Pour créer un élixir expérimental, vous devez avoir des fournitures d'alchimiste sur vous, et tout élixir que vous créez avec cette capacité dure jusqu'à ce qu'il soit bu ou jusqu'à la fin de votre prochain repos long. Lorsque vous atteignez certains niveaux dans cette classe, vous pouvez fabriquer davantage d'élixirs à la fin d'un repos long : deux au niveau 6 et trois au niveau 15. Lancez le dé pour l'effet de chaque élixir séparément. Chaque élixir nécessite sa propre fiole. Vous pouvez créer des élixirs expérimentaux supplémentaires en dépensant un emplacement de sort de niveau 1 ou supérieur pour chacun d'eux. Lorsque vous faites cela, vous utilisez votre action pour créer l'élixir dans une fiole vide que vous touchez, et vous choisissez l'effet de l'élixir dans le tableau des élixirs expérimentaux.
+
+d6
+Effet
+
+1
+Soin. Le buveur récupère un nombre de points de vie égal à 2d4 + votre modificateur d'Intelligence.
+
+2
+Rapidité. La vitesse de marche du buveur augmente de 3 mètres pendant 1 heure.
+
+3
+Résilience. Le buveur gagne un bonus de +1 à la CA pendant 10 minutes.
+
+4
+Audace. Le buveur peut lancer un d4 et ajouter le nombre obtenu à chaque jet d'attaque et de sauvegarde qu'il effectue pendant la minute suivante.
+
+5
+Vol. Le buveur gagne une vitesse de vol de 3 mètres pendant 10 minutes.
+
+6
+Transformation. Le corps du buveur est transformé comme par le sort de changement de soi. Le buveur détermine la transformation provoquée par le sort, dont les effets durent 10 minutes.",3
+3,alchemist,Alchemical Savant,"At 5th level, you develop masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).",alchimiste,Savant alchimique,"Au niveau 5, vous maîtrisez parfaitement les produits chimiques magiques, ce qui améliore les soins et les dégâts que vous infligez grâce à eux. Chaque fois que vous lancez un sort en utilisant les fournitures de votre alchimiste comme objectif d'incantation, vous obtenez un bonus à un jet de sort. Ce jet doit restaurer des points de vie ou être un jet de dégâts qui inflige des dégâts d'acide, de feu, nécrotiques ou de poison, et le bonus est égal à votre modificateur d'Intelligence (minimum de +1).",5
+4,alchemist,Restorative Reagents,"Starting at 9th level, you can incorporate restorative reagents into some of your works:
+Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary hit point).
+You can cast Lesser Restoration without expending a spell slot and without preparing the spell, provided you use alchemist's supplies as the spellcasting focus.
+You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.",alchimiste,Réactifs de restauration,"À partir du niveau 9, vous pouvez incorporer des réactifs réparateurs dans certaines de vos œuvres :
+À chaque fois qu'une créature boit un élixir expérimental que vous avez créé, elle gagne des points de vie temporaires égaux à 2d6 + votre modificateur d'intelligence (minimum de 1 point de vie temporaire).
+Vous pouvez lancer Restauration mineure sans dépenser d'emplacement de sort et sans préparer le sort, à condition d'utiliser les fournitures d'alchimiste comme focalisateur de lancement de sort.
+Vous pouvez le faire un nombre de fois égal à votre modificateur d'intelligence (minimum d'une fois), et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.",9
+5,alchemist,Chemical Mastery,"By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
+You gain resistance to acid damage and poison damage, and you are immune to the poisoned condition.
+You can cast Greater Restoration and Heal without expending a spell slot, without preparing the spell, and without material components, provided you use alchemist's supplies as the spellcasting focus.
+Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.Source: Eberron: Rising from the Last War",alchimiste,Maîtrise de la chimie,"Au niveau 15, vous avez été exposé à tellement de produits chimiques qu'ils ne présentent que peu de risques pour vous, et vous pouvez les utiliser pour mettre fin rapidement à certains maux :
+Vous gagnez une résistance aux dégâts d'acide et de poison, et vous êtes immunisé contre l'état empoisonné.
+Vous pouvez lancer Restauration supérieure et Soins sans dépenser d'emplacement de sort, sans préparer le sort et sans composants matériels, à condition d'utiliser les fournitures d'alchimiste comme focalisation du sort.
+Une fois que vous avez lancé l'un ou l'autre des sorts avec cette fonctionnalité, vous ne pouvez plus lancer ce sort avec lui jusqu'à ce que vous ayez terminé un repos long.Source : Eberron : Rising from the Last War",15
+6,armorer,Tools of the Trade,"3rd-level Armorer feature
+You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice.",armurier,Outils du métier,"Fonctionnalité d'Armurier de niveau 3
+Vous obtenez la maîtrise des armures lourdes. Vous obtenez également la maîtrise des outils de forgeron. Si vous possédez déjà cette maîtrise des outils, vous obtenez la maîtrise d'un autre type d'outils d'artisan de votre choix.",3
+7,armorer,Armorer Spells,"3rd-level Armorer feature
+You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+
+Artificer Level
+Spell
+
+
+3rd
+Magic Missile, Thunderwave
+
+
+5th
+Mirror Image, Shatter
+
+
+9th
+Hypnotic Pattern, Lightning Bolt
+
+
+13th
+Fire Shield, Greater Invisibility
+
+
+17th
+Passwall, Wall of Force
+
+",armurier,Sorts d'armurier,"Fonctionnalité d'Armurier de niveau 3
+Vous avez toujours certains sorts préparés après avoir atteint certains niveaux dans cette classe, comme indiqué dans le tableau des sorts d'Armurier. Ces sorts comptent comme des sorts d'artificier pour vous, mais ils ne comptent pas dans le nombre de sorts d'artificier que vous préparez.
+
+Niveau d'Artificier
+Sort
+
+3e
+Projectile magique, Onde de tonnerre
+
+5e
+Image miroir, Briser
+
+9e
+Motif hypnotique, Éclair
+
+13e
+Bouclier de feu, Invisibilité supérieure
+
+17e
+Mur de passe, Mur de force",3
+8,armorer,Arcane Armor,"3rd-level Armorer feature
+Your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith's tools in hand.You gain the following benefits while wearing this armor:
+If the armor normally has a Strength requirement, the arcane armor lacks this requirement for you.
+You can use the arcane armor as a spellcasting focus for your artificer spells.
+The armor attaches to you and can't be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armor replaces any missing limbs, functioning identically to a limb it replaces.
+You can doff or don the armor as an action.
+The armor continues to be Arcane Armor until you don another suit of armor or you die.",armurier,Armure arcanique,"Armurier de niveau 3
+Vos activités métallurgiques vous ont amené à faire de l'armure un canal pour votre magie. En une action, vous pouvez transformer une armure que vous portez en armure arcanique, à condition d'avoir des outils de forgeron en main. Vous obtenez les avantages suivants en portant cette armure :
+Si l'armure a normalement une condition de Force, l'armure arcanique n'a pas cette condition pour vous.
+Vous pouvez utiliser l'armure arcanique comme un point focal pour vos sorts d'artificier.
+L'armure s'attache à vous et ne peut pas être retirée contre votre volonté. Elle s'étend également pour couvrir tout votre corps, bien que vous puissiez rétracter ou déployer le casque en une action bonus. L'armure remplace tous les membres manquants, fonctionnant de manière identique au membre qu'elle remplace.
+Vous pouvez retirer ou enfiler l'armure en une action.
+L'armure reste une armure arcanique jusqu'à ce que vous enfiliez une autre armure ou que vous mourriez.",3
+9,armorer,Armor Model,"3rd-level Armorer feature
+You can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator. The model you choose gives you special benefits while you wear it.Each model includes a special weapon. When you attack with that weapon, you can add your Intelligence modifier, instead of Strength or Dexterity, to the attack and damage rolls.You can change the armor's model whenever you finish a short or long rest, provided you have smith's tools in hand.Guardian.
+You design your armor to be in the front line of conflict. It has the following features:Thunder Gauntlets. Each of the armor's gauntlets counts as a simple melee weapon while you aren't holding anything in it, and it deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.Defensive Field. As a bonus action, you can gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armor. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.Infiltrator.
+You customize your armor for subtle undertakings. It has the following features:Lightning Launcher. A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet. and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.Powered Steps. Your walking speed increases by 5 feet.Dampening Field. You have advantage on Dexterity (Stealth) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.",armurier,Modèle d'armure,"Armurier de niveau 3
+
+Vous pouvez personnaliser votre armure arcanique. Pour ce faire, choisissez l'un des modèles d'armure suivants : Gardien ou Infiltrateur. Le modèle que vous choisissez vous confère des avantages spéciaux tant que vous le portez. Chaque modèle comprend une arme spéciale. Lorsque vous attaquez avec cette arme, vous pouvez ajouter votre modificateur d'Intelligence, au lieu de Force ou de Dextérité, aux jets d'attaque et de dégâts. Vous pouvez changer le modèle de l'armure à chaque fois que vous terminez un repos court ou long, à condition d'avoir des outils de forgeron en main. Gardien.
+Vous concevez votre armure pour qu'elle soit en première ligne du conflit. Elle possède les caractéristiques suivantes : Gantelets de foudre. Chacun des gantelets de l'armure compte comme une arme de mêlée simple tant que vous ne tenez rien dedans, et il inflige 1d8 dégâts de foudre en cas de coup. Une créature touchée par le gantelet a un désavantage sur les jets d'attaque contre des cibles autres que vous jusqu'au début de votre prochain tour, car l'armure émet magiquement une impulsion de distraction lorsque la créature attaque quelqu'un d'autre. Champ défensif. En tant qu'action bonus, vous pouvez gagner des points de vie temporaires égaux à votre niveau dans cette classe, remplaçant les points de vie temporaires que vous possédez déjà. Vous perdez ces points de vie temporaires si vous retirez l'armure. Vous pouvez utiliser cette action bonus un nombre de fois égal à votre bonus de maîtrise, et vous récupérez tous les points dépensés lorsque vous terminez un repos long. Infiltrateur. 
+Vous personnalisez votre armure pour des entreprises subtiles. Elle possède les caractéristiques suivantes : Lanceur de foudre. Un nœud semblable à une gemme apparaît sur l'un de vos poings blindés ou sur le torse (au choix). Il compte comme une arme à distance simple, avec une portée normale de 27 mètres et une longue portée de 91 mètres. et il inflige 1d6 dégâts de foudre en cas de coup. Une fois à chacun de vos tours, lorsque vous touchez une créature avec lui, vous pouvez infliger 1d6 dégâts de foudre supplémentaires à cette cible. Pas propulsés. Votre vitesse de marche augmente de 1,5 mètre. Champ d'atténuation. Vous avez l'avantage aux tests de Dextérité (Discrétion). Si l'armure impose normalement un désavantage sur de tels tests, l'avantage et le désavantage s'annulent, comme d'habitude.",3
+10,armorer,Extra Attack,"5th-level Armorer feature
+You can attack twice, rather than once, whenever you take the Attack action on your turn.",armurier,Attaque supplémentaire,"Fonctionnalité d'Armurier de niveau 5
+Vous pouvez attaquer deux fois, au lieu d'une, chaque fois que vous effectuez l'action Attaquer pendant votre tour.",5
+11,armorer,Armor Modifications,"9th-level Armorer feature
+You learn how to use your artificer infusions to specially modify your Arcane Armor. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, helmet, and the armor's special weapon. Each of those items can bear one of your infusions, and the infusions transfer over if you change your armor's model with the Armor Model feature. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your Arcane Armor.",armurier,Modifications d'armure,"Fonctionnalité d'Armurier de niveau 9
+Vous apprenez à utiliser vos infusions d'artificier pour modifier spécialement votre armure arcanique. Cette armure compte désormais comme des objets distincts pour les besoins de votre fonctionnalité Infuser des objets : armure (le plastron), bottes, casque et arme spéciale de l'armure. Chacun de ces objets peut porter l'une de vos infusions, et les infusions sont transférées si vous changez le modèle de votre armure avec la fonctionnalité Modèle d'armure. De plus, le nombre maximum d'objets que vous pouvez infuser à la fois augmente de 2, mais ces objets supplémentaires doivent faire partie de votre armure arcanique.",9
+12,armorer,Perfected Armor,"15th-level Armorer feature
+Your Arcane Armor gains additional benefits based on its model, as shown below.Guardian. When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your reaction to magically force the creature to make a Strength saving throw against your spell save DC, pulling the creature up to 30 feet toward you to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.Infiltrator. Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has advantage, and if that attack hits, the target takes an extra 1d6 lightning damage.Source: Tasha's Cauldron of Everything",armurier,Armure perfectionnée,"Armurier de niveau 15
+Votre Armure Arcanique bénéficie d'avantages supplémentaires en fonction de son modèle, comme indiqué ci-dessous.Gardien. Lorsqu'une créature de taille G ou plus petite que vous pouvez voir termine son tour à 9 mètres ou moins de vous, vous pouvez utiliser votre réaction pour forcer magiquement la créature à effectuer un jet de sauvegarde de Force contre votre DD de sauvegarde de sort, attirant la créature jusqu'à 9 mètres ou moins vers vous dans une case inoccupée. Si vous attirez la cible dans une case à 1,5 mètre ou moins de vous, vous pouvez effectuer une attaque d'arme de mêlée contre elle dans le cadre de cette réaction.Vous pouvez utiliser cette réaction un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées de celle-ci lorsque vous terminez un repos long.Infiltrateur. Toute créature qui subit des dégâts de foudre de votre Lanceur de foudre scintille d'une lumière magique jusqu'au début de votre prochain tour. La créature scintillante projette une faible lumière dans un rayon de 1,5 mètre et elle a un désavantage sur les jets d'attaque contre vous, car la lumière la secoue si elle vous attaque. De plus, le prochain jet d'attaque contre lui a un avantage, et si cette attaque touche, la cible subit 1d6 dégâts de foudre supplémentaires.Source : Le chaudron de tout de Tasha",15
+13,artillerist,Tool Proficiency,"When you adopt this specialization at 3rd level, you gain proficiency with woodcarver's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.",artilleur,Maîtrise des outils,"Lorsque vous adoptez cette spécialisation au niveau 3, vous obtenez la maîtrise des outils de sculpteur sur bois. Si vous possédez déjà cette compétence, vous obtenez la maîtrise d'un autre type d'outils d'artisan de votre choix.",3
+14,artillerist,Artillerist Spells,"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+
+Artificer Level
+Spell
+
+
+3rd
+Shield, Thunderwave
+
+
+5th
+Scorching Ray, Shatter
+
+
+9th
+Fireball, Wind Wall
+
+
+13th
+Ice Storm, Wall of Fire
+
+
+17th
+Cone of Cold, Wall of Force
+
+",artilleur,Sorts d'Artilleur,"À partir du niveau 3, vous avez toujours certains sorts préparés après avoir atteint des niveaux particuliers dans cette classe, comme indiqué dans le tableau des sorts d'artilleur. Ces sorts comptent comme des sorts d'artificier pour vous, mais ils ne comptent pas dans le nombre de sorts d'artificier que vous préparez.
+
+Niveau d'artificier
+Sort
+
+3e
+Bouclier, Onde de tonnerre
+
+5e
+Rayon brûlant, Briser
+
+9e
+Boule de feu, Mur de vent
+
+13e
+Tempête de glace, Mur de feu
+
+17e
+Cône de froid, Mur de force",3
+15,artillerist,Eldritch Cannon,"At 3rd level, you learn how to create a magical cannon. Using woodcarver's tools or smith's tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.Once you create a cannon, you can't do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage, psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the Mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
+
+Cannon
+Activation
+
+
+Flamethrower
+The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking 2d8 fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.
+
+
+Force Ballista
+Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.
+
+
+Protector
+The cannon emits a burst of positive energy that grants itself and each creature of your choice with in 10 feet of it a number of temporary hit points equal to 1d8 + your Intelligence modifier (minimum of +1).
+
+",artilleur,Canon surnaturel,"Au niveau 3, vous apprenez à créer un canon magique. En utilisant des outils de sculpteur sur bois ou de forgeron, vous pouvez effectuer une action pour créer par magie un canon surnaturel de taille petite ou minuscule dans un espace inoccupé sur une surface horizontale à 1,50 mètre de vous. Un canon surnaturel de taille petite occupe son espace et un canon de taille minuscule peut être tenu dans une main. Une fois que vous avez créé un canon, vous ne pouvez plus le faire avant d'avoir terminé un repos long ou d'avoir dépensé un emplacement de sort de niveau 1 ou supérieur. Vous ne pouvez avoir qu'un seul canon à la fois et vous ne pouvez pas en créer un tant que votre canon est présent. Le canon est un objet magique. Quelle que soit sa taille, le canon a une CA de 18 et un nombre de points de vie égal à cinq fois votre niveau d'artificier. Il est immunisé contre les dégâts de poison, les dégâts psychiques et toutes les conditions. S'il est forcé de faire un test de caractéristique ou un jet de sauvegarde, considérez toutes ses valeurs de caractéristique comme 10 (+0). Si le sort de guérison est lancé sur lui, il récupère 2d6 points de vie. Il disparaît s'il est réduit à 0 point de vie ou après 1 heure. Vous pouvez le renvoyer plus tôt que prévu par une action.Lorsque vous créez le canon, vous déterminez son apparence et s'il a des pattes. Vous décidez également de son type, en choisissant parmi les options du tableau des canons mystérieux. À chacun de vos tours, vous pouvez effectuer une action bonus pour activer le canon si vous vous trouvez à 18 mètres ou moins de lui. Dans le cadre de la même action bonus, vous pouvez ordonner au canon de marcher ou de grimper jusqu'à 4,5 mètres jusqu'à un espace inoccupé, à condition qu'il ait des pattes.
+
+Canon
+Activation
+
+Lance-flammes
+Le canon crache du feu dans un cône adjacent de 4,5 mètres que vous désignez. Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Dextérité contre le DD de sauvegarde de votre sort, subissant 2d8 dégâts de feu en cas d'échec ou la moitié de ces dégâts en cas de réussite. Le feu enflamme tous les objets inflammables dans la zone qui ne sont pas portés ou transportés.
+
+Baliste de force
+Faites une attaque de sort à distance, provenant du canon, sur une créature ou un objet à 36 mètres de lui. En cas de succès, la cible subit 2d8 dégâts de force, et si la cible est une créature, elle est poussée jusqu'à 1,5 mètre du canon.
+
+Protecteur
+Le canon émet une explosion d'énergie positive qui lui confère, ainsi qu'à chaque créature de votre choix à 3 mètres de lui, un nombre de points de vie temporaires égal à 1d8 + votre modificateur d'Intelligence (minimum de +1).",3
+16,artillerist,Arcane Firearm,"At 5th level, you know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a long rest, you can use woodcarver's tools to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.You can use your arcane firearm as a spellcasting focus for your artificer spells. When you cast an artificer spell through the firearm, roll a d8, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.",artilleur,Arme à feu arcanique,"Au niveau 5, vous savez comment transformer une baguette, un bâton ou une tige en arme à feu arcanique, un canal pour vos sorts destructeurs. Lorsque vous terminez un repos long, vous pouvez utiliser les outils du sculpteur sur bois pour graver des sceaux spéciaux sur une baguette, un bâton ou une tige et ainsi les transformer en votre arme à feu arcanique. Les sceaux disparaissent de l'objet si vous les gravez plus tard sur un autre objet. Sinon, les sceaux durent indéfiniment. Vous pouvez utiliser votre arme à feu arcanique comme focalisateur de sorts pour vos sorts d'artificier. Lorsque vous lancez un sort d'artificier à travers l'arme à feu, lancez un d8 et vous obtenez un bonus à l'un des jets de dégâts du sort égal au nombre obtenu.",5
+17,artillerist,Explosive Cannon,"Starting at 9th level, every eldritch cannon you create is more destructive:
+The cannon's damage rolls all increase by 1d8.
+As an action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one.
+",artilleur,Canon explosif,"À partir du niveau 9, chaque canon surnaturel que vous créez est plus destructeur :
+Les jets de dégâts du canon augmentent tous de 1d8.
+En tant qu'action, vous pouvez ordonner au canon d'exploser si vous vous trouvez à 18 mètres ou moins de lui. Cela détruit le canon et force chaque créature à 6 mètres ou moins de lui à effectuer un jet de sauvegarde de Dextérité contre le DD de sauvegarde de votre sort, subissant 3d8 dégâts de force en cas d'échec ou la moitié de ces dégâts en cas de réussite.",9
+18,artillerist,Fortified Position,"Starting at 15th level, you're a master at forming well-defended emplacements using Eldritch Cannon:
+You and your allies have half cover while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.
+You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the cannons are identical to each other or different. You can't create a third cannon while you have two.
+Source: Eberron: Rising from the Last War",artilleur,Position fortifiée,"À partir du niveau 15, vous maîtrisez l'art de former des emplacements bien défendus à l'aide du Canon occulte :
+Vous et vos alliés avez une demi-couverture lorsque vous vous trouvez à moins de 3 mètres d'un canon que vous créez avec le Canon occulte, grâce au champ scintillant de protection magique émis par le canon.
+Vous pouvez désormais avoir deux canons en même temps. Vous pouvez en créer deux avec la même action (mais pas le même emplacement de sort), et vous pouvez les activer tous les deux avec la même action bonus. Vous déterminez si les canons sont identiques ou différents. Vous ne pouvez pas créer un troisième canon tant que vous en avez deux.
+Source : Eberron : Rising from the Last War",15
+19,battle-smith,Tool Proficiency,"When you adopt this specialization at 3rd level, you gain proficiency with smith's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.",forgeron de bataille,Maîtrise des outils,"Lorsque vous adoptez cette spécialisation au niveau 3, vous obtenez la maîtrise des outils de forgeron. Si vous possédez déjà cette compétence, vous obtenez la maîtrise d'un autre type d'outils d'artisan de votre choix.",3
+20,battle-smith,Battle Smith Spells,"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+
+Artificer Level
+Spell
+
+
+3rd
+Heroism, Shield
+
+
+5th
+Branding Smite, Warding Bond
+
+
+9th
+Aura of Vitality, Conjure Barrage
+
+
+13th
+Aura of Purity, Fire Shield
+
+
+17th
+Banishing Smite, Mass Cure Wounds
+
+",forgeron de bataille,Sorts de forgeron de combat,"À partir du niveau 3, vous avez toujours certains sorts préparés après avoir atteint des niveaux particuliers dans cette classe, comme indiqué dans le tableau des sorts de forgeron de bataille. Ces sorts comptent comme des sorts d'artificier pour vous, mais ils ne comptent pas dans le nombre de sorts d'artificier que vous préparez.
+
+Niveau d'artificier
+Sort
+
+3e
+Héroïsme, Bouclier
+
+5e
+Sanglant, Lien protecteur
+
+9e
+Aura de vitalité, Invocation de barrage
+
+13e
+Aura de pureté, Bouclier de feu
+
+17e
+Sanglant de bannissement, Soin de masse",3
+21,battle-smith,Battle Ready,"When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:
+You gain proficiency with martial weapons.
+When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.
+",forgeron de bataille,Prêt au combat,"Lorsque vous atteignez le niveau 3, votre entraînement au combat et vos expériences avec la magie ont porté leurs fruits de deux manières :
+Vous devenez compétent avec les armes martiales.
+Lorsque vous attaquez avec une arme magique, vous pouvez utiliser votre modificateur d'intelligence, au lieu du modificateur de force ou de dextérité, pour les jets d'attaque et de dégâts.",3
+22,battle-smith,Steel Defender,"By 3rd level, your tinkering has borne you a faithful companion, a Steel Defender. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.In combat, the steel defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action.If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.At the end of a long rest, you can create a new steel defender if you have your smith's tools with you. If you already have a steel defender from this feature, the first one immediately perishes.",forgeron de bataille,Défenseur en acier,"Au niveau 3, vos bricolages vous ont donné un fidèle compagnon, un Défenseur d'acier. Il est amical envers vous et vos compagnons, et il obéit à vos ordres. Consultez les statistiques de jeu de cette créature dans le bloc de statistiques du défenseur d'acier. Vous déterminez l'apparence de la créature et si elle a deux ou quatre pattes ; votre choix n'a aucun effet sur ses statistiques de jeu. En combat, le défenseur d'acier partage votre compte d'initiative, mais il joue son tour immédiatement après le vôtre. Il peut se déplacer et utiliser sa réaction de lui-même, mais la seule action qu'il effectue pendant son tour est l'action Esquive, à moins que vous n'effectuiez une action bonus pendant votre tour pour lui ordonner d'effectuer l'une des actions de son bloc de statistiques ou l'action Courir, Se désengager, Aider, Se cacher ou Fouiller. Si le sort de réparation est lancé sur lui, il récupère 2d6 points de vie. S'il est mort au cours de la dernière heure, vous pouvez utiliser les outils de votre forgeron comme une action pour le ranimer, à condition que vous soyez à 1,50 mètre ou moins de lui et que vous dépensiez un emplacement de sort de niveau 1 ou supérieur. Le défenseur d'acier revient à la vie après 1 minute avec tous ses points de vie restaurés. À la fin d'un long repos, vous pouvez créer un nouveau défenseur d'acier si vous avez les outils de votre forgeron avec vous. Si vous avez déjà un défenseur d'acier grâce à cette fonctionnalité, le premier périt immédiatement.",3
+23,battle-smith,Extra Attack,"Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.",forgeron de bataille,Attaque supplémentaire,"À partir du niveau 5, vous pouvez attaquer deux fois, au lieu d'une, chaque fois que vous effectuez l'action Attaquer pendant votre tour.",5
+24,battle-smith,Arcane Jolt,"At 9th level, you learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:
+The target takes an extra 2d6 force damage.
+Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it. You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.
+",forgeron de bataille,Secousse arcanique,"Au niveau 9, vous apprenez de nouvelles façons de canaliser l'énergie arcanique pour blesser ou soigner. Lorsque vous touchez une cible avec une attaque d'arme magique ou que votre défenseur d'acier touche une cible, vous pouvez canaliser l'énergie magique par le biais de l'attaque pour créer l'un des effets suivants :
+La cible subit 2d6 dégâts de force supplémentaires.
+Choisissez une créature ou un objet que vous pouvez voir à 9 mètres ou moins de la cible. L'énergie de guérison coule dans le destinataire choisi, lui rendant 2d6 points de vie. Vous pouvez utiliser cette énergie un nombre de fois égal à votre modificateur d'Intelligence (minimum d'une fois), mais vous ne pouvez pas le faire plus d'une fois par tour. Vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.",9
+25,battle-smith,Improved Defender,"At 15th level, your Arcane jolt and Steel Defender become more powerful:
+The extra damage and the healing of your Arcane jolt both increase to 4d6.
+Your steel defender gains a +2 bonus to Armor Class.
+Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier.
+Source: Eberron: Rising from the Last War",forgeron de bataille,Défenseur amélioré,"Au niveau 15, votre Choc des arcanes et votre Défenseur d'acier deviennent plus puissants :
+Les dégâts supplémentaires et les soins de votre Choc des arcanes augmentent tous deux à 4d6.
+Votre Défenseur d'acier gagne un bonus de +2 à la classe d'armure.
+Chaque fois que votre Défenseur d'acier utilise son Attaque de déviation, l'attaquant subit des dégâts de force égaux à 1d4 + votre modificateur d'Intelligence.
+Source : Eberron : Rising from the Last War",15
