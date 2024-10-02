@@ -340,7 +340,7 @@ def buildCharacterV1(nomPerso, stats, pvs, race, class1, lvl1, class2, lvl2, bac
 def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1, lvl1, class2, sc2, lvl2, background, feats,
                      character_appearance,character_backstory,allies_and_organization,ideals,bonds,flaws,Alignment,
                      fileName='newFile'):
-    with open('./json/Fiche Vide.json', 'r', encoding='utf-8') as file:
+    with open('./json/Fiche Tres Vide.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
 
     listOfDict = data['character']['attribs']
@@ -458,7 +458,21 @@ def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1
     for idx, row in dfClass1.iterrows():
         dfJson = ajoutText(dfJson,  'Class1-'+str(idx), row['Capacites'], 'Class', class1 + ' niv .' + str(
             row['Level']), row['Capacites Texts'], flag=0)
-
+    
+    ##### SOUS CLASS 1 #####
+    dfSC1 = pd.read_csv('./subclasses/' + str.lower(class1) +
+                           'Sc.csv', index_col=0).fillna('')
+    
+    dfSC1 = dfSC1[ dfSC1['subclass']==sc1 ] # selcet the subclaass
+    dfSC1 = dfSC1[ dfSC1['levels']<=lvl1 ] # filter feature availale at this level
+    
+    dfJson = ajoutText(dfJson,  'SClass1Header',
+                       '===== SOUS CLASSE 1 =====', 'Class', sc1, '', flag=0)
+    for idx, row in dfSC1.iterrows():
+        dfJson = ajoutText(dfJson,  'SClass1-'+str(idx), row['contability_FR'], 'Class', sc1 + ' niv .' + str(
+            row['levels']), row['content_FR'], flag=0)
+    
+    
     ##### CLASS 2 #####
     if (class2):
         classDisplay += ' , ' + class2 + ' ' + str(lvl2)
@@ -482,7 +496,22 @@ def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1
         for idx, row in dfClass2.iterrows():
             dfJson = ajoutText(dfJson,  'Class2-'+str(idx), row['Capacites'], 'Class', class2 + ' niv .' + str(
                 row['Level']), row['Capacites Texts'], flag=0)
-
+            
+            
+        ##### SOUS CLASS 2 #####
+        dfSC2 = pd.read_csv('./subclasses/' + str.lower(class2) +
+                               'Sc.csv', index_col=0).fillna('')
+        
+        dfSC2 = dfSC2[ dfSC2['subclass']==sc2 ] # selcet the subclaass
+        dfSC2 = dfSC2[ dfSC2['levels']<=lvl2 ] # filter feature availale at this level
+        
+        dfJson = ajoutText(dfJson,  'SClass2Header',
+                           '===== SOUS CLASSE 2 =====', 'Class', sc2, '', flag=0)
+        for idx, row in dfSC2.iterrows():
+            dfJson = ajoutText(dfJson,  'SClass2-'+str(idx), row['contability_FR'], 'Class', sc2 + ' niv .' + str(
+                row['levels']), row['content_FR'], flag=0)
+            
+            
     dfJson = jsonVariable(dfJson, 'name', 'current',
                           'class_display', classDisplay)
 
@@ -768,7 +797,7 @@ for c, s in zip(colStat, statsName):
 
 st.multiselect(label='Selectionnez vos bonus de race (3 au choix)',
                options=['FOR +1', 'FOR +1', 'DEX +1', 'DEX +1', 'CON +1', 'CON +1', 'INT +1', 'INT +1', 'SAG +1', 'SAG +1', 'CHA +1', 'CHA +1',], key='bonusRacial',
-               max_selections=3+1)
+               max_selections=3)
 
 # %% test bonus dons
 
@@ -796,8 +825,22 @@ for i in lsDonsNoAsi:
 
     st.selectbox(label=i, options=[statsName[x] for x in listStat], key=i)
 
+### dons ASI [item for item in original_list for _ in range(2)]
 
-listBonusDons = [st.session_state[d] for d in lsDonsNoAsi]
+lsDonsAsi = [d for d in st.session_state['dons'] if 'ASI' in d]
+for i in lsDonsAsi:
+    # dfFeat[]
+    # st.write(listFeat_EnFr.index(i))
+
+    # bonusStr = dfFeat.iloc[listFeat_EnFr.index(i)]['Bonus']
+    # listStat = detect_stats_in_string(bonusStr.lower())
+
+    # st.write(listStat)
+
+    st.multiselect(label=i, options=['str','str', 'dex','dex','con','con', 'int','int', 'wis','wis', 'cha','cha'], key=i,
+                   max_selections=2)
+
+listBonusDons = [st.session_state[d] for d in lsDonsNoAsi] + [i  for d in lsDonsAsi for i in st.session_state[d]] 
 # %% new part : PV
 
 st.write('==================================================================')
@@ -938,7 +981,7 @@ if (buttonActiv):
     stat_count_feat = {'FOR':0, 'DEX':0, 'CON':0, 'INT':0, 'SAG':0, 'CHA':0}
     for i in listBonusDons:
         if(i):
-            stat_count_feat[str.upper(i)]+=1
+            stat_count_feat[i.upper()]+=1
         
     stats = {
             'strength' :        {'flat': st.session_state['FOR'], 'race':stat_count['FOR'], 'feat':stat_count_feat['FOR']},
