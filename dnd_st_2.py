@@ -797,7 +797,7 @@ for c, s in zip(colStat, statsName):
 
 st.multiselect(label='Selectionnez vos bonus de race (3 au choix)',
                options=['FOR +1', 'FOR +1', 'DEX +1', 'DEX +1', 'CON +1', 'CON +1', 'INT +1', 'INT +1', 'SAG +1', 'SAG +1', 'CHA +1', 'CHA +1',], key='bonusRacial',
-               max_selections=3)
+               )#max_selections=3)
 
 # %% test bonus dons
 
