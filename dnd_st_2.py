@@ -462,7 +462,7 @@ def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1
     ##### SOUS CLASS 1 #####
     dfSC1 = pd.read_csv('./subclasses/' + str.lower(class1) +
                            'Sc.csv', index_col=0).fillna('')
-    
+    dfSC1['levels']=pd.to_numeric(dfSC1['levels'], errors='coerce').fillna(0).astype(int) # bug management
     dfSC1 = dfSC1[ dfSC1['subclass']==sc1 ] # selcet the subclaass
     dfSC1 = dfSC1[ dfSC1['levels']<=lvl1 ] # filter feature availale at this level
     
@@ -502,7 +502,7 @@ def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1
         ##### SOUS CLASS 2 #####
         dfSC2 = pd.read_csv('./subclasses/' + str.lower(class2) +
                                'Sc.csv', index_col=0).fillna('')
-        
+        dfSC2['levels']=pd.to_numeric(dfSC2['levels'], errors='coerce').fillna(0).astype(int) # bug management
         dfSC2 = dfSC2[ dfSC2['subclass']==sc2 ] # selcet the subclaass
         dfSC2 = dfSC2[ dfSC2['levels']<=lvl2 ] # filter feature availale at this level
         
