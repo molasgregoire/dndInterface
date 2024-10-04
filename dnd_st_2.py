@@ -398,8 +398,9 @@ def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1
     ##### RACE #####
     dfRace = pd.read_csv('./races/allRaces.csv')
     # dfRace = pd.read_csv( './races/'+race+'Comb.csv' )
-    dfRace = dfRace[dfRace['subrace'] == race].fillna('')
     dfRace['subrace'] = dfRace['subrace'].str.lower()
+    dfRace = dfRace[dfRace['subrace'] == str.lower(race)].fillna('')
+    
 
     dfJson = ajoutText(dfJson,  'RaceHeader',
                        '======= RACE =======', 'Race', race, '', flag=0)
