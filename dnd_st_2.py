@@ -472,6 +472,7 @@ def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1
         dfJson = ajoutText(dfJson,  'SClass1-'+str(idx), row['contability_FR'], 'Class', sc1 + ' niv .' + str(
             row['levels']), row['content_FR'], flag=0)
     
+    dfJson = jsonVariable(dfJson, 'name', 'current', 'subclass', sc1)
     
     ##### CLASS 2 #####
     if (class2):
@@ -511,6 +512,7 @@ def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1
             dfJson = ajoutText(dfJson,  'SClass2-'+str(idx), row['contability_FR'], 'Class', sc2 + ' niv .' + str(
                 row['levels']), row['content_FR'], flag=0)
             
+        dfJson = jsonVariable(dfJson, 'name', 'current', 'multiclass1_subclass', sc2)
             
     dfJson = jsonVariable(dfJson, 'name', 'current',
                           'class_display', classDisplay)
