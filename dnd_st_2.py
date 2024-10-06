@@ -145,7 +145,8 @@ def jsonVariable(df, col1, col2, value_to_match, replacement_value):
         df.loc[mask, col2] = replacement_value
     else:
         # If no match is found, add a new row with the value_to_match in col1 and replacement_value in col2
-        df.loc[len(df)] = {col1: value_to_match, col2: replacement_value}
+        df.loc[len(df)] = {'name': value_to_match, 'current': replacement_value,
+                           'max'='','id'='-ajout_'+value_to_match}
 
     # Return the modified DataFrame
     return df
@@ -549,7 +550,7 @@ def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1
     return data
 
 # %% welcome and information
-st.title('LE CONSTRUCTEUR DE FICHE DE PERSONNAGE DES ARCHES PROTOTYYPE V1.1 :dragon: :fox_face: ')
+st.title('LE CONSTRUCTEUR DE FICHE DE PERSONNAGE DES ARCHES PROTOTYPE V1.2 :dragon: :fox_face: ')
 st.write('ceci est un prototype. pour le moment il s agit de collecter (et dafficher) les different information necessaire à la constructoin dun personnage')
 st.write('certaines choses devront dans tous les cas être faites à la main, ou hard coded')
 st.write('cette app ne comprend pas tout et reste un prototype')
@@ -567,30 +568,35 @@ st.text_input("nom perso", "Nom du personnage",
 
 # listRace = list_files_with_suffix(folder_path='./races/', suffix='Comb.csv')
 
-listRace = ['Aarakocra MPMM', 'Protector', 'Scourge',
-            'Fallen', 'Aasimar MPMM',
+listRace = ['Aarakocra MPMM', 
+            #'Protector', 'Scourge','Fallen', 
+            'Aasimar MPMM',
             'autognome',
             'Bugbear MPMM', 'Centaur MPMM', 'Changeling MPMM',
             'dhampir',  # 'Dhampir Hungers', 'Dhampir Origins',
-            'disembodied',
+            #'disembodied',
             'dragonborn', 'Dragonborn Variant: Draconbloods', 'Dragonborn Variant: Ravenite',
             'Variant Dragonborn: Chromatic Dragonborn', 'Variant Dragonborn: Metallic Dragonborn',
             'Variant Dragonborn: Gem Dragonborn',
             'dwarf', 'Hill Dwarf', 'Mountain Dwarf', 'Mark of Warding', 'Duergar MPMM',
             # 'Eladrin (Variant)',
-            'elf', 'Drow', 'High Elf', 'Wood Elf', 'Eladrin',
-            'Shadar-kai',  # 'Elves of Aerenal', 'Aereni Wood Elf', 'Sea Elf',
-            'Valenar Wood Elf', 'Mark of Shadow', 'Pallid Elf', 'Eladrin MPMM', 'Sea Elf MPMM',
-            'Shadar-Kai MPMM', 'Elf Variant: Astral Elf', 'fairy', 'firbolg',
+            #'elf', 
+            'Drow', 'High Elf', 'Wood Elf', #'Eladrin',
+            #'Shadar-kai',  # 'Elves of Aerenal', 'Aereni Wood Elf', 'Sea Elf',
+            #'Valenar Wood Elf', 
+            'Mark of Shadow', 'Pallid Elf', 'Eladrin MPMM', 'Sea Elf MPMM',
+            'Shadar-Kai MPMM', 'Elf Variant: Astral Elf', 'fairy', #'firbolg',
             'Firbolg MPMM',
             # 'genasi',
             'Genasi (Air) MPMM', 'Genasi (Earth) MPMM', 'Genasi (Fire) MPMM', 'Genasi (Water) MPMM',
             'giff',
-            'gith',
+            #'gith',
             'Githyanki MPMM', 'Githzerai MPMM',
-            'gnome', 'Forest Gnome', 'Rock Gnome', 'Born of Deep Earth', 'Master Miners',
+            #'gnome', 
+            'Forest Gnome', 'Rock Gnome',# 'Born of Deep Earth', #'Master Miners',
             # 'Deep Dwellers', 'Scouts and Spies', 'Deep Gnome Names', 'Deep Gnome Traits',
             # 'Mark of Scribing',
+            'Gnome Mark of Scribing',
             'Deep Gnome MPMM',
             'Goblin MPMM',
             'Goliath MPMM', 'hadozee',
@@ -600,10 +606,12 @@ listRace = ['Aarakocra MPMM', 'Protector', 'Scourge',
             'Variant Half-Elf: Wood Elf Descent)', 'Variant Half-Elf: Mark of Detection',
             'Variant Half-Elf: Mark of Storm',
             'half-orc', 'Variant Half-Orc: Mark of Finding',
-            'halfling', 'Lightfoot Halfling', 'Stout Halfling', 'Ghostwise Halfling',
+            #'halfling', 
+            'Lightfoot Halfling', 'Stout Halfling', 'Ghostwise Halfling',
             'Mark of Healing', 'Mark of Hospitality', 'Lotusden Halflings',
-            'Harengon Traits',
-            'hexblood', 'Hexblood Origins', 'Becoming a Hag',
+            #'Harengon Traits',
+            'hexblood', #'Hexblood Origins', 
+            'Becoming a Hag',
             'Hobgoblin MPMM',
             'human', 'Variant Human',
             'Variant Human: Mark of Finding', 'Variant Human: Mark of Handling',
@@ -611,13 +619,13 @@ listRace = ['Aarakocra MPMM', 'Protector', 'Scourge',
             'Variant Human: Mark of Sentinel',
             'kalashtar', 'kender',
             'Kenku MPMM', 'Kobold MPMM', 'leonin',
-            'Lizardfolk MPMM', 'loxodon', 'mapach',
+            'Lizardfolk MPMM', 'loxodon', #'mapach',
             'Minotaur MPMM', 'Orc MPMM',
             'owlin', 'plasmoid', 'reborn',  # 'Lost Memories', 'Reborn Origins',
             'Satyr MPMM',
             'Shifter MPMM', 'simic-hybrid',  # 'Animal Enhancement',
-            'strig', 'Stout Strig',
-            'Swift Strig',  'Tabaxi MPMM', 'thri-kreen',
+            #'strig', 'Stout Strig','Swift Strig',
+            'Tabaxi MPMM', 'thri-kreen',
             'tiefling', 'Bloodline of Asmodeus', 'Bloodline of Baalzebul',
             'Bloodline of Dispater', 'Bloodline of Fierna', 'Bloodline of Glasya',
             'Bloodline of Levistus', 'Bloodline of Mammon', 'Bloodline of Mephistopheles',
@@ -625,7 +633,7 @@ listRace = ['Aarakocra MPMM', 'Protector', 'Scourge',
             'Variant Tiefling: Feral',
             "Variant Tiefling: Devil's Tongue",
             'Variant Tiefling: Hellfire', 'Variant Tiefling: Winged',
-            'Tortle MPMM', 'Triton MPMM', 'vedalken', 'verdan', 'warforged', 'wechselkind',
+            'Tortle MPMM', 'Triton MPMM', 'vedalken', 'verdan', 'warforged', #'wechselkind',
             'Yuan-Ti MPMM']
 
 dfRace = loadDataFrame('./races/allRaces.csv')
@@ -668,7 +676,7 @@ dictEnFrClass = {
     "Paladin": 'Paladin',
     "Ranger": 'Rodeur',
     "Rogue": 'Roublard',
-    "Sorcerer": 'Sorcier',
+    "Sorcerer": 'Ensorceleur',
     "Warlock": 'Occultiste',
     "Wizard": 'Magicien',
     "Artificer": 'Artificier'
@@ -799,7 +807,9 @@ for c, s in zip(colStat, statsName):
 #%%
 
 st.multiselect(label='Selectionnez vos bonus de race (3 au choix)',
-               options=['FOR +1', 'FOR +1', 'DEX +1', 'DEX +1', 'CON +1', 'CON +1', 'INT +1', 'INT +1', 'SAG +1', 'SAG +1', 'CHA +1', 'CHA +1',], key='bonusRacial',
+               options=['FOR +1', 'FOR +1','FOR +1', 'DEX +1','DEX +1', 'DEX +1', 'CON +1','CON +1', 'CON +1',
+                        'INT +1', 'INT +1','INT +1', 'SAG +1', 'SAG +1','SAG +1', 'CHA +1','CHA +1', 'CHA +1',], 
+               key='bonusRacial',
                )#max_selections=3)
 
 # %% test bonus dons
@@ -807,7 +817,7 @@ st.multiselect(label='Selectionnez vos bonus de race (3 au choix)',
 
 def detect_stats_in_string(input_string):
     # List of D&D stat abbreviations in the order they correspond to a list of 6 elements
-    stats = ['str', 'con', 'dex', 'int', 'wis', 'cha']
+    stats = ['str', 'dex', 'con', 'int', 'wis', 'cha']
 
     # Detect which stats are present in the input string (case insensitive)
     present_stats = [stat for stat in stats if stat in input_string.lower()]
