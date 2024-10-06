@@ -850,7 +850,7 @@ for i in lsDonsAsi:
 
     # st.write(listStat)
 
-    st.multiselect(label=i, options=['str','str', 'dex','dex','con','con', 'int','int', 'wis','wis', 'cha','cha'], key=i,
+    st.multiselect(label=i, options=['FOR','FOR', 'DEX','DEX','CON','CON', 'INT','INT', 'SAG','SAG', 'CHA','CHA'], key=i,
                    max_selections=2)
 
 listBonusDons = [st.session_state[d] for d in lsDonsNoAsi] + [i  for d in lsDonsAsi for i in st.session_state[d]] 
