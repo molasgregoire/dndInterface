@@ -32,7 +32,7 @@ if 'dons' not in st.session_state:
 #     st.session_state['nom'] = ''
 
 listInitString = ['character_appearance','character_backstory','allies_and_organization',
-                  'ideals','bonds','flaws','alignment','discordPV']
+                  'ideals','bonds','flaws','alignment','discordPV','personality_traits']
 for i in listInitString:
     if i not in st.session_state:
         st.session_state[i] = ''
@@ -339,7 +339,7 @@ def buildCharacterV1(nomPerso, stats, pvs, race, class1, lvl1, class2, lvl2, bac
 #     }
 
 def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1, lvl1, class2, sc2, lvl2, background, feats,
-                     character_appearance,character_backstory,allies_and_organization,ideals,bonds,flaws,Alignment,
+                     character_appearance,character_backstory,personality_traits,allies_and_organization,ideals,bonds,flaws,Alignment,
                      fileName='newFile'):
     with open('./json/Fiche Tres Vide.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
@@ -533,13 +533,15 @@ def buildCharacterV2(nomPerso, stats, discStats, pvs, discPvs, race, class1, sc1
                            serieFeatTmp['Descri. Fr'], flag=0)
     #### NEW PART
     
-    # character_appearance,character_backstory,allies_and_organization,ideals,bonds,flaws,Alignment
+    # character_appearance,character_backstory,personality_traits,allies_and_organization,ideals,bonds,flaws,Alignment
     dfJson = jsonVariable(dfJson, 'name', 'current', 'character_appearance', character_appearance)
     dfJson = jsonVariable(dfJson, 'name', 'current', 'allies_and_organization', allies_and_organization)
     dfJson = jsonVariable(dfJson, 'name', 'current', 'ideals', ideals)
     dfJson = jsonVariable(dfJson, 'name', 'current', 'bonds', bonds)
     dfJson = jsonVariable(dfJson, 'name', 'current', 'flaws', flaws)
-    dfJson = jsonVariable(dfJson, 'name', 'current', 'alignment', Alignment)
+    dfJson = jsonVariable(dfJson, 'name', 'current', 'alignment', Alignment)    
+    dfJson = jsonVariable(dfJson, 'name', 'current', 'personality_traits', personality_traits)
+    dfJson = jsonVariable(dfJson, 'name', 'current', 'character_backstory', character_backstory)
     
     #####
     # INPUT DATA TO JSON AND SAVE FILE
@@ -885,12 +887,16 @@ st.text_input(label="Décrivez l'apparence de votre personnage",
               key='character_appearance')
 
 st.text_input(label="Parlez nous de son histoire (backstory)",
-              key='character_backstory ')
+              key='character_backstory')
+
+
+st.text_input(label="Décivez sa personnalité et son caractère",
+              key='personality_traits')
 
 st.text_input(label="Et concernant ses alliées ? Ses allégeances ? Des organisations ?",
-              key='allies_and_organization ')
+              key='allies_and_organization')
 
-st.text_input(label="Quels sont ses idéaux et ses buts ?", key='ideals ')
+st.text_input(label="Quels sont ses idéaux et ses buts ?", key='ideals')
 
 st.text_input(label="Et ses liens ?", key='bonds')
 
@@ -1023,6 +1029,9 @@ if (buttonActiv):
                             feats=listDonsInput,
                          character_appearance=st.session_state['character_appearance'],
                          character_backstory=st.session_state['character_backstory'],
+                         
+                         personality_traits=st.session_state['personality_traits'],
+                         
                          allies_and_organization=st.session_state['allies_and_organization'],
                          ideals=st.session_state['ideals'],
                          bonds=st.session_state['bonds'],
