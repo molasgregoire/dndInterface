@@ -13,7 +13,7 @@ st.set_page_config(
 select = '--- Selectionnez ---'
 
 listInitSelect = ['race', 'sousrace', 'classe1',
-            'sousClass1', 'classe2', 'sousClass2', 'historique']
+            'sousClasse1', 'classe2', 'sousClasse2', 'historique']
 
 for i in listInitSelect:
     if i not in st.session_state:
