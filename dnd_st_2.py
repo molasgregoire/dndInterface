@@ -146,7 +146,7 @@ def jsonVariable(df, col1, col2, value_to_match, replacement_value):
     else:
         # If no match is found, add a new row with the value_to_match in col1 and replacement_value in col2
         df.loc[len(df)] = {'name': value_to_match, 'current': replacement_value,
-                           'max'='','id'='-ajout_'+value_to_match}
+                           'max':'','id':'-ajout_'+value_to_match}
 
     # Return the modified DataFrame
     return df
